@@ -1,0 +1,789 @@
+1363503965770073
+Catastrophy<>红魔馆的守门人
+4<>5
+91.8<>76
+1
+40
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">红魔馆的守门人</div>
+总级别 : 380<br>
+平均级别 : 76<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 367<br>
+平均级别 : 91.8<br>
+总HP : 8423/8423</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:68px -20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:52px 20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:22px 65px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:20px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:119px 40px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:340px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_212fe.gif);background-repeat:no-repeat;background-position:382px 107px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2639/2639</span><br />
+<span class="support">SP : 787/787</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1924/1924</span><br />
+<span class="support">SP : 895/895</span>
+</div>
+<span class="bold">Crescent</span>
+<div class="hpsp">
+<span class="recover">HP : 1558/1558</span><br />
+<span class="support">SP : 1342/1342</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  41</span> 伤害 (2639 > 2598)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Crescent</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  247</span> 伤害 (1558 > 1311)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2598 > 2507)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  247</span> 伤害 (1311 > 1064)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(C)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  241</span> 伤害 (2302 > 2061)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  329</span> 伤害 (1924 > 1595)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  247</span> 伤害 (1064 > 817)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2507 > 2416)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  241</span> 伤害 (2061 > 1820)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  329</span> 伤害 (1595 > 1266)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  247</span> 伤害 (817 > 570)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2416 > 2325)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Satania</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Satania</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Crescent</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Crescent</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Crescent</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  310</span> 伤害 (2526 > 2216)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (2325 > 2265)<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  310</span> 伤害 (2216 > 1906)<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  310</span> 伤害 (1906 > 1596)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (2265 > 2205)<br />
+<span class="bold">武神</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">Pumpkin</span> DEF 提升 20%<br />
+<span class="bold">Pumpkin</span> MDEF 提升 60%<br />
+<span class="bold">Satania</span> DEF 提升 20%<br />
+<span class="bold">Satania</span> MDEF 提升 60%<br />
+<span class="bold">Crescent</span> DEF 提升 20%<br />
+<span class="bold">Crescent</span> MDEF 提升 60%<br />
+<span class="bold">Onioniony</span> DEF 提升 20%<br />
+<span class="bold">Onioniony</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  2041</span> 伤害 (1596 > -445)<br />
+<span class="bold">陨石龟(A)</span> delayed (-31<span style="font-size:80%"> >>> </span>-81/100).<br />
+<span class="dmg"><span class="bold">陨石龟(A)</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:68px -20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:52px 20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:22px 65px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:20px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:119px 40px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:340px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_212fe.gif);background-repeat:no-repeat;background-position:382px 107px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1650/1700</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1500/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1500/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 760/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2205/2639</span><br />
+<span class="support">SP : 637/787</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1820/2302</span><br />
+<span class="support">SP : 1080/1530</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1266/1924</span><br />
+<span class="support">SP : 345/895</span>
+</div>
+<span class="bold">Crescent</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 570/1558</span><br />
+<span class="support">SP : 1342/1342</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1820 > 1744)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (1266 > 1145)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (570 > 488)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (2205 > 2151)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">264 HP</span></span> (2151 > 2415)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">79 SP</span></span> (637 > 716)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (1145 > 1024)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (1024 > 903)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1744 > 1668)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(C)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1668 > 1592)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (903 > 782)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (488 > 406)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (2415 > 2361)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Crescent</span><img src="./image/icon/skill_006d.png" class="vcent"/>神沙风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(A)</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (1400 > 1384)<br />
+<span class="bold">菲萨丽丝(A)</span> delayed (27<span style="font-size:80%"> >>> </span>-73/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(B)</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (1400 > 1384)<br />
+<span class="bold">菲萨丽丝(B)</span> delayed (27<span style="font-size:80%"> >>> </span>-73/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  29</span> 伤害 (??? > ???)<br />
+<span class="bold">红美玲</span> delayed (100<span style="font-size:80%"> >>> </span>80/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">武神</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (2400 > 2384)<br />
+<span class="bold">武神</span> delayed (94<span style="font-size:80%"> >>> </span>-6/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(C)</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (1400 > 1384)<br />
+<span class="bold">菲萨丽丝(C)</span> delayed (-23<span style="font-size:80%"> >>> </span>-123/100).<br />
+存活者获得 4 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  2041</span> 伤害 (2361 > 320)<br />
+<span class="bold">Onioniony</span> delayed (22<span style="font-size:80%"> >>> </span>-29/100).<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1592 > 1822)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1080 > 1233)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Crescent</span><span class="recover"> 自动回复 <span class="bold">156 HP</span></span> (406 > 562)<br />
+<span class="support">* </span><span class="bold">Crescent</span><span class="support"> 自动回复 <span class="bold">134 SP</span></span> (742 > 876)<br />
+<span class="charge"><span class="bold">Crescent</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">802 HP</span></span>(1822 > 2302)<br />
+<span class="bold">Satania</span> <span class="recover">回复了 <span class="bold">802 HP</span></span>(782 > 1584)<br />
+<span class="bold">Crescent</span> <span class="recover">回复了 <span class="bold">802 HP</span></span>(562 > 1364)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">802 HP</span></span>(320 > 1122)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>虎劲</div>
+<span class="bold">红美玲</span> <span class="recover">回复了 <span class="bold">363 HP</span></span>(??? > ???)<br />
+<span class="bold">红美玲</span> STR 提升 30%<br />
+<span class="bold">红美玲</span> SPD 提升 30%<br />
+<span class="bold">红美玲</span> ATK 提升 30%<br />
+<span class="bold">红美玲</span> DEF 提升 30%<br />
+<span class="bold">红美玲</span> MDEF 提升 30%<br />
+<span class="bold">红美玲</span> <span class="support">回复了 <span class="bold">450 SP</span></span>(??? > ???)<br />
+<span class="bold">红美玲</span> STR 提升 30%<br />
+<span class="bold">红美玲</span> SPD 提升 30%<br />
+<span class="bold">红美玲</span> ATK 提升 30%<br />
+<span class="bold">红美玲</span> DEF 提升 30%<br />
+<span class="bold">红美玲</span> MDEF 提升 30%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1122 > 1062)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  258</span> 伤害 (1364 > 1106)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1062 > 1002)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1002 > 942)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  294</span> 伤害 (1584 > 1290)<br />
+<span class="bold">武神</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">264 HP</span></span> (942 > 1206)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">79 SP</span></span> (566 > 645)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (1106 > 1024)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (1290 > 1169)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1206 > 1152)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:68px -20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:52px 20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:22px 65px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:20px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:119px 40px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:340px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_212fe.gif);background-repeat:no-repeat;background-position:382px 107px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1400/1700</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1450/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1300/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神</span>
+<div class="hpsp">
+<span class="recover">HP : 2384/2400</span><br />
+<span class="support">SP : 720/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 1152/2639</span><br />
+<span class="support">SP : 645/787</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1173/1530</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1169/1924</span><br />
+<span class="support">SP : 345/895</span>
+</div>
+<span class="bold">Crescent</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1024/1558</span><br />
+<span class="support">SP : 876/1342</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (2302 > 2226)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (1169 > 1048)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (1024 > 942)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1152 > 1098)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>98/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>彩光乱舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  1005</span> 伤害 (2226 > 1221)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  1127</span> 伤害 (1048 > -79)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  1027</span> 伤害 (942 > -85)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  221</span> 伤害 (1098 > 877)<br />
+<span class="dmg"><span class="bold">Satania</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">Crescent</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1221 > 1451)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1173 > 1326)<br />
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_008.png" class="vcent"/>死者苏生</div>
+<span class="bold">Crescent</span> <span class="recover">复活</span>!<br />
+<span class="bold">Crescent</span> <span class="recover">回复了 <span class="bold">536 HP</span></span>(0 > 536)<br />
+<span class="bold">Satania</span> <span class="recover">复活</span>!<br />
+<span class="bold">Satania</span> <span class="recover">回复了 <span class="bold">536 HP</span></span>(0 > 536)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-250/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(C)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1451 > 1375)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (536 > 415)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (536 > 454)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (877 > 823)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  309</span> 伤害 (415 > 106)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1375 > 1299)<br />
+<span class="bold">Pumpkin</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (106 > -15)<br />
+<span class="bold">Satania</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (454 > 372)<br />
+<span class="bold">Crescent</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (823 > 769)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="dmg"><span class="bold">Satania</span> 被打倒.</span><br />
+<span class="bold">菲萨丽丝(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  252</span> 伤害 (1299 > 1047)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">264 HP</span></span> (769 > 1033)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">79 SP</span></span> (495 > 574)<br />
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_062.png" class="vcent"/>自我回复</div>
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">578 HP</span></span>(1033 > 1611)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Crescent</span><span class="recover"> 自动回复 <span class="bold">156 HP</span></span> (372 > 528)<br />
+<span class="support">* </span><span class="bold">Crescent</span><span class="support"> 自动回复 <span class="bold">134 SP</span></span> (876 > 1010)<br />
+<span class="charge"><span class="bold">Crescent</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1611 > 1557)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (528 > 446)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (1047 > 971)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:68px -20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:52px 20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:22px 65px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:20px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:119px 40px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:340px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:376px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_212fe.gif);background-repeat:no-repeat;background-position:382px 107px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1200/1700</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1200/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 1384/1400</span><br />
+<span class="support">SP : 1100/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神</span>
+<div class="hpsp">
+<span class="recover">HP : 2384/2400</span><br />
+<span class="support">SP : 720/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1557/2639</span><br />
+<span class="support">SP : 559/787</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 971/2302</span><br />
+<span class="support">SP : 826/1530</span>
+</div>
+<span class="bold dmg">Satania</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1924</span><br />
+<span class="dmg">SP : 345/895</span>
+</div>
+<span class="bold">Crescent</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 446/1558</span><br />
+<span class="support">SP : 1010/1342</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1557 > 1355)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (971 > 55)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (55 > -861)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  936</span> 伤害 (446 > -490)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1355 > 1153)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  936</span> 伤害 (-490 > -1426)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-861 > -1777)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-1777 > -2693)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-2693 > -3609)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-3609 > -4525)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1153 > 951)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Crescent</span></span> 受到<span class='dmg bold'>  936</span> 伤害 (-1426 > -2362)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-4525 > -5441)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (951 > 749)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  916</span> 伤害 (-5441 > -6357)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (749 > 547)<br />
+<span class="dmg"><span class="bold">Pumpkin</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">Crescent</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(C)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (547 > 493)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (493 > 439)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (439 > 385)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">264 HP</span></span> (385 > 649)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">79 SP</span></span> (559 > 638)<br />
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_062.png" class="vcent"/>自我回复</div>
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">578 HP</span></span>(649 > 1227)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1227 > 1167)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1167 > 1107)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1107 > 1047)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1047 > 987)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (987 > 927)<br />
+<span class="bold">武神</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  63</span> 伤害 (927 > 864)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (864 > 810)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (810 > 756)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(C)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (756 > 702)<br />
+<span class="bold">Onioniony</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">264 HP</span></span> (702 > 966)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">79 SP</span></span> (623 > 702)<br />
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_062.png" class="vcent"/>自我回复</div>
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">578 HP</span></span>(966 > 1544)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1544 > 1342)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1342 > 1140)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (1140 > 938)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (938 > 736)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (736 > 534)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (534 > 332)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (332 > 130)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (130 > -72)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-72 > -274)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-274 > -476)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-476 > -678)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-678 > -880)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-880 > -1082)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-1082 > -1284)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-1284 > -1486)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  202</span> 伤害 (-1486 > -1688)<br />
+<span class="dmg"><span class="bold">Onioniony</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s4"></a>
+<span style="font-size:200%">红魔馆的守门人 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 5/5<br />
+总伤害 : 29764<br />
+</td><td class="teams">残留HP : 0/8423<br />
+存活 : 0/4<br />
+总伤害 : 93<br />
+总经验值 : 15<br />
+</td></tr>
+</tbody></table>

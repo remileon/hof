@@ -1,0 +1,943 @@
+1359260454786974
+弱B团[3位]<>猛毒の風[2位]
+5<>6
+64<>70.8
+1
+46
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">猛毒の風[2位]</div>
+总级别 : 354<br>
+平均级别 : 70.8<br>
+总HP : 7247/7247</td><td class="teams ttd1"><div class="bold">弱B团[3位]</div>
+总级别 : 320<br>
+平均级别 : 64<br>
+总HP : 6950/6950</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:69px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:52px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112ma.gif);background-repeat:no-repeat;background-position:115px 20px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_321fe.gif);background-repeat:no-repeat;background-position:110px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:333px -4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321fe.gif);background-repeat:no-repeat;background-position:356px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:377px 80px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:381px 110px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1097/1097</span><br />
+<span class="support">SP : 295/295</span>
+</div>
+<span class="bold">白龙·琪莎拉</span>
+<div class="hpsp">
+<span class="recover">HP : 1003/1003</span><br />
+<span class="support">SP : 722/722</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1450/1450</span><br />
+<span class="support">SP : 590/590</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">骑士·盖亚</span>
+<div class="hpsp">
+<span class="recover">HP : 2531/2531</span><br />
+<span class="support">SP : 467/467</span>
+</div>
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 1166/1166</span><br />
+<span class="support">SP : 756/756</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑色协奏曲</span>
+<div class="hpsp">
+<span class="recover">HP : 1951/1951</span><br />
+<span class="support">SP : 369/369</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">命运女郎·莱蒂</span>
+<div class="hpsp">
+<span class="recover">HP : 1440/1440</span><br />
+<span class="support">SP : 853/853</span>
+</div>
+<span class="bold">牧师妹</span>
+<div class="hpsp">
+<span class="recover">HP : 1543/1543</span><br />
+<span class="support">SP : 428/428</span>
+</div>
+<span class="bold">固定炮台</span>
+<div class="hpsp">
+<span class="recover">HP : 1109/1109</span><br />
+<span class="support">SP : 255/255</span>
+</div>
+<span class="bold">saber</span>
+<div class="hpsp">
+<span class="recover">HP : 907/907</span><br />
+<span class="support">SP : 515/515</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">命运女郎·莱蒂</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">牧师妹</span> MAXHP(1543) 提升到 4629<br />
+<span class="bold">牧师妹</span> INT 提升 60%<br />
+<span class="bold">牧师妹</span> DEF 提升 35%<br />
+<span class="bold">牧师妹</span> MDEF 提升 35%<br />
+<span class="bold">牧师妹</span> <span class="recover">回复了 <span class="bold">2315 HP</span></span>(1543 > 3858)<br />
+<span class="bold">牧师妹</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">椿姬·提泰妮娅</span> MAXHP(1166) 提升到 3498<br />
+<span class="bold">椿姬·提泰妮娅</span> INT 提升 60%<br />
+<span class="bold">椿姬·提泰妮娅</span> DEF 提升 35%<br />
+<span class="bold">椿姬·提泰妮娅</span> MDEF 提升 35%<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">1749 HP</span></span>(1166 > 2915)<br />
+<span class="bold">椿姬·提泰妮娅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">命运女郎·莱蒂</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续回复</div>
+<span class="bold">命运女郎·莱蒂</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">黑色协奏曲</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">牧师妹</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">固定炮台</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">saber</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">命运女郎·莱蒂</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">白龙·琪莎拉</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">白龙·琪莎拉</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">saber</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (515 > 515)<br />
+<div class="u"><span class="bold">saber</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">冥府·格斯</span> delayed (41<span style="font-size:80%"> >>> </span>-59/100).<br />
+<span class="bold">陨石龟(A)</span> delayed (80<span style="font-size:80%"> >>> </span>-20/100).<br />
+<span class="bold">saber</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_059z.png" class="vcent"/>超限</div>
+<span class="bold">骑士·盖亚</span> STR 提升 80%<br />
+<span class="bold">骑士·盖亚</span> MAXHP(2531) 下降到 2025<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">守护者·艾亚托斯</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">黑色协奏曲</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (369 > 369)<br />
+<span class="charge"><span class="bold">黑色协奏曲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">固定炮台</span><span class="support"> 自动回复 <span class="bold">13 SP</span></span> (255 > 255)<br />
+<span class="charge"><span class="bold">固定炮台</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">黑色协奏曲</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1097 > 808)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (2025 > 1736)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (2915 > 2626)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">白龙·琪莎拉</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1003 > 714)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1450 > 1161)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (2338 > 2049)<br />
+<span class="bold">黑色协奏曲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  721</span> 伤害 (1951 > 1230)<br />
+<span class="bold">骑士·盖亚</span> 移到后排.<br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲散射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">命运女郎·莱蒂</span></span> 受到<span class='dmg bold'>  525</span> 伤害 (1440 > 915)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  525</span> 伤害 (1230 > 705)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  525</span> 伤害 (3858 > 3333)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">固定炮台</span></span> 受到<span class='dmg bold'>  525</span> 伤害 (1109 > 584)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  525</span> 伤害 (907 > 382)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">命运女郎·莱蒂</span><span class="support"> 自动回复 <span class="bold">43 SP</span></span> (703 > 746)<br />
+<div class="u"><span class="bold">命运女郎·莱蒂</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">黑色协奏曲</span> <span class="recover">回复了 <span class="bold">417 HP</span></span>(705 > 1122)<br />
+<span class="bold">saber</span> <span class="recover">回复了 <span class="bold">417 HP</span></span>(382 > 799)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:73px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112ma.gif);background-repeat:no-repeat;background-position:30px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:44px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:16px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:137px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:333px -4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:356px 46px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:377px 80px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:381px 110px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 808/1097</span><br />
+<span class="support">SP : 95/295</span>
+</div>
+<span class="bold">骑士·盖亚</span>
+<div class="hpsp">
+<span class="recover">HP : 1736/2025</span><br />
+<span class="support">SP : 397/467</span>
+</div>
+<span class="bold">白龙·琪莎拉</span>
+<div class="hpsp">
+<span class="recover">HP : 714/1003</span><br />
+<span class="support">SP : 172/722</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1161/1450</span><br />
+<span class="support">SP : 590/590</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 2626/3498</span><br />
+<span class="support">SP : 456/756</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2049/2338</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑色协奏曲</span>
+<div class="hpsp">
+<span class="recover">HP : 1122/1951</span><br />
+<span class="support">SP : 249/369</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">命运女郎·莱蒂</span>
+<div class="hpsp">
+<span class="recover">HP : 915/1440</span><br />
+<span class="support">SP : 706/853</span>
+</div>
+<span class="bold">牧师妹</span>
+<div class="hpsp">
+<span class="recover">HP : 3333/4629</span><br />
+<span class="support">SP : 128/428</span>
+</div>
+<span class="bold">固定炮台</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 584/1109</span><br />
+<span class="support">SP : 255/255</span>
+</div>
+<span class="bold">saber</span>
+<div class="hpsp">
+<span class="recover">HP : 799/907</span><br />
+<span class="support">SP : 415/515</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">固定炮台</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲散射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (808 > 74)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (1736 > 1002)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (2626 > 1892)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">白龙·琪莎拉</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (714 > -20)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (1161 > 427)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  734</span> 伤害 (2049 > 1315)<br />
+<span class="dmg"><span class="bold">白龙·琪莎拉</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">黑色协奏曲</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (249 > 267)<br />
+<span class="charge"><span class="bold">黑色协奏曲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">命运女郎·莱蒂</span></span> 受到<span class='dmg bold'>  277</span> 伤害 (915 > 638)<br />
+<span class="bold">命运女郎·莱蒂</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  212</span> 伤害 (1122 > 910)<br />
+<span class="bold">黑色协奏曲</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  205</span> 伤害 (3333 > 3128)<br />
+<span class="bold">牧师妹</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">固定炮台</span></span> 受到<span class='dmg bold'>  438</span> 伤害 (584 > 146)<br />
+<span class="bold">固定炮台</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  188</span> 伤害 (799 > 611)<br />
+<span class="bold">saber</span> SPD 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">黑色协奏曲</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (74 > -215)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1002 > 713)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1892 > 1603)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (427 > 138)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1315 > 1026)<br />
+<span class="dmg"><span class="bold">守护者·艾亚托斯</span> 被打倒.</span><br />
+<span class="bold">黑色协奏曲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">saber</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (415 > 441)<br />
+<div class="u"><span class="bold">saber</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">陨石龟(A)</span> delayed (80<span style="font-size:80%"> >>> </span>-121/100).<br />
+<span class="bold">saber</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (128 > 149)<br />
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">命运女郎·莱蒂</span> <span class="support">回复了 <span class="bold">88 SP</span></span>(706 > 794)<br />
+<span class="bold">黑色协奏曲</span> <span class="support">回复了 <span class="bold">58 SP</span></span>(147 > 205)<br />
+<span class="bold">牧师妹</span> <span class="support">回复了 <span class="bold">63 SP</span></span>(149 > 212)<br />
+<span class="bold">固定炮台</span> <span class="support">回复了 <span class="bold">48 SP</span></span>(55 > 103)<br />
+<span class="bold">saber</span> <span class="support">回复了 <span class="bold">69 SP</span></span>(381 > 450)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+治疗x2!<br /><span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">686 HP</span></span>(138 > 824)<br />
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(713 > 1056)<br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1026 > 1369)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">命运女郎·莱蒂</span><span class="support"> 自动回复 <span class="bold">43 SP</span></span> (794 > 837)<br />
+<div class="u"><span class="bold">命运女郎·莱蒂</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">固定炮台</span> <span class="recover">回复了 <span class="bold">417 HP</span></span>(146 > 563)<br />
+<span class="bold">命运女郎·莱蒂</span> <span class="recover">回复了 <span class="bold">417 HP</span></span>(638 > 1055)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">固定炮台</span><span class="support"> 自动回复 <span class="bold">13 SP</span></span> (103 > 116)<br />
+<span class="charge"><span class="bold">固定炮台</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_033.png" class="vcent"/>奋勇冲锋</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">命运女郎·莱蒂</span></span> 受到<span class='dmg bold'>  1034</span> 伤害 (1055 > 21)<br />
+<span class="bold">骑士·盖亚</span> 移到前排.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  64</span> 伤害 (910 > 846)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">命运女郎·莱蒂</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (21 > -307)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  230</span> 伤害 (3128 > 2898)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  230</span> 伤害 (2898 > 2668)<br />
+<span class="dmg"><span class="bold">命运女郎·莱蒂</span> 被打倒.</span><br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">固定炮台</span><img src="./image/icon/item_042.png" class="vcent"/>麻痹射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  40</span> 伤害 (824 > 784)<br />
+<span class="bold">冥府·格斯</span> delayed (95<span style="font-size:80%"> >>> </span>15/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (212 > 233)<br />
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">黑色协奏曲</span> <span class="support">回复了 <span class="bold">58 SP</span></span>(205 > 263)<br />
+<span class="bold">牧师妹</span> <span class="support">回复了 <span class="bold">63 SP</span></span>(233 > 296)<br />
+<span class="bold">固定炮台</span> <span class="support">回复了 <span class="bold">48 SP</span></span>(106 > 154)<br />
+<span class="bold">saber</span> <span class="support">回复了 <span class="bold">69 SP</span></span>(450 > 515)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:76px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112ma.gif);background-repeat:no-repeat;background-position:122px 4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:124px 66px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:80px 102px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:356px 46px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:377px 80px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:381px 110px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1097</span><br />
+<span class="dmg">SP : 95/295</span>
+</div>
+<span class="bold dmg">白龙·琪莎拉</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1003</span><br />
+<span class="dmg">SP : 172/722</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 784/1450</span><br />
+<span class="support">SP : 290/590</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">骑士·盖亚</span>
+<div class="hpsp">
+<span class="recover">HP : 1056/2025</span><br />
+<span class="support">SP : 367/467</span>
+</div>
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 1603/3498</span><br />
+<span class="support">SP : 426/756</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1369/2338</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑色协奏曲</span>
+<div class="hpsp">
+<span class="recover">HP : 846/1951</span><br />
+<span class="support">SP : 263/369</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">命运女郎·莱蒂</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1440</span><br />
+<span class="dmg">SP : 797/853</span>
+</div>
+<span class="bold">牧师妹</span>
+<div class="hpsp">
+<span class="recover">HP : 2668/4629</span><br />
+<span class="support">SP : 296/428</span>
+</div>
+<span class="bold">固定炮台</span>
+<div class="hpsp">
+<span class="recover">HP : 563/1109</span><br />
+<span class="support">SP : 154/255</span>
+</div>
+<span class="bold">saber</span>
+<div class="hpsp">
+<span class="recover">HP : 611/907</span><br />
+<span class="support">SP : 515/515</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1603 > 1946)<br />
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1056 > 1399)<br />
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(784 > 1127)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">黑色协奏曲</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (263 > 281)<br />
+<span class="charge"><span class="bold">黑色协奏曲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">黑色协奏曲</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1399 > 1110)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1946 > 1657)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1127 > 838)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1369 > 1080)<br />
+<span class="bold">黑色协奏曲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">牧师妹</span>(296 > 0)吸取 <span class="support"><span class="bold">421</span> SP</span>(280 > 590)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">saber</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (515 > 515)<br />
+<div class="u"><span class="bold">saber</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">陨石龟(A)</span> delayed (5<span style="font-size:80%"> >>> </span>-196/100).<br />
+<span class="bold">saber</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">固定炮台</span></span> 受到<span class='dmg bold'>  2922</span> 伤害 (563 > -2359)<br />
+<span class="bold">骑士·盖亚</span> 移到后排.<br />
+<span class="dmg"><span class="bold">固定炮台</span> 被打倒.</span><br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (0 > 21)<br />
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">黑色协奏曲</span> <span class="support">回复了 <span class="bold">58 SP</span></span>(161 > 219)<br />
+<span class="bold">牧师妹</span> <span class="support">回复了 <span class="bold">63 SP</span></span>(21 > 84)<br />
+<span class="bold">saber</span> <span class="support">回复了 <span class="bold">69 SP</span></span>(455 > 515)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1080 > 1423)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1657 > 2000)<br />
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1110 > 1453)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">黑色协奏曲</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (219 > 237)<br />
+<span class="charge"><span class="bold">黑色协奏曲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">黑色协奏曲</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1453 > 1164)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (2000 > 1711)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (838 > 549)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1423 > 1134)<br />
+<span class="bold">黑色协奏曲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  212</span> 伤害 (846 > 634)<br />
+<span class="bold">黑色协奏曲</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  205</span> 伤害 (2668 > 2463)<br />
+<span class="bold">牧师妹</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  188</span> 伤害 (611 > 423)<br />
+<span class="bold">saber</span> SPD 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (84 > 105)<br />
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">黑色协奏曲</span> <span class="support">回复了 <span class="bold">58 SP</span></span>(117 > 175)<br />
+<span class="bold">牧师妹</span> <span class="support">回复了 <span class="bold">63 SP</span></span>(105 > 168)<br />
+<span class="bold">saber</span> <span class="support">回复了 <span class="bold">69 SP</span></span>(515 > 515)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112ma.gif);background-repeat:no-repeat;background-position:30px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:16px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:137px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:356px 46px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:381px 110px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1097</span><br />
+<span class="dmg">SP : 95/295</span>
+</div>
+<span class="bold">骑士·盖亚</span>
+<div class="hpsp">
+<span class="recover">HP : 1164/2025</span><br />
+<span class="support">SP : 307/467</span>
+</div>
+<span class="bold dmg">白龙·琪莎拉</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1003</span><br />
+<span class="dmg">SP : 172/722</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 549/1450</span><br />
+<span class="support">SP : 290/590</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 1711/3498</span><br />
+<span class="support">SP : 366/756</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1134/2338</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑色协奏曲</span>
+<div class="hpsp">
+<span class="recover">HP : 634/1951</span><br />
+<span class="support">SP : 175/369</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">命运女郎·莱蒂</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1440</span><br />
+<span class="dmg">SP : 797/853</span>
+</div>
+<span class="bold">牧师妹</span>
+<div class="hpsp">
+<span class="recover">HP : 2463/4629</span><br />
+<span class="support">SP : 168/428</span>
+</div>
+<span class="bold dmg">固定炮台</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1109</span><br />
+<span class="dmg">SP : 154/255</span>
+</div>
+<span class="bold">saber</span>
+<div class="hpsp">
+<span class="recover">HP : 423/907</span><br />
+<span class="support">SP : 515/515</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(549 > 892)<br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1134 > 1477)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1711 > 2054)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_033.png" class="vcent"/>奋勇冲锋</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  307</span> 伤害 (634 > 327)<br />
+<span class="bold">骑士·盖亚</span> 移到前排.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  78</span> 伤害 (423 > 345)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  230</span> 伤害 (2463 > 2233)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  64</span> 伤害 (327 > 263)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  78</span> 伤害 (345 > 267)<br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">saber</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (515 > 515)<br />
+<div class="u"><span class="bold">saber</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">陨石龟(A)</span> delayed (-63<span style="font-size:80%"> >>> </span>-264/100).<br />
+<span class="bold">saber</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">saber</span>(455 > 34)吸取 <span class="support"><span class="bold">421</span> SP</span>(280 > 590)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1164 > 1507)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(2054 > 2397)<br />
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(892 > 1235)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (168 > 189)<br />
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">黑色协奏曲</span> <span class="support">回复了 <span class="bold">58 SP</span></span>(175 > 233)<br />
+<span class="bold">牧师妹</span> <span class="support">回复了 <span class="bold">63 SP</span></span>(189 > 252)<br />
+<span class="bold">saber</span> <span class="support">回复了 <span class="bold">69 SP</span></span>(34 > 103)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">saber</span></span> 受到<span class='dmg bold'>  1547</span> 伤害 (267 > -1280)<br />
+<span class="bold">骑士·盖亚</span> 移到后排.<br />
+<span class="dmg"><span class="bold">saber</span> 被打倒.</span><br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">黑色协奏曲</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (233 > 251)<br />
+<span class="charge"><span class="bold">黑色协奏曲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">黑色协奏曲</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·盖亚</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1507 > 1218)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (2397 > 2108)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1235 > 946)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  289</span> 伤害 (1477 > 1188)<br />
+<span class="bold">黑色协奏曲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1188 > 1531)<br />
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1218 > 1561)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(2108 > 2451)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  369</span> 伤害 (2233 > 1864)<br />
+<span class="bold">牧师妹</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  397</span> 伤害 (263 > -134)<br />
+<span class="bold">黑色协奏曲</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑色协奏曲</span></span> 受到<span class='dmg bold'>  672</span> 伤害 (-134 > -806)<br />
+<span class="bold">黑色协奏曲</span> MDEF 下降 50%<br />
+<span class="dmg"><span class="bold">黑色协奏曲</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112ma.gif);background-repeat:no-repeat;background-position:30px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:16px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:137px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:356px 46px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:400px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:296px 76px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1097</span><br />
+<span class="dmg">SP : 95/295</span>
+</div>
+<span class="bold">骑士·盖亚</span>
+<div class="hpsp">
+<span class="recover">HP : 1561/2025</span><br />
+<span class="support">SP : 217/467</span>
+</div>
+<span class="bold dmg">白龙·琪莎拉</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1003</span><br />
+<span class="dmg">SP : 172/722</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 946/1450</span><br />
+<span class="support">SP : 340/590</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 2451/3498</span><br />
+<span class="support">SP : 276/756</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1531/2338</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">黑色协奏曲</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1951</span><br />
+<span class="dmg">SP : 131/369</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">命运女郎·莱蒂</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1440</span><br />
+<span class="dmg">SP : 797/853</span>
+</div>
+<span class="bold">牧师妹</span>
+<div class="hpsp">
+<span class="recover">HP : 1864/4629</span><br />
+<span class="support">SP : 252/428</span>
+</div>
+<span class="bold dmg">固定炮台</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1109</span><br />
+<span class="dmg">SP : 154/255</span>
+</div>
+<span class="bold dmg">saber</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/907</span><br />
+<span class="dmg">SP : 103/515</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">牧师妹</span><span class="support"> 自动回复 <span class="bold">21 SP</span></span> (252 > 273)<br />
+<span class="charge"><span class="bold">牧师妹</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">牧师妹</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐愈合</div>
+<span class="bold">牧师妹</span> <span class="recover">回复了 <span class="bold">334 HP</span></span>(1864 > 2198)<br />
+<span class="bold">牧师妹</span> <span class="recover">回复了 <span class="bold">334 HP</span></span>(2198 > 2532)<br />
+<span class="bold">牧师妹</span> <span class="recover">回复了 <span class="bold">334 HP</span></span>(2532 > 2866)<br />
+<span class="bold">牧师妹</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">骑士·盖亚</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_072.png" class="vcent"/>冲破装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  246</span> 伤害 (2866 > 2620)<br />
+<span class="bold">牧师妹</span> DEF 下降 45%<br />
+<span class="bold">牧师妹</span> MDEF 下降 45%<br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(946 > 1289)<br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1531 > 1874)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(2451 > 2794)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  801</span> 伤害 (2620 > 1819)<br />
+<span class="bold">牧师妹</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  880</span> 伤害 (1819 > 939)<br />
+<span class="bold">牧师妹</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  919</span> 伤害 (939 > 20)<br />
+<span class="bold">牧师妹</span> MDEF 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_057.png" class="vcent"/>生命护盾</div>
+<span class="bold">骑士·盖亚</span> <span class="recover">回复了 <span class="bold">329 HP</span></span>(1561 > 1890)<br />
+<span class="support"><span class="bold">骑士·盖亚</span> got barriered!</span><br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">329 HP</span></span>(2794 > 3123)<br />
+<span class="support"><span class="bold">椿姬·提泰妮娅</span> got barriered!</span><br />
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">329 HP</span></span>(1289 > 1450)<br />
+<span class="support"><span class="bold">冥府·格斯</span> got barriered!</span><br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">329 HP</span></span>(1874 > 2203)<br />
+<span class="support"><span class="bold">陨石龟(A)</span> got barriered!</span><br />
+<span class="bold">椿姬·提泰妮娅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">骑士·盖亚</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·盖亚</span><img src="./image/icon/skill_072.png" class="vcent"/>冲破装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">牧师妹</span></span> 受到<span class='dmg bold'>  406</span> 伤害 (20 > -386)<br />
+<span class="bold">牧师妹</span> DEF 下降 45%<br />
+<span class="bold">牧师妹</span> MDEF 下降 45%<br />
+<span class="dmg"><span class="bold">牧师妹</span> 被打倒.</span><br />
+<span class="bold">骑士·盖亚</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s5"></a>
+<span style="font-size:200%">猛毒の風[2位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 8666/11411<br />
+存活 : 4/6<br />
+总伤害 : 9240<br />
+</td><td class="teams">残留HP : 0/10036<br />
+存活 : 0/5<br />
+总伤害 : 11091<br />
+</td></tr>
+</tbody></table>

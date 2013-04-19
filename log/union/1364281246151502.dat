@@ -1,0 +1,530 @@
+1364281246151502
+Catastrophy<>午餐时间
+1<>5
+55<>10.2
+0
+26
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">午餐时间</div>
+总级别 : 51<br>
+平均级别 : 10.2<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 55<br>
+平均级别 : 55<br>
+总HP : 1054/1054</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054ry.gif);background-repeat:no-repeat;background-position:69px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054.gif);background-repeat:no-repeat;background-position:38px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:124px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_053.gif);background-repeat:no-repeat;background-position:132px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_052.gif);background-repeat:no-repeat;background-position:120px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_231fe.gif);background-repeat:no-repeat;background-position:365px 50px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">午餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">小哥布林</span>
+<div class="hpsp">
+<span class="recover">HP : 250/250</span><br />
+<span class="support">SP : 120/120</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">哥布林坦克</span>
+<div class="hpsp">
+<span class="recover">HP : 800/800</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+<span class="bold">持斧哥布林</span>
+<div class="hpsp">
+<span class="recover">HP : 140/140</span><br />
+<span class="support">SP : 80/80</span>
+</div>
+<span class="bold">哥布林勇士</span>
+<div class="hpsp">
+<span class="recover">HP : 180/180</span><br />
+<span class="support">SP : 50/50</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Gevjonie</span>
+<div class="hpsp">
+<span class="recover">HP : 1054/1054</span><br />
+<span class="support">SP : 768/768</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_072z.png" class="vcent"/>破坏灵魂</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  33</span> 伤害 (1054 > 1021)<br />
+<span class="spdmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='spdmg bold'>  33</span> 伤害 (768 > 735)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1021 > 1015)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1015 > 1009)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1009 > 1003)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1003 > 997)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (997 > 991)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (991 > 985)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_079.png" class="vcent"/>毒烟</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克</span></span> 受到<span class='dmg bold'>  196</span> 伤害 (800 > 604)<br />
+<span class="bold">哥布林坦克</span><span class="spdmg">中毒了</span> !<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">持斧哥布林</span></span> 受到<span class='dmg bold'>  245</span> 伤害 (140 > -105)<br />
+<span class="bold">持斧哥布林</span><span class="spdmg">中毒了</span> !<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">午餐时间</span></span> 受到<span class='dmg bold'>  161</span> 伤害 (??? > ???)<br />
+<span class="bold">午餐时间</span><span class="spdmg">中毒了</span> !<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小哥布林</span></span> 受到<span class='dmg bold'>  218</span> 伤害 (250 > 32)<br />
+<span class="bold">小哥布林</span><span class="spdmg">中毒了</span> !<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林勇士</span></span> 受到<span class='dmg bold'>  232</span> 伤害 (180 > -52)<br />
+<span class="bold">哥布林勇士</span><span class="spdmg">中毒了</span> !<br />
+<span class="dmg"><span class="bold">持斧哥布林</span> 被打倒.</span><br />
+<span class="bold">持斧哥布林</span> 掉落了<img src="./image/icon/item_009z.png" class="vcent"/>
+<span class="bold u">石头</span>.<br />
+<span class="dmg"><span class="bold">哥布林勇士</span> 被打倒.</span><br />
+存活者获得 40 经验.<br />
+Catastrophy 获得 $&nbsp;200.<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">小哥布林</span> 由于中毒受到 <span class="bold">27</span> 伤害.
+(32 > 5)</span><br />
+<span class="charge"><span class="bold">小哥布林</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">15</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (985 > 975)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (975 > 965)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (965 > 955)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (955 > 945)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (945 > 935)<br />
+<span class="bold">午餐时间</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小哥布林</span><img src="./image/icon/skill_030z.png" class="vcent"/>雷击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  42</span> 伤害 (935 > 893)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">哥布林坦克</span> 由于中毒受到 <span class="bold">88</span> 伤害.
+(604 > 516)</span><br />
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (893 > 887)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (887 > 881)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (881 > 875)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (875 > 869)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (869 > 863)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (863 > 857)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_066.png" class="vcent"/>巨大化</div>
+<span class="bold">Gevjonie</span> MAXHP(1054) 提升到 2108<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">7</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (857 > 847)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (847 > 837)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (837 > 827)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (827 > 817)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (817 > 807)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (807 > 797)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">小哥布林</span> 由于中毒受到 <span class="bold">27</span> 伤害.
+(5 > 1)</span><br />
+<span class="charge"><span class="bold">小哥布林</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">哥布林坦克</span> 由于中毒受到 <span class="bold">88</span> 伤害.
+(516 > 428)</span><br />
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (797 > 791)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (791 > 785)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (785 > 779)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (779 > 773)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (773 > 767)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (767 > 761)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">哥布林坦克</span>(428 > 122)吸取 <span class="recover"><span class="bold">306</span> HP</span>(761 > 1067)<br />
+存活者获得 11 经验.<br />
+<span class="bold">Gevjonie</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054ry.gif);background-repeat:no-repeat;background-position:69px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054.gif);background-repeat:no-repeat;background-position:38px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:124px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:116px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_231fe.gif);background-repeat:no-repeat;background-position:365px 50px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold spdmg">午餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold spdmg">小哥布林</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1/250</span><br />
+<span class="support">SP : 90/120</span>
+</div>
+</td><td style="width:50%">
+<span class="bold spdmg">哥布林坦克</span>
+<div class="hpsp">
+<span class="recover">HP : 122/800</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+<span class="bold dmg">持斧哥布林</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/140</span><br />
+<span class="dmg">SP : 80/80</span>
+</div>
+<span class="bold dmg">哥布林勇士</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/180</span><br />
+<span class="dmg">SP : 50/50</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Gevjonie</span>
+<div class="hpsp">
+<span class="recover">HP : 1067/2108</span><br />
+<span class="support">SP : 205/768</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小哥布林</span><img src="./image/icon/skill_030z.png" class="vcent"/>雷击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  42</span> 伤害 (1067 > 1025)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">6</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1025 > 1015)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1015 > 1005)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1005 > 995)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (995 > 985)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (985 > 975)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (975 > 965)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">哥布林坦克</span> 由于中毒受到 <span class="bold">88</span> 伤害.
+(122 > 34)</span><br />
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (965 > 959)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (959 > 953)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (953 > 947)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (947 > 941)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (941 > 935)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (935 > 929)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_019z.png" class="vcent"/>集中精神</div>
+<span class="bold">Gevjonie</span> <span class="support">回复了 <span class="bold">384 SP</span></span>(205 > 589)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">10</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (929 > 919)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (919 > 909)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (909 > 899)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (899 > 889)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (889 > 879)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (879 > 869)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">小哥布林</span> 由于中毒受到 <span class="bold">27</span> 伤害.
+(1 > 1)</span><br />
+<span class="charge"><span class="bold">小哥布林</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">午餐时间</span>(??? > ???)吸取 <span class="recover"><span class="bold">257</span> HP</span>(869 > 1126)<br />
+存活者获得 137 经验.<br />
+<span class="bold">Gevjonie</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">哥布林坦克</span> 由于中毒受到 <span class="bold">88</span> 伤害.
+(34 > 1)</span><br />
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1126 > 1120)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1120 > 1114)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1114 > 1108)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1108 > 1102)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1102 > 1096)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1096 > 1090)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">12</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小哥布林</span><img src="./image/icon/skill_018.png" class="vcent"/>火球术</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1090 > 1084)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1084 > 1078)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1078 > 1072)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1072 > 1066)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">哥布林坦克</span> <span class="support">回复了 <span class="bold">62 SP</span></span>(50 > 112)<br />
+<span class="bold">午餐时间</span> <span class="support">回复了 <span class="bold">100 SP</span></span>(??? > ???)<br />
+<span class="bold">小哥布林</span> <span class="support">回复了 <span class="bold">55 SP</span></span>(40 > 95)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">哥布林坦克</span> 由于中毒受到 <span class="bold">88</span> 伤害.
+(1 > 1)</span><br />
+<div class="u"><span class="bold">哥布林坦克</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1066 > 1060)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1060 > 1054)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1054 > 1048)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1048 > 1042)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1042 > 1036)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1036 > 1030)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054ry.gif);background-repeat:no-repeat;background-position:69px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054.gif);background-repeat:no-repeat;background-position:38px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:124px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:116px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_231fe.gif);background-repeat:no-repeat;background-position:365px 50px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold spdmg">午餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold spdmg">小哥布林</span>
+<div class="hpsp">
+<span class="recover">HP : 1/250</span><br />
+<span class="support">SP : 95/120</span>
+</div>
+</td><td style="width:50%">
+<span class="bold spdmg">哥布林坦克</span>
+<div class="hpsp">
+<span class="recover">HP : 1/800</span><br />
+<span class="support">SP : 92/150</span>
+</div>
+<span class="bold dmg">持斧哥布林</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/140</span><br />
+<span class="dmg">SP : 80/80</span>
+</div>
+<span class="bold dmg">哥布林勇士</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/180</span><br />
+<span class="dmg">SP : 50/50</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Gevjonie</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1030/2108</span><br />
+<span class="support">SP : 539/768</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">4</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1030 > 1020)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1020 > 1010)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1010 > 1000)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1000 > 990)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (990 > 980)<br />
+<span class="bold">午餐时间</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">小哥布林</span> 由于中毒受到 <span class="bold">27</span> 伤害.
+(1 > 1)</span><br />
+<span class="charge"><span class="bold">小哥布林</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_054z.png" class="vcent"/>闪电球</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">小哥布林</span></span> 受到<span class='dmg bold'>  320</span> 伤害 (1 > -319)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">午餐时间</span></span> 受到<span class='dmg bold'>  245</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克</span></span> 受到<span class='dmg bold'>  292</span> 伤害 (1 > -291)<br />
+<span class="dmg"><span class="bold">哥布林坦克</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">小哥布林</span> 被打倒.</span><br />
+存活者获得 265 经验.<br />
+Catastrophy 获得 $&nbsp;200.<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">5</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">午餐时间</span>(??? > ???)吸取 <span class="recover"><span class="bold">257</span> HP</span>(980 > 1237)<br />
+存活者获得 131 经验.<br />
+<span class="bold">Gevjonie</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1237 > 1227)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1227 > 1217)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1217 > 1207)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1207 > 1197)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1197 > 1187)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Gevjonie</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1187 > 1177)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">午餐时间</span> 由于中毒受到 <span class="bold">3</span> 伤害.
+(??? > ???)</span><br />
+<span class="charge"><span class="bold">午餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">午餐时间</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">午餐时间</span> <span class="support">回复了 <span class="bold">100 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Gevjonie</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Gevjonie</span><img src="./image/icon/skill_054z.png" class="vcent"/>闪电球</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">午餐时间</span></span> 受到<span class='dmg bold'>  245</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">午餐时间</span></span> 受到<span class='dmg bold'>  245</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">午餐时间</span></span> 受到<span class='dmg bold'>  245</span> 伤害 (??? > ???)<br />
+<span class="dmg"><span class="bold">午餐时间</span> 被打倒.</span><br />
+存活者获得 978 经验.<br />
+Catastrophy 获得 $&nbsp;407.<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s3"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 664<br />
+总经验值 : 9<br />
+</td><td class="teams">残留HP : 1177/2108<br />
+存活 : 1/1<br />
+总伤害 : 2644<br />
+总经验值 : 1562<br />
+金钱 : $&nbsp;807<br />
+<div class="bold">Items</div>
+<img src="./image/icon/item_009z.png" class="vcent">石头 x 1<br />
+</td></tr>
+</tbody></table>

@@ -1,0 +1,807 @@
+1363682411979184
+Remileon<>红魔馆的守门人
+5<>5
+79<>76.2
+1
+36
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">红魔馆的守门人</div>
+总级别 : 381<br>
+平均级别 : 76.2<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Remileon</div>
+总级别 : 395<br>
+平均级别 : 79<br>
+总HP : 9319/9319</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:64px -10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:30px 45px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:24px 90px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:132px 6px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:105px 73px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:345px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:352px 35px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_012.gif);background-repeat:no-repeat;background-position:364px 68px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321fe.gif);background-repeat:no-repeat;background-position:388px 112px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111fe.gif);background-repeat:no-repeat;background-position:279px 49px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+<span class="bold">武神(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">HornDrill</span>
+<div class="hpsp">
+<span class="recover">HP : 3507/3507</span><br />
+<span class="support">SP : 473/473</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">WhileQueen</span>
+<div class="hpsp">
+<span class="recover">HP : 1426/1426</span><br />
+<span class="support">SP : 417/417</span>
+</div>
+<span class="bold">Anti-Magic</span>
+<div class="hpsp">
+<span class="recover">HP : 1880/1880</span><br />
+<span class="support">SP : 561/561</span>
+</div>
+<span class="bold">DemonHunted</span>
+<div class="hpsp">
+<span class="recover">HP : 1133/1133</span><br />
+<span class="support">SP : 114/114</span>
+</div>
+<span class="bold">ForElise</span>
+<div class="hpsp">
+<span class="recover">HP : 1373/1373</span><br />
+<span class="support">SP : 588/588</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">HornDrill</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">ForElise</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">DemonHunted</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">WhileQueen</span><img src="./image/icon/item_042.png" class="vcent"/>解除武装</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(B)</span></span> 受到<span class='dmg bold'>  142</span> 伤害 (1400 > 1258)<br />
+<span class="bold">菲萨丽丝(B)</span> ATK 下降 70%<br />
+<span class="bold">菲萨丽丝(B)</span> MATK 下降 70%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(A)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神(B)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">HornDrill</span> 保护<span class="bold">ForElise</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (3507 > 3447)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+<span class="bold">HornDrill</span> 保护<span class="bold">ForElise</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  2041</span> 伤害 (3447 > 1406)<br />
+<span class="bold">HornDrill</span> delayed (86<span style="font-size:80%"> >>> </span>35/100).<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">DemonHunted</span></span> 受到<span class='dmg bold'>  410</span> 伤害 (1133 > 723)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  86</span> 伤害 (1406 > 1320)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  297</span> 伤害 (1426 > 1129)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之气息</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  167</span> 伤害 (1129 > 962)<br />
+<span class="bold">WhileQueen</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  137</span> 伤害 (1880 > 1743)<br />
+<span class="bold">Anti-Magic</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  32</span> 伤害 (1320 > 1288)<br />
+<span class="bold">HornDrill</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">DemonHunted</span></span> 受到<span class='dmg bold'>  238</span> 伤害 (723 > 485)<br />
+<span class="bold">DemonHunted</span> INT 下降 20%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1373 > 1245)<br />
+<span class="bold">ForElise</span> INT 下降 20%<br />
+<span class="bold">菲萨丽丝(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">ForElise</span><img src="./image/icon/skill_009.png" class="vcent"/>能量护盾</div>
+<span class="bold">WhileQueen</span> <span class="support">回复了 <span class="bold">82 SP</span></span>(397 > 417)<br />
+<span class="support"><span class="bold">WhileQueen</span> got barriered!</span><br />
+<span class="bold">Anti-Magic</span> <span class="support">回复了 <span class="bold">95 SP</span></span>(561 > 561)<br />
+<span class="support"><span class="bold">Anti-Magic</span> got barriered!</span><br />
+<span class="bold">HornDrill</span> <span class="support">回复了 <span class="bold">87 SP</span></span>(473 > 473)<br />
+<span class="support"><span class="bold">HornDrill</span> got barriered!</span><br />
+<span class="bold">DemonHunted</span> <span class="support">回复了 <span class="bold">43 SP</span></span>(114 > 114)<br />
+<span class="support"><span class="bold">DemonHunted</span> got barriered!</span><br />
+<span class="bold">ForElise</span> <span class="support">回复了 <span class="bold">97 SP</span></span>(348 > 445)<br />
+<span class="support"><span class="bold">ForElise</span> got barriered!</span><br />
+<span class="bold">ForElise</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃风暴</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (962 > 962)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1743 > 1743)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1288 > 1288)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">DemonHunted</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (485 > 485)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1245 > 1245)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">武神(A)</span></span> 受到<span class='dmg bold'>  1945</span> 伤害 (2400 > 455)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(A)</span></span> 受到<span class='dmg bold'>  1945</span> 伤害 (1400 > -545)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  1945</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">菲萨丽丝(B)</span></span> 受到<span class='dmg bold'>  1945</span> 伤害 (1258 > -687)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">武神(B)</span></span> 受到<span class='dmg bold'>  1945</span> 伤害 (2400 > 455)<br />
+<span class="dmg"><span class="bold">菲萨丽丝(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">菲萨丽丝(B)</span> 被打倒.</span><br />
+存活者获得 195 经验.<br />
+Remileon 获得 $&nbsp;200.<br />
+<span class="bold">Anti-Magic</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">HornDrill</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">WhileQueen</span> DEF 提升 50%<br />
+<span class="bold">Anti-Magic</span> DEF 提升 50%<br />
+<span class="bold">HornDrill</span> DEF 提升 50%<br />
+<span class="bold">DemonHunted</span> DEF 提升 50%<br />
+<span class="bold">ForElise</span> DEF 提升 50%<br />
+<span class="bold">HornDrill</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">DemonHunted</span><img src="./image/icon/skill_057.png" class="vcent"/>友方强化</div>
+<span class="dmg"><span class="bold">DemonHunted</span> sacrifice <span class="bold">4532</span> HP</span>
+(485 > -4047)</span><br />
+<span class="bold">WhileQueen</span> STR 提升到最大 (2500%).<br />
+<span class="bold">WhileQueen</span> INT 提升 60%<br />
+<span class="bold">WhileQueen</span> SPD 提升 60%<br />
+<span class="bold">WhileQueen</span> ATK 提升 60%<br />
+<span class="bold">WhileQueen</span> MATK 提升 60%<br />
+<span class="bold">Anti-Magic</span> STR 提升 60%<br />
+<span class="bold">Anti-Magic</span> INT 提升 60%<br />
+<span class="bold">Anti-Magic</span> SPD 提升 60%<br />
+<span class="bold">Anti-Magic</span> ATK 提升 60%<br />
+<span class="bold">Anti-Magic</span> MATK 提升 60%<br />
+<span class="bold">HornDrill</span> STR 提升 60%<br />
+<span class="bold">HornDrill</span> INT 提升 60%<br />
+<span class="bold">HornDrill</span> SPD 提升 60%<br />
+<span class="bold">HornDrill</span> ATK 提升 60%<br />
+<span class="bold">HornDrill</span> MATK 提升 60%<br />
+<span class="bold">ForElise</span> STR 提升 60%<br />
+<span class="bold">ForElise</span> INT 提升 60%<br />
+<span class="bold">ForElise</span> SPD 提升 60%<br />
+<span class="bold">ForElise</span> ATK 提升 60%<br />
+<span class="bold">ForElise</span> MATK 提升 60%<br />
+<span class="dmg"><span class="bold">DemonHunted</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">WhileQueen</span><img src="./image/icon/item_042.png" class="vcent"/>解除武装</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  46</span> 伤害 (??? > ???)<br />
+<span class="bold">红美玲</span> ATK down 35%<br />
+<span class="bold">红美玲</span> MATK down 35%<br />
+存活者获得 6 经验.<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:76px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:30px 45px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:132px 6px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:105px 73px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:345px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:352px 35px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321fe.gif);background-repeat:no-repeat;background-position:388px 112px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111fe.gif);background-repeat:no-repeat;background-position:279px 49px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1650/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1500/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神(A)</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 455/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+<span class="bold">武神(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 455/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">HornDrill</span>
+<div class="hpsp">
+<span class="recover">HP : 1288/3507</span><br />
+<span class="support">SP : 323/473</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">WhileQueen</span>
+<div class="hpsp">
+<span class="recover">HP : 962/1426</span><br />
+<span class="support">SP : 397/417</span>
+</div>
+<span class="bold">Anti-Magic</span>
+<div class="hpsp">
+<span class="recover">HP : 1743/1880</span><br />
+<span class="support">SP : 161/561</span>
+</div>
+<span class="bold dmg">DemonHunted</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1133</span><br />
+<span class="dmg">SP : 14/114</span>
+</div>
+<span class="bold">ForElise</span>
+<div class="hpsp">
+<span class="recover">HP : 1245/1373</span><br />
+<span class="support">SP : 445/588</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(B)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神(A)</span><img src="./image/icon/skill_077.png" class="vcent"/>核弹</div>
+<span class="bold">HornDrill</span> 保护<span class="bold">ForElise</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">HornDrill</span></span> 受到<span class='dmg bold'>  6000</span> 伤害 (1288 > -4712)<br />
+<span class="dmg"><span class="bold">HornDrill</span> 被打倒.</span><br />
+<span class="bold">武神(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  64</span> 伤害 (1245 > 1181)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">ForElise</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">ForElise</span><img src="./image/icon/skill_009.png" class="vcent"/>能量护盾</div>
+<span class="bold">WhileQueen</span> <span class="support">回复了 <span class="bold">82 SP</span></span>(397 > 417)<br />
+<span class="support"><span class="bold">WhileQueen</span> got barriered!</span><br />
+<span class="bold">Anti-Magic</span> <span class="support">回复了 <span class="bold">95 SP</span></span>(161 > 256)<br />
+<span class="support"><span class="bold">Anti-Magic</span> got barriered!</span><br />
+<span class="bold">ForElise</span> <span class="support">回复了 <span class="bold">97 SP</span></span>(205 > 302)<br />
+<span class="support"><span class="bold">ForElise</span> got barriered!</span><br />
+<span class="bold">ForElise</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑气</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">武神(A)</span></span> 受到<span class='dmg bold'>  747</span> 伤害 (455 > -292)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  747</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">武神(B)</span></span> 受到<span class='dmg bold'>  747</span> 伤害 (455 > -292)<br />
+<span class="dmg"><span class="bold">武神(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">武神(B)</span> 被打倒.</span><br />
+存活者获得 125 经验.<br />
+Remileon 获得 $&nbsp;200.<br />
+<span class="bold">Anti-Magic</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">WhileQueen</span><img src="./image/icon/item_042.png" class="vcent"/>解除武装</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  46</span> 伤害 (??? > ???)<br />
+<span class="bold">红美玲</span> ATK down 35%<br />
+<span class="bold">红美玲</span> MATK down 35%<br />
+存活者获得 8 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1743 > 1743)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1743 > 1652)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (962 > 962)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  236</span> 伤害 (962 > 726)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1181 > 1181)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  216</span> 伤害 (1181 > 965)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  236</span> 伤害 (726 > 490)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1652 > 1561)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1561 > 1470)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  236</span> 伤害 (490 > 254)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1470 > 1379)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  216</span> 伤害 (965 > 749)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  236</span> 伤害 (254 > 18)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  216</span> 伤害 (749 > 533)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1379 > 1288)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  216</span> 伤害 (533 > 317)<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">ForElise</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">WhileQueen</span><img src="./image/icon/item_042.png" class="vcent"/>解除武装</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  46</span> 伤害 (??? > ???)<br />
+<span class="bold">红美玲</span> ATK down 35%<br />
+<span class="bold">红美玲</span> MATK down 35%<br />
+存活者获得 8 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">ForElise</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐愈合</div>
+治疗x2!<br /><span class="bold">WhileQueen</span> <span class="recover">回复了 <span class="bold">1170 HP</span></span>(18 > 1188)<br />
+治疗x2!<br /><span class="bold">ForElise</span> <span class="recover">回复了 <span class="bold">1170 HP</span></span>(317 > 1373)<br />
+<span class="bold">Anti-Magic</span> <span class="recover">回复了 <span class="bold">585 HP</span></span>(1288 > 1873)<br />
+<span class="bold">ForElise</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  23</span> 伤害 (1873 > 1850)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">红美玲</span>(??? > ???)吸取 <span class="support"><span class="bold">132</span> SP</span>(96 > 228)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:76px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:30px 45px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411fe.gif);background-repeat:no-repeat;background-position:345px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:352px 35px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321fe.gif);background-repeat:no-repeat;background-position:388px 112px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:296px 76px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1650/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1500/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">武神(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2400</span><br />
+<span class="dmg">SP : 700/800</span>
+</div>
+<span class="bold dmg">武神(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2400</span><br />
+<span class="dmg">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">HornDrill</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3507</span><br />
+<span class="dmg">SP : 323/473</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">WhileQueen</span>
+<div class="hpsp">
+<span class="recover">HP : 1188/1426</span><br />
+<span class="support">SP : 377/417</span>
+</div>
+<span class="bold">Anti-Magic</span>
+<div class="hpsp">
+<span class="recover">HP : 1850/1880</span><br />
+<span class="support">SP : 228/561</span>
+</div>
+<span class="bold dmg">DemonHunted</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1133</span><br />
+<span class="dmg">SP : 14/114</span>
+</div>
+<span class="bold">ForElise</span>
+<div class="hpsp">
+<span class="recover">HP : 1373/1373</span><br />
+<span class="support">SP : 242/588</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">WhileQueen</span><img src="./image/icon/item_042.png" class="vcent"/>解除武装</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">红美玲</span></span> 受到<span class='dmg bold'>  46</span> 伤害 (??? > ???)<br />
+<span class="bold">红美玲</span> ATK down 35%<br />
+<span class="bold">红美玲</span> MATK down 35%<br />
+存活者获得 8 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">ForElise</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (1373 > 1214)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (1188 > 1011)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (1011 > 834)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (834 > 657)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (657 > 480)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (480 > 303)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (303 > 126)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1850 > 1785)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (126 > -51)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (-51 > -228)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (1214 > 1055)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1785 > 1720)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1720 > 1655)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1655 > 1590)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (-228 > -405)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">WhileQueen</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (-405 > -582)<br />
+<span class="dmg"><span class="bold">WhileQueen</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">ForElise</span><img src="./image/icon/skill_009.png" class="vcent"/>能量护盾</div>
+<span class="bold">Anti-Magic</span> <span class="support">回复了 <span class="bold">95 SP</span></span>(228 > 323)<br />
+<span class="support"><span class="bold">Anti-Magic</span> got barriered!</span><br />
+<span class="bold">ForElise</span> <span class="support">回复了 <span class="bold">97 SP</span></span>(2 > 99)<br />
+<span class="support"><span class="bold">ForElise</span> got barriered!</span><br />
+<span class="bold">ForElise</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Anti-Magic</span> STR 提升 50%<br />
+<span class="bold">Anti-Magic</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">ForElise</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1055 > 1055)<br />
+<span class="bold">ForElise</span> delayed (61<span style="font-size:80%"> >>> </span>11/100).<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">红美玲</span>(??? > ???)吸取 <span class="support"><span class="bold">132</span> SP</span>(163 > 295)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">ForElise</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Anti-Magic</span> <span class="support">回复了 <span class="bold">119 SP</span></span>(295 > 414)<br />
+<span class="bold">ForElise</span> <span class="support">回复了 <span class="bold">122 SP</span></span>(79 > 201)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (1055 > 896)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (896 > 737)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (737 > 578)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (578 > 419)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (419 > 260)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (260 > 101)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (101 > -58)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1590 > 1590)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (-58 > -217)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1590 > 1525)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ForElise</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (-217 > -376)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1525 > 1460)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1460 > 1395)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1395 > 1330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1330 > 1265)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1265 > 1200)<br />
+<span class="dmg"><span class="bold">ForElise</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Anti-Magic</span> STR 提升 50%<br />
+<span class="bold">Anti-Magic</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>98/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>彩光乱舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  72</span> 伤害 (1200 > 1128)<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:76px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:30px 45px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:352px 35px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:400px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:296px 76px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1650/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1400</span><br />
+<span class="dmg">SP : 1500/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">武神(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2400</span><br />
+<span class="dmg">SP : 700/800</span>
+</div>
+<span class="bold dmg">武神(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2400</span><br />
+<span class="dmg">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">HornDrill</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3507</span><br />
+<span class="dmg">SP : 323/473</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">WhileQueen</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1426</span><br />
+<span class="dmg">SP : 357/417</span>
+</div>
+<span class="bold">Anti-Magic</span>
+<div class="hpsp">
+<span class="recover">HP : 1128/1880</span><br />
+<span class="support">SP : 264/561</span>
+</div>
+<span class="bold dmg">DemonHunted</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1133</span><br />
+<span class="dmg">SP : 14/114</span>
+</div>
+<span class="bold dmg">ForElise</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1373</span><br />
+<span class="dmg">SP : 201/588</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Anti-Magic</span> STR 提升 50%<br />
+<span class="bold">Anti-Magic</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  21</span> 伤害 (1128 > 1107)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">红美玲</span>(??? > ???)吸取 <span class="support"><span class="bold">132</span> SP</span>(104 > 236)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1107 > 1042)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (1042 > 977)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (977 > 912)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (912 > 847)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (847 > 782)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (782 > 717)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (717 > 652)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (652 > 587)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (587 > 522)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (522 > 457)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (457 > 392)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (392 > 327)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (327 > 262)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (262 > 197)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (197 > 132)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  65</span> 伤害 (132 > 67)<br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Anti-Magic</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Anti-Magic</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Anti-Magic</span> STR 提升 50%<br />
+<span class="bold">Anti-Magic</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Anti-Magic</span></span> 受到<span class='dmg bold'>  1016</span> 伤害 (67 > -949)<br />
+<span class="bold">Anti-Magic</span> delayed (49<span style="font-size:80%"> >>> </span>-1/100).<br />
+<span class="dmg"><span class="bold">Anti-Magic</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s4"></a>
+<span style="font-size:200%">红魔馆的守门人 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 1/5<br />
+总伤害 : 18264<br />
+</td><td class="teams">残留HP : 0/9319<br />
+存活 : 0/5<br />
+总伤害 : 12292<br />
+总经验值 : 1439<br />
+金钱 : $&nbsp;400<br />
+</td></tr>
+</tbody></table>

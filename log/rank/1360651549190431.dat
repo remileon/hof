@@ -1,0 +1,1191 @@
+1360651549190431
+黑暗枪骑兵[4位]<>炎の审判团[3位]
+5<>5
+64.4<>71.6
+0
+50
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">炎の审判团[3位]</div>
+总级别 : 358<br>
+平均级别 : 71.6<br>
+总HP : 6342/6342</td><td class="teams ttd1"><div class="bold">黑暗枪骑兵[4位]</div>
+总级别 : 322<br>
+平均级别 : 64.4<br>
+总HP : 6940/6940</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:57px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:45px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411ma.gif);background-repeat:no-repeat;background-position:43px 87px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:28px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112fe.gif);background-repeat:no-repeat;background-position:117px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:333px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:357px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:380px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:261px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321fe.gif);background-repeat:no-repeat;background-position:297px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<div class="hpsp">
+<span class="recover">HP : 651/651</span><br />
+<span class="support">SP : 1834/1834</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 941/941</span><br />
+<span class="support">SP : 1228/1228</span>
+</div>
+<span class="bold">炎狱弓手</span>
+<div class="hpsp">
+<span class="recover">HP : 1037/1037</span><br />
+<span class="support">SP : 257/257</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 1053/1053</span><br />
+<span class="support">SP : 838/838</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2660/2660</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2950/2950</span><br />
+<span class="support">SP : 333/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 945/945</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<div class="hpsp">
+<span class="recover">HP : 713/713</span><br />
+<span class="support">SP : 1783/1783</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 1127/1127</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1378/1378</span><br />
+<span class="support">SP : 670/670</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">炎狱魔法师</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">天启者</span> MAXHP(945) 提升到 2835<br />
+<span class="bold">天启者</span> INT 提升 60%<br />
+<span class="bold">天启者</span> DEF 提升 35%<br />
+<span class="bold">天启者</span> MDEF 提升 35%<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">1418 HP</span></span>(945 > 2363)<br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">爆炎少女</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">爆炎少女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">方森岩</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">炎狱魔法师</span> delayed (-105<span style="font-size:80%"> >>> </span>-206/100).<br />
+<span class="bold">熔岩侍女</span> delayed (87<span style="font-size:80%"> >>> </span>-13/100).<br />
+<span class="bold">陨石龟(A)</span> delayed (83<span style="font-size:80%"> >>> </span>-17/100).<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">炎狱弓手</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">甘道夫</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">甘道夫</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">天启者</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">天启者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">甘道夫</span> DEF 提升 50%<br />
+<span class="bold">小鸟游六花</span> DEF 提升 50%<br />
+<span class="bold">方森岩</span> DEF 提升 50%<br />
+<span class="bold">天启者</span> DEF 提升 50%<br />
+<span class="bold">虚空行者</span> DEF 提升 50%<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">炎狱弓手</span><img src="./image/icon/item_042.png" class="vcent"/>强弩推射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  88</span> 伤害 (713 > 625)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  114</span> 伤害 (954 > 840)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2950 > 2923)<br />
+<span class="bold">方森岩</span>敲到后排!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (2363 > 2294)<br />
+<span class="bold">天启者</span>敲到后排!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1378 > 1309)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (625 > 497)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1309 > 1181)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2294 > 2166)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (840 > 712)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1181 > 1053)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1053 > 925)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩侍女</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">熔岩妖女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩妖女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱魔法师</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">炎狱魔法师</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱弓手</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">炎狱弓手</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">爆炎少女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">爆炎少女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">炎狱弓手</span><span class="recover"> 自动回复 <span class="bold">104 HP</span></span> (1037 > 1037)<br />
+<span class="support">* </span><span class="bold">炎狱弓手</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (197 > 223)<br />
+<span class="charge"><span class="bold">炎狱弓手</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (925 > 1063)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (570 > 637)<br />
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">炎狱魔法师</span> delayed (-22<span style="font-size:80%"> >>> </span>-122/100).<br />
+<span class="bold">炎狱弓手</span> delayed (61<span style="font-size:80%"> >>> </span>-40/100).<br />
+<span class="bold">陨石龟(A)</span> delayed (93<span style="font-size:80%"> >>> </span>-8/100).<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_006cz.png" class="vcent"/>连锁闪电</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  250</span> 伤害 (2660 > 2410)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱魔法师</span></span> 受到<span class='dmg bold'>  557</span> 伤害 (651 > 94)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  478</span> 伤害 (941 > 463)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  870</span> 伤害 (1037 > 167)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  599</span> 伤害 (1053 > 454)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  472</span> 伤害 (2333 > 1861)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:57px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:45px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411ma.gif);background-repeat:no-repeat;background-position:43px 87px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:28px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112fe.gif);background-repeat:no-repeat;background-position:130px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:326px -8px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:355px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:377px 99px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:386px 114px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 94/651</span><br />
+<span class="support">SP : 1834/1834</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 463/941</span><br />
+<span class="support">SP : 778/1228</span>
+</div>
+<span class="bold">炎狱弓手</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 167/1037</span><br />
+<span class="support">SP : 223/257</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 454/1053</span><br />
+<span class="support">SP : 288/838</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2410/2660</span><br />
+<span class="support">SP : 505/585</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1861/2333</span><br />
+<span class="support">SP : 583/583</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<div class="hpsp">
+<span class="recover">HP : 497/713</span><br />
+<span class="support">SP : 983/1783</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 712/954</span><br />
+<span class="support">SP : 677/1127</span>
+</div>
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2923/2950</span><br />
+<span class="support">SP : 183/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 2166/2835</span><br />
+<span class="support">SP : 285/585</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1063/1378</span><br />
+<span class="support">SP : 537/670</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2166 > 2450)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (285 > 344)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2923 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (183 > 216)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_033.png" class="vcent"/>冲锋</div>
+<span class="bold">熔岩妖女</span> 保护<span class="bold">炎狱弓手</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  87</span> 伤害 (2410 > 2323)<br />
+<span class="bold">方森岩</span> 移到前排.<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(497 > 713)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(712 > 954)<br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(1063 > 1378)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩妖女</span><span class="recover"> 自动回复 <span class="bold">266 HP</span></span> (2323 > 2589)<br />
+<span class="support">* </span><span class="bold">熔岩妖女</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (505 > 564)<br />
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (677 > 790)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">甘道夫</span><span class="recover"> 自动回复 <span class="bold">71 HP</span></span> (713 > 713)<br />
+<span class="support">* </span><span class="bold">甘道夫</span><span class="support"> 自动回复 <span class="bold">178 SP</span></span> (983 > 1161)<br />
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2950 > 2822)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">天启者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2822 > 2694)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">天启者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2694 > 2566)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2566 > 2438)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2438 > 2310)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2310 > 2182)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">炎狱弓手</span><img src="./image/icon/item_042.png" class="vcent"/>扩散射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  233</span> 伤害 (713 > 480)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  302</span> 伤害 (954 > 652)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (2182 > 2116)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  191</span> 伤害 (2450 > 2259)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  198</span> 伤害 (1378 > 1180)<br />
+<span class="bold">炎狱弓手</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(1161 > 1373)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(770 > 938)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(206 > 298)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(314 > 435)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(537 > 667)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩侍女</span><span class="recover"> 自动回复 <span class="bold">94 HP</span></span> (463 > 557)<br />
+<span class="support">* </span><span class="bold">熔岩侍女</span><span class="support"> 自动回复 <span class="bold">123 SP</span></span> (778 > 901)<br />
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2259 > 2543)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (435 > 494)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2116 > 2411)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (298 > 331)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2589 > 2567)<br />
+<span class="bold">熔岩妖女</span> DEF 下降 30%<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">熔岩妖女</span> DEF 提升 20%<br />
+<span class="bold">熔岩妖女</span> MDEF 提升 60%<br />
+<span class="bold">炎狱魔法师</span> DEF 提升 20%<br />
+<span class="bold">炎狱魔法师</span> MDEF 提升 60%<br />
+<span class="bold">熔岩侍女</span> DEF 提升 20%<br />
+<span class="bold">熔岩侍女</span> MDEF 提升 60%<br />
+<span class="bold">炎狱弓手</span> DEF 提升 20%<br />
+<span class="bold">炎狱弓手</span> MDEF 提升 60%<br />
+<span class="bold">爆炎少女</span> DEF 提升 20%<br />
+<span class="bold">爆炎少女</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1180 > 1318)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (667 > 670)<br />
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">炎狱魔法师</span> delayed (62<span style="font-size:80%"> >>> </span>-39/100).<br />
+<span class="bold">熔岩侍女</span> delayed (83<span style="font-size:80%"> >>> </span>-17/100).<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(480 > 713)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(652 > 954)<br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(2411 > 2779)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (938 > 1051)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2779 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (301 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">炎狱魔法师</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (1861 > 1806)<br />
+<span class="bold">陨石龟(A)</span> DEF 下降 30%<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:57px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:45px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411ma.gif);background-repeat:no-repeat;background-position:43px 87px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:28px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112fe.gif);background-repeat:no-repeat;background-position:130px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:372px 86px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:384px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 94/651</span><br />
+<span class="support">SP : 1834/1834</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 557/941</span><br />
+<span class="support">SP : 901/1228</span>
+</div>
+<span class="bold">炎狱弓手</span>
+<div class="hpsp">
+<span class="recover">HP : 167/1037</span><br />
+<span class="support">SP : 63/257</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 454/1053</span><br />
+<span class="support">SP : 288/838</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2567/2660</span><br />
+<span class="support">SP : 484/585</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1806/2333</span><br />
+<span class="support">SP : 283/583</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2950/2950</span><br />
+<span class="support">SP : 303/333</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 713/713</span><br />
+<span class="support">SP : 1373/1783</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 1051/1127</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 2543/2835</span><br />
+<span class="support">SP : 464/585</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1318/1378</span><br />
+<span class="support">SP : 570/670</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩侍女</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">熔岩妖女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩妖女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱魔法师</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">炎狱魔法师</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱弓手</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">炎狱弓手</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">爆炎少女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">爆炎少女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_006cz.png" class="vcent"/>连锁闪电</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  129</span> 伤害 (2567 > 2438)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱魔法师</span></span> 受到<span class='dmg bold'>  218</span> 伤害 (94 > -124)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  182</span> 伤害 (557 > 375)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  348</span> 伤害 (167 > -181)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  234</span> 伤害 (454 > 220)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  359</span> 伤害 (1806 > 1447)<br />
+<span class="dmg"><span class="bold">炎狱魔法师</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">炎狱弓手</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(573 > 785)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(1031 > 1127)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(303 > 333)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(464 > 585)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(570 > 670)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2543 > 2827)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (585 > 585)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩妖女</span><span class="recover"> 自动回复 <span class="bold">532 HP</span></span> (2438 > 2660)<br />
+<span class="support">* </span><span class="bold">熔岩妖女</span><span class="support"> 自动回复 <span class="bold">117 SP</span></span> (484 > 585)<br />
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1318 > 1378)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (670 > 670)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_057.png" class="vcent"/>生命护盾</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(713 > 713)<br />
+<span class="support"><span class="bold">甘道夫</span> got barriered!</span><br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(954 > 954)<br />
+<span class="support"><span class="bold">小鸟游六花</span> got barriered!</span><br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2950 > 2950)<br />
+<span class="support"><span class="bold">方森岩</span> got barriered!</span><br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2827 > 2835)<br />
+<span class="support"><span class="bold">天启者</span> got barriered!</span><br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(1378 > 1378)<br />
+<span class="support"><span class="bold">虚空行者</span> got barriered!</span><br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (2950 > 2950)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2950 > 2822)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2822 > 2694)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2694 > 2566)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">天启者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2566 > 2438)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2438 > 2310)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2310 > 2605)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (333 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2660 > 2638)<br />
+<span class="bold">熔岩妖女</span> DEF 下降 30%<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">甘道夫</span><span class="recover"> 自动回复 <span class="bold">71 HP</span></span> (713 > 713)<br />
+<span class="support">* </span><span class="bold">甘道夫</span><span class="support"> 自动回复 <span class="bold">178 SP</span></span> (785 > 963)<br />
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (1127 > 1127)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (2638 > 2461)<br />
+<span class="bold">熔岩妖女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  105</span> 伤害 (375 > 270)<br />
+<span class="bold">熔岩侍女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  140</span> 伤害 (220 > 80)<br />
+<span class="bold">爆炎少女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  201</span> 伤害 (1447 > 1246)<br />
+<span class="bold">陨石龟(A)</span> SPD 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">467 HP</span></span> (1246 > 1713)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">117 SP</span></span> (283 > 400)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  109</span> 伤害 (2605 > 2496)<br />
+<span class="bold">方森岩</span> STR 下降 20%<br />
+<span class="bold">方森岩</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(963 > 1175)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(1107 > 1127)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(303 > 333)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(345 > 466)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(370 > 500)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2835 > 2835)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (466 > 525)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2496 > 2791)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (333 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">熔岩妖女</span> 保护<span class="bold">爆炎少女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  38</span> 伤害 (2461 > 2423)<br />
+<span class="bold">熔岩妖女</span> DEF 下降 30%<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:45px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_421fe.gif);background-repeat:no-repeat;background-position:28px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112fe.gif);background-repeat:no-repeat;background-position:130px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:372px 86px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:384px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">炎狱魔法师</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/651</span><br />
+<span class="dmg">SP : 1834/1834</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 270/941</span><br />
+<span class="support">SP : 451/1228</span>
+</div>
+<span class="bold dmg">炎狱弓手</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1037</span><br />
+<span class="dmg">SP : 63/257</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 80/1053</span><br />
+<span class="support">SP : 288/838</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2423/2660</span><br />
+<span class="support">SP : 505/585</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1713/2333</span><br />
+<span class="support">SP : 400/583</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2791/2950</span><br />
+<span class="support">SP : 303/333</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 713/713</span><br />
+<span class="support">SP : 1175/1783</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 1127/1127</span>
+</div>
+<span class="bold">天启者</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2835/2835</span><br />
+<span class="support">SP : 525/585</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1378/1378</span><br />
+<span class="support">SP : 500/670</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_057.png" class="vcent"/>生命护盾</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(713 > 713)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(954 > 954)<br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2791 > 2950)<br />
+<span class="support"><span class="bold">方森岩</span> got barriered!</span><br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2835 > 2835)<br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(1378 > 1378)<br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1378 > 1378)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (500 > 567)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩侍女</span><span class="recover"> 自动回复 <span class="bold">188 HP</span></span> (270 > 458)<br />
+<span class="support">* </span><span class="bold">熔岩侍女</span><span class="support"> 自动回复 <span class="bold">246 SP</span></span> (451 > 697)<br />
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (1127 > 1127)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩妖女</span><span class="recover"> 自动回复 <span class="bold">532 HP</span></span> (2423 > 2660)<br />
+<span class="support">* </span><span class="bold">熔岩妖女</span><span class="support"> 自动回复 <span class="bold">117 SP</span></span> (505 > 585)<br />
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_021z.png" class="vcent"/>陨石风暴</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (1713 > 1558)<br />
+<span class="bold">熔岩妖女</span> 保护<span class="bold">爆炎少女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (2660 > 2457)<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (1558 > 1403)<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">爆炎少女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (1403 > 1248)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (1248 > 1093)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (2457 > 2254)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (2254 > 2051)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (1093 > 938)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (2051 > 1848)<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (938 > 783)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (1848 > 1645)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (1645 > 1442)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (783 > 628)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  203</span> 伤害 (1442 > 1239)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (628 > 473)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  155</span> 伤害 (473 > 318)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  262</span> 伤害 (1239 > 977)<br />
+<span class="bold">熔岩妖女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  105</span> 伤害 (458 > 353)<br />
+<span class="bold">熔岩侍女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  140</span> 伤害 (80 > -60)<br />
+<span class="bold">爆炎少女</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  201</span> 伤害 (318 > 117)<br />
+<span class="bold">陨石龟(A)</span> SPD 下降 30%<br />
+<span class="dmg"><span class="bold">爆炎少女</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩侍女</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">熔岩妖女</span> <span class="recover">回复了 <span class="bold">837 HP</span></span>(977 > 1814)<br />
+<span class="bold">熔岩侍女</span> <span class="recover">回复了 <span class="bold">837 HP</span></span>(353 > 941)<br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">837 HP</span></span>(117 > 954)<br />
+<span class="bold">熔岩侍女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2950 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (303 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (954 > 872)<br />
+<span class="bold">陨石龟(A)</span> DEF 下降 30%<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(375 > 587)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(1107 > 1127)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(303 > 333)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(285 > 406)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(267 > 397)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">467 HP</span></span> (872 > 1339)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">117 SP</span></span> (400 > 517)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (1378 > 1378)<br />
+<span class="bold">虚空行者</span> STR 下降 20%<br />
+<span class="bold">虚空行者</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2835 > 2835)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (406 > 465)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (2950 > 2950)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2950 > 2822)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2822 > 2694)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2694 > 2566)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2566 > 2438)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">天启者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2438 > 2310)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_057.png" class="vcent"/>生命护盾</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(713 > 713)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(954 > 954)<br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2310 > 2531)<br />
+<span class="support"><span class="bold">方森岩</span> got barriered!</span><br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2835 > 2835)<br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(1378 > 1378)<br />
+<span class="support"><span class="bold">虚空行者</span> got barriered!</span><br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1378 > 1378)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (397 > 464)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">甘道夫</span><span class="recover"> 自动回复 <span class="bold">71 HP</span></span> (713 > 713)<br />
+<span class="support">* </span><span class="bold">甘道夫</span><span class="support"> 自动回复 <span class="bold">178 SP</span></span> (587 > 765)<br />
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (1127 > 1127)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2531 > 2826)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (333 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1814 > 1745)<br />
+<span class="bold">熔岩妖女</span> DEF 下降 30%<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:45px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:32px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_112fe.gif);background-repeat:no-repeat;background-position:130px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:86px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:372px 86px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:384px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">炎狱魔法师</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/651</span><br />
+<span class="dmg">SP : 1834/1834</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 941/941</span><br />
+<span class="support">SP : 637/1228</span>
+</div>
+<span class="bold dmg">炎狱弓手</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1037</span><br />
+<span class="dmg">SP : 63/257</span>
+</div>
+<span class="bold dmg">爆炎少女</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1053</span><br />
+<span class="dmg">SP : 288/838</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 1745/2660</span><br />
+<span class="support">SP : 505/585</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1339/2333</span><br />
+<span class="support">SP : 517/583</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2826/2950</span><br />
+<span class="support">SP : 303/333</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 713/713</span><br />
+<span class="support">SP : 765/1783</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 1127/1127</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 2835/2835</span><br />
+<span class="support">SP : 225/585</span>
+</div>
+<span class="bold">虚空行者</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1378/1378</span><br />
+<span class="support">SP : 464/670</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  618</span> 伤害 (1745 > 1127)<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  538</span> 伤害 (1339 > 801)<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 30%<br />
+<span class="bold">熔岩妖女</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  692</span> 伤害 (1127 > 435)<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 30%<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">熔岩侍女</span><span class="recover"> 自动回复 <span class="bold">188 HP</span></span> (941 > 941)<br />
+<span class="support">* </span><span class="bold">熔岩侍女</span><span class="support"> 自动回复 <span class="bold">246 SP</span></span> (637 > 883)<br />
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(765 > 977)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(1107 > 1127)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(303 > 333)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(225 > 346)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(214 > 344)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">熔岩侍女</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">熔岩妖女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩妖女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">700 HP</span></span> (801 > 1501)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">175 SP</span></span> (517 > 583)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (954 > 954)<br />
+<span class="bold">小鸟游六花</span> STR 下降 20%<br />
+<span class="bold">小鸟游六花</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (2835 > 2835)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (346 > 405)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2826 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (333 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">熔岩侍女</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  104</span> 伤害 (1501 > 1397)<br />
+<span class="bold">陨石龟(A)</span> DEF 下降 30%<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_057.png" class="vcent"/>生命护盾</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(713 > 713)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(954 > 954)<br />
+<span class="support"><span class="bold">小鸟游六花</span> got barriered!</span><br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2950 > 2950)<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(2835 > 2835)<br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">221 HP</span></span>(1378 > 1378)<br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (1127 > 1127)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_006cz.png" class="vcent"/>雷暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  619</span> 伤害 (1397 > 778)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  647</span> 伤害 (435 > -212)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  619</span> 伤害 (778 > 159)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  619</span> 伤害 (159 > -460)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  170</span> 伤害 (941 > 771)<br />
+<span class="dmg"><span class="bold">熔岩妖女</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">陨石龟(A)</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1378 > 1378)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (344 > 411)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">甘道夫</span> <span class="support">回复了 <span class="bold">212 SP</span></span>(577 > 789)<br />
+<span class="bold">小鸟游六花</span> <span class="support">回复了 <span class="bold">168 SP</span></span>(1107 > 1127)<br />
+<span class="bold">方森岩</span> <span class="support">回复了 <span class="bold">92 SP</span></span>(303 > 333)<br />
+<span class="bold">天启者</span> <span class="support">回复了 <span class="bold">121 SP</span></span>(165 > 286)<br />
+<span class="bold">虚空行者</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(411 > 541)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2950 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (333 > 333)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  67</span> 伤害 (771 > 704)<br />
+<span class="bold">熔岩侍女</span> DEF 下降 30%<br />
+<span class="bold">熔岩侍女</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  411</span> 伤害 (704 > 293)<br />
+<span class="bold">熔岩侍女</span> MDEF 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  560</span> 伤害 (293 > -267)<br />
+<span class="bold">熔岩侍女</span> MDEF 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  663</span> 伤害 (-267 > -930)<br />
+<span class="bold">熔岩侍女</span> MDEF 下降 30%<br />
+<span class="dmg"><span class="bold">熔岩侍女</span> 被打倒.</span><br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s5"></a>
+<span style="font-size:200%">黑暗枪骑兵[4位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 0/6342<br />
+存活 : 0/5<br />
+总伤害 : 4282<br />
+</td><td class="teams">残留HP : 8830/8830<br />
+存活 : 5/5<br />
+总伤害 : 15458<br />
+</td></tr>
+</tbody></table>

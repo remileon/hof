@@ -1,0 +1,2617 @@
+1363539070579235
+Catastrophy<>猿猴的愤怒
+2<>7
+97<>26.8
+d
+200
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">猿猴的愤怒</div>
+总级别 : 134<br>
+平均级别 : 26.8<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 97<br>
+平均级别 : 97<br>
+总HP : 1961/1961</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 250/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1961/1961</span><br />
+<span class="support">SP : 914/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉防护</div>
+<span class="support"><span class="bold">猴子勇士(A)</span> got barriered!</span><br />
+<span class="support"><span class="bold">香蕉猴</span> got barriered!</span><br />
+<span class="support"><span class="bold">猴王</span> got barriered!</span><br />
+<span class="support"><span class="bold">猴子勇士(B)</span> got barriered!</span><br />
+<span class="support"><span class="bold">猴子勇士(C)</span> got barriered!</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2526 > 2518)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2518 > 2510)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2510 > 2502)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  147</span> 伤害 (2502 > 2355)<br />
+<span class="bold">猴子勇士(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2355 > 2347)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  32</span> 伤害 (1961 > 1929)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  32</span> 伤害 (1929 > 1897)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  100</span> 伤害 (2347 > 2247)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">Satania</span> DEF 提升 20%<br />
+<span class="bold">Satania</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1897 > 1860)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1860 > 1823)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1823 > 1786)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1786 > 1764)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2247 > 2239)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1764 > 1742)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  108</span> 伤害 (2239 > 2131)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 200/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 100/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 50/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 50/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2131/2526</span><br />
+<span class="support">SP : 331/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1742/1961</span><br />
+<span class="support">SP : 364/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2131 > 2123)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2123 > 2115)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1742 > 1720)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  70</span> 伤害 (2115 > 2045)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2045 > 2034)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1720 > 1683)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2034 > 2023)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1683 > 1661)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1661 > 1639)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1639 > 1617)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(B)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(B)</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  108</span> 伤害 (2023 > 1915)<br />
+<span class="bold">猴子勇士(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1915 > 1907)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1617 > 1595)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1595 > 1573)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  166</span> 伤害 (1907 > 1741)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  13</span> 伤害 (1573 > 1560)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1741 > 1735)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  13</span> 伤害 (1560 > 1547)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(0 > 49)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 100/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 0/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 49/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 0/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1735/2526</span><br />
+<span class="support">SP : 331/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1547/1961</span><br />
+<span class="support">SP : 364/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(0 > 49)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">91 SP</span></span>(364 > 455)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">76 SP</span></span>(331 > 407)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(0 > 49)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1735 > 1724)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1724 > 1713)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1547 > 1510)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1713 > 1707)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1707 > 1701)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1701 > 1695)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(49 > 98)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(49 > 98)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1695 > 1684)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1684 > 1673)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  37</span> 伤害 (1510 > 1473)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(49 > 98)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  70</span> 伤害 (1673 > 1603)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 0/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 98/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 98/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 98/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1603/2526</span><br />
+<span class="support">SP : 407/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1473/1961</span><br />
+<span class="support">SP : 455/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(C)</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1473 > 1454)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1603 > 1596)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1454 > 1435)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1596 > 1589)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1435 > 1416)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1416 > 1397)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1589 > 1578)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1578 > 1567)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (1567 > 1556)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1556 > 1548)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1397 > 1375)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1375 > 1353)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(48 > 97)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴子勇士(A)</span> delayed (51<span style="font-size:80%"> >>> </span>21/100).<br />
+<span class="bold">香蕉猴</span> delayed (97<span style="font-size:80%"> >>> </span>66/100).<br />
+<span class="bold">猴王</span> delayed (72<span style="font-size:80%"> >>> </span>66/100).<br />
+<span class="bold">猴子勇士(B)</span> delayed (11<span style="font-size:80%"> >>> </span>-19/100).<br />
+<span class="bold">猴子勇士(C)</span> delayed (81<span style="font-size:80%"> >>> </span>51/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  166</span> 伤害 (1548 > 1382)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(48 > 97)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 64/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 48/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 97/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 97/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1382/2526</span><br />
+<span class="support">SP : 407/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1353/1961</span><br />
+<span class="support">SP : 455/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(48 > 97)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1353 > 1334)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1382 > 1375)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1375 > 1368)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  166</span> 伤害 (1368 > 1202)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007z.png" class="vcent"/>敏捷</div>
+<span class="bold">陨石龟(A)</span> SPD 提升 100%<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (400 > 400)<br />
+<span class="bold">香蕉猴</span> STR 下降 20%<br />
+<span class="bold">香蕉猴</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (1202 > 1141)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  94</span> 伤害 (1141 > 1047)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  108</span> 伤害 (1047 > 939)<br />
+<span class="bold">猴子勇士(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(47 > 96)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s5"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s4"><<</a>
+<a href="#s6">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 14/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 47/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 96/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 47/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 939/2526</span><br />
+<span class="support">SP : 407/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1334/1961</span><br />
+<span class="support">SP : 355/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(14 > 78)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(47 > 96)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007z.png" class="vcent"/>增强</div>
+<span class="bold">陨石龟(A)</span> DEF 提升 50%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 50%<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(47 > 96)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (939 > 929)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  33</span> 伤害 (1334 > 1301)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (929 > 919)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1301 > 1282)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1282 > 1263)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1263 > 1244)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">91 SP</span></span>(255 > 346)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">76 SP</span></span>(407 > 483)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1244 > 1234)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (919 > 913)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (913 > 907)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (907 > 877)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s6"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s5"><<</a>
+<a href="#s7">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 28/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 96/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 46/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 46/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 877/2526</span><br />
+<span class="support">SP : 483/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1234/1961</span><br />
+<span class="support">SP : 346/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (877 > 869)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1234 > 1212)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (869 > 861)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(46 > 95)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007z.png" class="vcent"/>增强</div>
+<span class="bold">陨石龟(A)</span> DEF 提升 50%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 50%<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(A)</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(28 > 92)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  42</span> 伤害 (861 > 819)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(46 > 95)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(46 > 95)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1212 > 1193)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1193 > 1174)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1174 > 1155)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s7"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s6"><<</a>
+<a href="#s8">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 92/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 95/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 45/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 95/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 819/2526</span><br />
+<span class="support">SP : 483/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1155/1961</span><br />
+<span class="support">SP : 246/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007z.png" class="vcent"/>增强</div>
+<span class="bold">陨石龟(A)</span> DEF 提升 50%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 50%<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+存活者获得 164 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1155 > 1145)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1145 > 1135)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (1135 > 1125)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (819 > 780)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (780 > 750)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1125 > 1106)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (750 > 743)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1106 > 1087)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(45 > 94)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴子勇士(A)</span> delayed (51<span style="font-size:80%"> >>> </span>20/100).<br />
+<span class="bold">香蕉猴</span> delayed (74<span style="font-size:80%"> >>> </span>44/100).<br />
+<span class="bold">猴王</span> delayed (63<span style="font-size:80%"> >>> </span>57/100).<br />
+<span class="bold">猴子勇士(B)</span> delayed (41<span style="font-size:80%"> >>> </span>10/100).<br />
+<span class="bold">猴子勇士(C)</span> delayed (21<span style="font-size:80%"> >>> </span>-10/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (37<span style="font-size:80%"> >>> </span>6/100).<br />
+<span class="bold">猴子勇士(B)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(B)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(B)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(B)</span> delayed (27<span style="font-size:80%"> >>> </span>-4/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s8"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s7"><<</a>
+<a href="#s9">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 42/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 45/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 94/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 45/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 743/2526</span><br />
+<span class="support">SP : 483/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1087/1961</span><br />
+<span class="support">SP : 106/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(42 > 106)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (595 > 540)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (82<span style="font-size:80%"> >>> </span>51/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(B)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (595 > 540)<br />
+<span class="bold">猴子勇士(B)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(B)</span> delayed (72<span style="font-size:80%"> >>> </span>41/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (400 > 72)<br />
+<span class="bold">香蕉猴</span> STR 下降 20%<br />
+<span class="bold">香蕉猴</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(45 > 94)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (743 > 704)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(540 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(45 > 94)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(72 > 219)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(106 > 170)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (704 > 674)<br />
+<span class="bold">猴子勇士(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(C)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(C)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(C)</span> delayed (75<span style="font-size:80%"> >>> </span>45/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (19<span style="font-size:80%"> >>> </span>-11/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴子勇士(A)</span> delayed (9<span style="font-size:80%"> >>> </span>-21/100).<br />
+<span class="bold">香蕉猴</span> delayed (49<span style="font-size:80%"> >>> </span>18/100).<br />
+<span class="bold">猴王</span> delayed (83<span style="font-size:80%"> >>> </span>77/100).<br />
+<span class="bold">猴子勇士(B)</span> delayed (1<span style="font-size:80%"> >>> </span>-29/100).<br />
+<span class="bold">猴子勇士(C)</span> delayed (70<span style="font-size:80%"> >>> </span>39/100).<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s9"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s8"><<</a>
+<a href="#s10">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 219/400</span><br />
+<span class="support">SP : 170/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 94/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 540/650</span><br />
+<span class="support">SP : 44/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 94/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 674/2526</span><br />
+<span class="support">SP : 483/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1087/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (674 > 635)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (635 > 605)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (605 > 583)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_062x.png" class="vcent"/>持续回复</div>
+<span class="bold">Satania</span><span class="recover"> HP 回复了+5%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+5%</span><br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1087 > 1185)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(540 > 650)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(44 > 93)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (583 > 576)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (576 > 569)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1185 > 1166)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (569 > 530)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s10"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s9"><<</a>
+<a href="#s11">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 219/400</span><br />
+<span class="support">SP : 120/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 44/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 93/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 44/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 530/2526</span><br />
+<span class="support">SP : 333/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1166/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(595 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(44 > 93)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (530 > 525)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (525 > 520)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (520 > 515)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1166 > 1264)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (515 > 641)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(B)</span></span> 受到<span class='dmg bold'>  458</span> 伤害 (650 > 192)<br />
+<span class="bold">猴子勇士(B)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(B)</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(192 > 339)<br />
+<span class="bold">猴子勇士(B)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(93 > 142)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(595 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(44 > 93)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (641 > 602)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1264 > 1362)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (602 > 597)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1362 > 1354)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (597 > 592)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (592 > 585)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (585 > 578)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (578 > 571)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s11"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s10"><<</a>
+<a href="#s12">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 219/400</span><br />
+<span class="support">SP : 20/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 93/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 339/650</span><br />
+<span class="support">SP : 142/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 43/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 571/2526</span><br />
+<span class="support">SP : 333/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1354/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (571 > 697)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴子勇士(A)</span> delayed (54<span style="font-size:80%"> >>> </span>24/100).<br />
+<span class="bold">香蕉猴</span> delayed (57<span style="font-size:80%"> >>> </span>26/100).<br />
+<span class="bold">猴王</span> delayed (76<span style="font-size:80%"> >>> </span>70/100).<br />
+<span class="bold">猴子勇士(B)</span> delayed (76<span style="font-size:80%"> >>> </span>46/100).<br />
+<span class="bold">猴子勇士(C)</span> delayed (49<span style="font-size:80%"> >>> </span>19/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1354 > 1452)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  28</span> 伤害 (697 > 669)<br />
+<span class="bold">猴子勇士(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(219 > 366)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(20 > 84)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(43 > 92)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1452 > 1550)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1550 > 1531)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (669 > 662)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (662 > 655)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (655 > 781)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴子勇士(A)</span> delayed (1<span style="font-size:80%"> >>> </span>-30/100).<br />
+<span class="bold">香蕉猴</span> delayed (29<span style="font-size:80%"> >>> </span>-1/100).<br />
+<span class="bold">猴王</span> delayed (85<span style="font-size:80%"> >>> </span>79/100).<br />
+<span class="bold">猴子勇士(B)</span> delayed (1<span style="font-size:80%"> >>> </span>-30/100).<br />
+<span class="bold">猴子勇士(C)</span> delayed (14<span style="font-size:80%"> >>> </span>-17/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (781 > 742)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s12"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s11"><<</a>
+<a href="#s13">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:124px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 366/400</span><br />
+<span class="support">SP : 84/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 43/150</span>
+</div>
+<span class="bold">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 339/650</span><br />
+<span class="support">SP : 92/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 92/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 742/2526</span><br />
+<span class="support">SP : 333/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1531/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1531 > 1629)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (742 > 720)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (720 > 846)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>毒气</div>
+<span class="bold">猴子勇士(A)</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">香蕉猴</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">猴王</span> 没有中毒.<br />
+<span class="bold">猴子勇士(B)</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">猴子勇士(C)</span><span class="spdmg">中毒了</span> !<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (846 > 837)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (837 > 828)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (828 > 819)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(C)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(650 > 575)</span><br />
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (819 > 812)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1629 > 1610)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (812 > 805)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1610 > 1708)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(B)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(339 > 264)</span><br />
+<div class="u"><span class="bold">猴子勇士(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (1708 > 1692)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (805 > 798)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  16</span> 伤害 (1692 > 1676)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(A)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(650 > 575)</span><br />
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(575 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(43 > 92)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (798 > 924)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(B)</span></span> 受到<span class='dmg bold'>  458</span> 伤害 (264 > -194)<br />
+<span class="bold">猴子勇士(B)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(B)</span> DEF 下降 20%<br />
+<span class="dmg"><span class="bold">猴子勇士(B)</span> 被打倒.</span><br />
+存活者获得 200 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s13"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s12"><<</a>
+<a href="#s14">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold spdmg">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 366/400</span><br />
+<span class="support">SP : 34/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 92/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold spdmg">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 575/650</span><br />
+<span class="support">SP : 42/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 924/2526</span><br />
+<span class="support">SP : 233/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1676/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">香蕉猴</span> 由于中毒受到 <span class="bold">50</span> 伤害.
+(366 > 316)</span><br />
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(316 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(34 > 98)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1676 > 1774)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(C)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(575 > 500)</span><br />
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(500 > 647)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(42 > 91)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  39</span> 伤害 (924 > 885)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1774 > 1755)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (885 > 878)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1755 > 1736)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (878 > 1004)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (400 > 72)<br />
+<span class="bold">香蕉猴</span> STR 下降 20%<br />
+<span class="bold">香蕉猴</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1736 > 1834)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(72 > 219)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(98 > 162)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1834 > 1815)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1004 > 997)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  19</span> 伤害 (1815 > 1796)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  29</span> 伤害 (1796 > 1767)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  29</span> 伤害 (1767 > 1738)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (997 > 988)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s14"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s13"><<</a>
+<a href="#s15">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 219/400</span><br />
+<span class="support">SP : 162/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 42/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 647/650</span><br />
+<span class="support">SP : 41/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 988/2526</span><br />
+<span class="support">SP : 233/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1738/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1738 > 1836)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (988 > 1114)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>毒气</div>
+<span class="bold">猴子勇士(A)</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">香蕉猴</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">猴王</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">猴子勇士(C)</span><span class="spdmg">中毒了</span> !<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">香蕉猴</span> 由于中毒受到 <span class="bold">50</span> 伤害.
+(219 > 169)</span><br />
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1114 > 1094)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(A)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(650 > 575)</span><br />
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(575 > 650)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(42 > 91)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴子勇士(C)</span> 由于中毒受到 <span class="bold">75</span> 伤害.
+(647 > 572)</span><br />
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(572 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(41 > 90)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴王</span> 由于中毒受到 <span class="bold">43</span> 伤害.
+(??? > ???)</span><br />
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> 的<span class="spdmg">毒</span> 被治愈.<br />
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1836 > 1934)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1094 > 1220)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+存活者获得 164 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1934 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (1220 > 1211)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  26</span> 伤害 (1961 > 1935)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  26</span> 伤害 (1935 > 1909)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s15"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s14"><<</a>
+<a href="#s16">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold spdmg">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 169/400</span><br />
+<span class="support">SP : 112/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 91/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 650/650</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1211/2526</span><br />
+<span class="support">SP : 133/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1909/1961</span><br />
+<span class="support">SP : 26/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (1211 > 1181)<br />
+<span class="bold">猴子勇士(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">香蕉猴</span> 由于中毒受到 <span class="bold">50</span> 伤害.
+(169 > 119)</span><br />
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span>'s <span class="spdmg">poison</span> has cured.<br />
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(119 > 266)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(112 > 176)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  30</span> 伤害 (1181 > 1151)<br />
+<span class="bold">猴子勇士(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1151 > 1277)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">91 SP</span></span>(26 > 117)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">76 SP</span></span>(133 > 209)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1909 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (19<span style="font-size:80%"> >>> </span>-12/100).<br />
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (595 > 540)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-11<span style="font-size:80%"> >>> </span>-42/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (1277 > 1268)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  26</span> 伤害 (1961 > 1935)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  9</span> 伤害 (1268 > 1259)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1935 > 1929)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (1259 > 1254)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (1254 > 1249)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(650 > 650)<br />
+<span class="bold">猴子勇士(C)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(40 > 89)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1249 > 1375)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+存活者获得 164 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1929 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(C)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (650 > 595)<br />
+<span class="bold">猴子勇士(C)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(C)</span> delayed (19<span style="font-size:80%"> >>> </span>-12/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (540 > 485)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (10<span style="font-size:80%"> >>> </span>-21/100).<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s16"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s15"><<</a>
+<a href="#s17">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:104px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 266/400</span><br />
+<span class="support">SP : 126/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 485/650</span><br />
+<span class="support">SP : 41/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 595/650</span><br />
+<span class="support">SP : 89/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1375/2526</span><br />
+<span class="support">SP : 209/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1961/1961</span><br />
+<span class="support">SP : 37/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1375 > 1355)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>鞭咬</div>
+<span class="bold">猴子勇士(C)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  79</span> 伤害 (595 > 516)<br />
+<span class="bold">猴子勇士(C)</span> delayed (56<span style="font-size:80%"> >>> </span>5/100).<br />
+<span class="bold">猴子勇士(C)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  79</span> 伤害 (516 > 437)<br />
+<span class="bold">猴子勇士(C)</span> delayed (6<span style="font-size:80%"> >>> </span>-45/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1355 > 1481)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(C)</span></span> 受到<span class='dmg bold'>  458</span> 伤害 (437 > -21)<br />
+<span class="bold">猴子勇士(C)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(C)</span> DEF 下降 20%<br />
+<span class="dmg"><span class="bold">猴子勇士(C)</span> 被打倒.</span><br />
+存活者获得 200 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  34</span> 伤害 (1481 > 1447)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1447 > 1427)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  23</span> 伤害 (1961 > 1938)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1427 > 1419)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  23</span> 伤害 (1938 > 1915)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1419 > 1545)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">91 SP</span></span>(7 > 98)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">76 SP</span></span>(209 > 285)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴子勇士(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(485 > 632)<br />
+<span class="bold">猴子勇士(A)</span> <span class="support">回复了 <span class="bold">49 SP</span></span>(41 > 90)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s17"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s16"><<</a>
+<a href="#s18">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:116px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 266/400</span><br />
+<span class="support">SP : 26/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 632/650</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold dmg">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 89/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1545/2526</span><br />
+<span class="support">SP : 285/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1915/1961</span><br />
+<span class="support">SP : 98/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1915 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (632 > 577)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (22<span style="font-size:80%"> >>> </span>-8/100).<br />
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (577 > 522)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-8<span style="font-size:80%"> >>> </span>-38/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(266 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(26 > 90)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1545 > 1671)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+存活者获得 164 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (522 > 467)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (4<span style="font-size:80%"> >>> </span>-27/100).<br />
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (467 > 412)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-26<span style="font-size:80%"> >>> </span>-57/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (1671 > 1640)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1640 > 1620)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1620 > 1746)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">91 SP</span></span>(18 > 109)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">76 SP</span></span>(285 > 361)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (412 > 357)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-18<span style="font-size:80%"> >>> </span>-49/100).<br />
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">香蕉猴</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (357 > 302)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-48<span style="font-size:80%"> >>> </span>-79/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1961 > 1941)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1941 > 1921)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1746 > 1738)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s18"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s17"><<</a>
+<a href="#s19">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008.gif);background-repeat:no-repeat;background-position:144px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:116px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 40/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 302/650</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold dmg">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 89/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1738/2526</span><br />
+<span class="support">SP : 361/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1921/1961</span><br />
+<span class="support">SP : 69/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1921 > 1961)<br />
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/we_other007y.png" class="vcent"/>身体固定</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (302 > 247)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-45<span style="font-size:80%"> >>> </span>-75/100).<br />
+<span class="bold">猴子勇士(A)</span> 保护<span class="bold">猴王</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (247 > 192)<br />
+<span class="bold">猴子勇士(A)</span> SPD 下降 30%<br />
+<span class="bold">猴子勇士(A)</span> delayed (-75<span style="font-size:80%"> >>> </span>-105/100).<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1738 > 1864)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (??? > ???)<br />
+<span class="bold">猴王</span> STR 下降 20%<br />
+<span class="bold">猴王</span> DEF down 10%<br />
+存活者获得 164 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(40 > 104)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1864 > 1990)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>毒气</div>
+<span class="bold">猴子勇士(A)</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">香蕉猴</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">猴王</span><span class="spdmg">中毒了</span> !<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">香蕉猴</span> 由于中毒受到 <span class="bold">50</span> 伤害.
+(400 > 350)</span><br />
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  20</span> 伤害 (1990 > 1970)<br />
+<span class="bold">香蕉猴</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴王</span> 由于中毒受到 <span class="bold">43</span> 伤害.
+(??? > ???)</span><br />
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1970 > 1963)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (1961 > 1943)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  7</span> 伤害 (1963 > 1956)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1943 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (1956 > 2082)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴子勇士(A)</span></span> 受到<span class='dmg bold'>  458</span> 伤害 (192 > -266)<br />
+<span class="bold">猴子勇士(A)</span> STR 下降 20%<br />
+<span class="bold">猴子勇士(A)</span> DEF 下降 20%<br />
+<span class="dmg"><span class="bold">猴子勇士(A)</span> 被打倒.</span><br />
+存活者获得 222 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s19"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s18"><<</a>
+<a href="#s20">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:30px 97px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:156px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:136px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:116px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:260px 52px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold spdmg">香蕉猴</span>
+<div class="hpsp">
+<span class="recover">HP : 350/400</span><br />
+<span class="support">SP : 54/250</span>
+</div>
+<span class="bold spdmg">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">猴子勇士(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 90/150</span>
+</div>
+<span class="bold dmg">猴子勇士(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 42/150</span>
+</div>
+<span class="bold dmg">猴子勇士(C)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/650</span><br />
+<span class="dmg">SP : 89/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2082/2526</span><br />
+<span class="support">SP : 261/631</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1961/1961</span><br />
+<span class="support">SP : 29/914</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴王</span> 由于中毒受到 <span class="bold">22</span> 伤害.
+(??? > ???)</span><br />
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>召唤奴隶</div>
+<img src="./image/char/mon_008.gif" class="vcent"><span class="bold">猴子勇士(D)</span> 加入了队伍.<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">香蕉猴</span> 由于中毒受到 <span class="bold">50</span> 伤害.
+(350 > 300)</span><br />
+<div class="u"><span class="bold">香蕉猴</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1961 > 1955)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  5</span> 伤害 (2082 > 2077)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1955 > 1949)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1949 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (2077 > 2203)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (300 > -28)<br />
+<span class="bold">香蕉猴</span> STR 下降 20%<br />
+<span class="bold">香蕉猴</span> DEF 下降 20%<br />
+<span class="dmg"><span class="bold">香蕉猴</span> 被打倒.</span><br />
+存活者获得 200 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  43</span> 伤害 (2203 > 2160)<br />
+<span class="bold">猴子勇士(D)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="spdmg"><span class="bold">猴王</span> 由于中毒受到 <span class="bold">29</span> 伤害.
+(??? > ???)</span><br />
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>召唤奴隶</div>
+<img src="./image/char/mon_008.gif" class="vcent"><span class="bold">猴子勇士(E)</span> 加入了队伍.<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Satania</span><span class="recover"> 自动回复 <span class="bold">98 HP</span></span> (1961 > 1961)<br />
+<span class="bold">Satania</span> 陷入沉思结果忘了行动.<br />(无更多行动模式)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴子勇士(E)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  43</span> 伤害 (2160 > 2117)<br />
+<span class="bold">猴子勇士(E)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">126 HP</span></span> (2117 > 2243)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>凝视</div>
+<span class="bold">猴王</span> delayed (88<span style="font-size:80%"> >>> </span>82/100).<br />
+<span class="bold">猴子勇士(D)</span> delayed (92<span style="font-size:80%"> >>> </span>62/100).<br />
+<span class="bold">猴子勇士(E)</span> delayed (-25<span style="font-size:80%"> >>> </span>-56/100).<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s20"></a>
+<span style="font-size:150%">平局</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 3/7<br />
+总伤害 : 3982<br />
+总经验值 : 26<br />
+</td><td class="teams">残留HP : 4204/4487<br />
+存活 : 2/2<br />
+总伤害 : 5604<br />
+总经验值 : 1642<br />
+金钱 : $&nbsp;400<br />
+</td></tr>
+</tbody></table>

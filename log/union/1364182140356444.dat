@@ -1,0 +1,249 @@
+1364182140356444
+Catastrophy<>红魔馆的守门人
+4<>5
+96<>76.2
+1
+10
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">红魔馆的守门人</div>
+总级别 : 381<br>
+平均级别 : 76.2<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 384<br>
+平均级别 : 96<br>
+总HP : 9618/9618</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:64px -10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_21016m.gif);background-repeat:no-repeat;background-position:30px 45px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/feisalisi.gif);background-repeat:no-repeat;background-position:24px 90px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:132px 6px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/heimeiling.gif);background-repeat:no-repeat;background-position:105px 73px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:372px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112ma.gif);background-repeat:no-repeat;background-position:242px 4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_321ma.gif);background-repeat:no-repeat;background-position:286px 68px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:300px 105px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">菲萨丽丝(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+<span class="bold">红美玲</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">菲萨丽丝(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1400/1400</span><br />
+<span class="support">SP : 1700/1700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">武神(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+<span class="bold">武神(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2400/2400</span><br />
+<span class="support">SP : 800/800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Friendy</span>
+<div class="hpsp">
+<span class="recover">HP : 3191/3191</span><br />
+<span class="support">SP : 555/555</span>
+</div>
+<span class="bold">Jupiter</span>
+<div class="hpsp">
+<span class="recover">HP : 1534/1534</span><br />
+<span class="support">SP : 624/624</span>
+</div>
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2920/2920</span><br />
+<span class="support">SP : 867/867</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1973/1973</span><br />
+<span class="support">SP : 920/920</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Jupiter</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">Jupiter</span> MAXHP(1534) 提升到 4602<br />
+<span class="bold">Jupiter</span> INT 提升 60%<br />
+<span class="bold">Jupiter</span> DEF 提升 35%<br />
+<span class="bold">Jupiter</span> MDEF 提升 35%<br />
+<span class="bold">Jupiter</span> <span class="recover">回复了 <span class="bold">2301 HP</span></span>(1534 > 3835)<br />
+<span class="bold">Jupiter</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (3835 > 3497)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  831</span> 伤害 (1973 > 1142)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (3191 > 2818)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (3497 > 3159)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (2920 > 2789)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (2789 > 2658)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  831</span> 伤害 (1142 > 311)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (2658 > 2527)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (3159 > 2821)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (2821 > 2483)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (2818 > 2445)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (2527 > 2396)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  831</span> 伤害 (311 > -520)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (2445 > 2072)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (2483 > 2145)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (2072 > 1699)<br />
+<span class="dmg"><span class="bold">Satania</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(A)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(B)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(B)</span><img src="./image/icon/skill_025.png" class="vcent"/>白棺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2396 > 2305)<br />
+<span class="bold">Onioniony</span> delayed (59<span style="font-size:80%"> >>> </span>-91/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2305 > 2214)<br />
+<span class="bold">Onioniony</span> delayed (-91<span style="font-size:80%"> >>> </span>-241/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2214 > 2123)<br />
+<span class="bold">Onioniony</span> delayed (-241<span style="font-size:80%"> >>> </span>-391/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2123 > 2032)<br />
+<span class="bold">Onioniony</span> delayed (-391<span style="font-size:80%"> >>> </span>-541/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (2032 > 1941)<br />
+<span class="bold">Onioniony</span> delayed (-541<span style="font-size:80%"> >>> </span>-691/100).<br />
+<span class="bold">菲萨丽丝(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  88</span> 伤害 (2145 > 2057)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  269</span> 伤害 (1699 > 1430)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  269</span> 伤害 (1430 > 1161)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Friendy</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_062x.png" class="vcent"/>自我持续回复</div>
+<span class="bold">Friendy</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神(B)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1941 > 1881)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  147</span> 伤害 (1161 > 1014)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  147</span> 伤害 (1014 > 867)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  134</span> 伤害 (2057 > 1923)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1881 > 1821)<br />
+<span class="bold">武神(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">武神(A)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  134</span> 伤害 (1923 > 1789)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  134</span> 伤害 (1789 > 1655)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1821 > 1761)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  147</span> 伤害 (867 > 720)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  60</span> 伤害 (1761 > 1701)<br />
+<span class="bold">武神(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>96/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>崩山彩极炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (720 > 347)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (1655 > 1317)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (347 > -26)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (1317 > 979)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (979 > 641)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (1701 > 1570)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (641 > 303)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (-26 > -399)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (1570 > 1439)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (-399 > -772)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  131</span> 伤害 (1439 > 1308)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (-772 > -1145)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (303 > -35)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (-1145 > -1518)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Jupiter</span></span> 受到<span class='dmg bold'>  338</span> 伤害 (-35 > -373)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  373</span> 伤害 (-1518 > -1891)<br />
+<span class="dmg"><span class="bold">Friendy</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">Jupiter</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-8/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">菲萨丽丝(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1308 > 1217)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1217 > 1126)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  91</span> 伤害 (1126 > 1035)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">红美玲</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(A)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">武神(B)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">红美玲</span><img src="./image/icon/skill_057.png" class="vcent"/>红炮</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  2041</span> 伤害 (1035 > -1006)<br />
+<span class="bold">Onioniony</span> delayed (-484<span style="font-size:80%"> >>> </span>-535/100).<br />
+<span class="dmg"><span class="bold">Onioniony</span> 被打倒.</span><br />
+<span class="bold">红美玲</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s1"></a>
+<span style="font-size:200%">红魔馆的守门人 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 5/5<br />
+总伤害 : 15709<br />
+</td><td class="teams">残留HP : 0/12686<br />
+存活 : 0/4<br />
+总伤害 : 0<br />
+</td></tr>
+</tbody></table>

@@ -1,0 +1,590 @@
+1359800237675912
+黑暗枪骑兵[5位]<>Jolteon[4位]
+5<>6
+57.6<>61.2
+1
+22
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">Jolteon[4位]</div>
+总级别 : 306<br>
+平均级别 : 61.2<br>
+总HP : 3888/3888</td><td class="teams ttd1"><div class="bold">黑暗枪骑兵[5位]</div>
+总级别 : 288<br>
+平均级别 : 57.6<br>
+总HP : 6053/6053</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_221fe.gif);background-repeat:no-repeat;background-position:52px -4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_246z.gif);background-repeat:no-repeat;background-position:52px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_246z.gif);background-repeat:no-repeat;background-position:36px 72px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214r.gif);background-repeat:no-repeat;background-position:32px 128px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_012.gif);background-repeat:no-repeat;background-position:116px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_196x.gif);background-repeat:no-repeat;background-position:372px 72px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:384px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">ThunderBolt</span>
+<div class="hpsp">
+<span class="recover">HP : 469/469</span><br />
+<span class="support">SP : 2015/2015</span>
+</div>
+<span class="bold">IceBeam</span>
+<div class="hpsp">
+<span class="recover">HP : 415/415</span><br />
+<span class="support">SP : 1045/1045</span>
+</div>
+<span class="bold">FlameThrower</span>
+<div class="hpsp">
+<span class="recover">HP : 412/412</span><br />
+<span class="support">SP : 1035/1035</span>
+</div>
+<span class="bold">MoonLight</span>
+<div class="hpsp">
+<span class="recover">HP : 694/694</span><br />
+<span class="support">SP : 527/527</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">MetaBlock</span>
+<div class="hpsp">
+<span class="recover">HP : 1898/1898</span><br />
+<span class="support">SP : 52/52</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2650/2650</span><br />
+<span class="support">SP : 295/295</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<div class="hpsp">
+<span class="recover">HP : 664/664</span><br />
+<span class="support">SP : 1641/1641</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 895/895</span><br />
+<span class="support">SP : 1049/1049</span>
+</div>
+<span class="bold">死亡歌颂者</span>
+<div class="hpsp">
+<span class="recover">HP : 528/528</span><br />
+<span class="support">SP : 648/648</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1316/1316</span><br />
+<span class="support">SP : 641/641</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">MoonLight</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MetaBlock</span><img src="./image/icon/skill_057.png" class="vcent"/>毁灭</div>
+<span class="dmg"><span class="bold">MetaBlock</span> sacrifice <span class="bold">570</span> HP</span>
+(1898 > 1328)</span><br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  24</span> 伤害 (2650 > 2626)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  24</span> 伤害 (2626 > 2602)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  24</span> 伤害 (2602 > 2578)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  24</span> 伤害 (2578 > 2554)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">FlameThrower</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">ThunderBolt</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">IceBeam</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">ThunderBolt</span> delayed (1<span style="font-size:80%"> >>> </span>-99/100).<br />
+<span class="bold">IceBeam</span> delayed (41<span style="font-size:80%"> >>> </span>-59/100).<br />
+<span class="bold">FlameThrower</span> delayed (41<span style="font-size:80%"> >>> </span>-59/100).<br />
+<span class="bold">MoonLight</span> delayed (88<span style="font-size:80%"> >>> </span>-13/100).<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">甘道夫</span> DEF 提升 60%<br />
+<span class="bold">小鸟游六花</span> DEF 提升 60%<br />
+<span class="bold">死亡歌颂者</span> DEF 提升 60%<br />
+<span class="bold">方森岩</span> DEF 提升 60%<br />
+<span class="bold">虚空行者</span> DEF 提升 60%<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">死亡歌颂者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">甘道夫</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">死亡歌颂者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MetaBlock</span><img src="./image/icon/skill_062.png" class="vcent"/>自我回复</div>
+<span class="bold">MetaBlock</span> <span class="recover">回复了 <span class="bold">430 HP</span></span>(1328 > 1758)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MoonLight</span><img src="./image/icon/ms_01.png" class="vcent"/>魔法阵</div>
+<span class="bold">MoonLight</span><span class="support"> 画魔法阵 x1</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">死亡歌颂者</span><img src="./image/icon/skill_028.png" class="vcent"/>墓地</div>
+<img src="./image/char/mon_146.gif" class="vcent"><span class="bold">木乃伊(A)</span> 加入了队伍.<br />
+<img src="./image/char/mon_146r.gif" class="vcent"><span class="bold">木乃伊囚犯(A)</span> 加入了队伍.<br />
+<img src="./image/char/mon_146.gif" class="vcent"><span class="bold">木乃伊(B)</span> 加入了队伍.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">IceBeam</span><img src="./image/icon/ms_01.png" class="vcent"/>双重魔法阵</div>
+<span class="bold">IceBeam</span><span class="support"> 画魔法阵 x2</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">FlameThrower</span><img src="./image/icon/ms_01.png" class="vcent"/>双重魔法阵</div>
+<span class="bold">FlameThrower</span><span class="support"> 画魔法阵 x2</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">64 SP</span></span> (541 > 605)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">30 SP</span></span> (235 > 265)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">MetaBlock</span> 保护<span class="bold">FlameThrower</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1758 > 1630)<br />
+<span class="bold">MetaBlock</span> DEF 下降 30%<br />
+<span class="bold">MetaBlock</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/other/mc1_5.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_221fe.gif);background-repeat:no-repeat;background-position:52px -4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_246z.gif);background-repeat:no-repeat;background-position:52px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_246z.gif);background-repeat:no-repeat;background-position:36px 72px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214r.gif);background-repeat:no-repeat;background-position:32px 128px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_012.gif);background-repeat:no-repeat;background-position:116px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_196x.gif);background-repeat:no-repeat;background-position:372px 72px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:384px 108px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:251px -12px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:280px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146r.gif);background-repeat:no-repeat;background-position:292px 84px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:312px 112px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">ThunderBolt</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 469/469</span><br />
+<span class="support">SP : 2015/2015</span>
+</div>
+<span class="bold">IceBeam</span>
+<div class="hpsp">
+<span class="recover">HP : 415/415</span><br />
+<span class="support">SP : 745/1045</span>
+</div>
+<span class="bold">FlameThrower</span>
+<div class="hpsp">
+<span class="recover">HP : 412/412</span><br />
+<span class="support">SP : 735/1035</span>
+</div>
+<span class="bold">MoonLight</span>
+<div class="hpsp">
+<span class="recover">HP : 694/694</span><br />
+<span class="support">SP : 327/527</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">MetaBlock</span>
+<div class="hpsp">
+<span class="recover">HP : 1630/1898</span><br />
+<span class="support">SP : 36/52</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2554/2650</span><br />
+<span class="support">SP : 235/295</span>
+</div>
+<span class="bold">木乃伊(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 503/503</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊囚犯(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 726/726</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 503/503</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 664/664</span><br />
+<span class="support">SP : 1641/1641</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 895/895</span><br />
+<span class="support">SP : 749/1049</span>
+</div>
+<span class="bold">死亡歌颂者</span>
+<div class="hpsp">
+<span class="recover">HP : 528/528</span><br />
+<span class="support">SP : 288/648</span>
+</div>
+<span class="bold">虚空行者</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1316/1316</span><br />
+<span class="support">SP : 605/641</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MetaBlock</span><img src="./image/icon/skill_057.png" class="vcent"/>毁灭</div>
+<span class="dmg"><span class="bold">MetaBlock</span> sacrifice <span class="bold">570</span> HP</span>
+(1630 > 1060)</span><br />
+<span class="bold">木乃伊囚犯(A)</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊囚犯(A)</span></span> 受到<span class='dmg bold'>  198</span> 伤害 (726 > 528)<br />
+<span class="bold">木乃伊(A)</span> 保护<span class="bold">死亡歌颂者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊(A)</span></span> 受到<span class='dmg bold'>  198</span> 伤害 (503 > 305)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊囚犯(A)</span></span> 受到<span class='dmg bold'>  198</span> 伤害 (528 > 330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  24</span> 伤害 (2554 > 2530)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">MoonLight</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">ThunderBolt</span><img src="./image/icon/skill_029.png" class="vcent"/>翡翠龙</div>
+<span class="bold">ThunderBolt</span><span class="charge"> 使用魔法阵 x5</span><br />
+<img src="./image/char/mon_251.gif" class="vcent"><span class="bold">翡翠龙(A)</span> 加入了队伍.<br />
+<span class="bold">ThunderBolt</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-1000/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">翡翠龙(A)</span><img src="./image/icon/skill_057.png" class="vcent"/>翡翠结晶</div>
+<span class="bold">翡翠龙(A)</span> SPD 提升 100%<br />
+<span class="bold">翡翠龙(A)</span> ATK 提升 100%<br />
+<span class="bold">翡翠龙(A)</span> MATK 提升 100%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MoonLight</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">MetaBlock</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(1060 > 1318)<br />
+<span class="bold">MetaBlock</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(1318 > 1576)<br />
+<span class="bold">MetaBlock</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(1576 > 1834)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">ThunderBolt</span></span> 受到<span class='dmg bold'>  296</span> 伤害 (469 > 173)<br />
+<span class="bold">ThunderBolt</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">IceBeam</span></span> 受到<span class='dmg bold'>  317</span> 伤害 (415 > 98)<br />
+<span class="bold">IceBeam</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  366</span> 伤害 (1834 > 1468)<br />
+<span class="bold">MetaBlock</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">FlameThrower</span></span> 受到<span class='dmg bold'>  317</span> 伤害 (412 > 95)<br />
+<span class="bold">FlameThrower</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MoonLight</span></span> 受到<span class='dmg bold'>  306</span> 伤害 (694 > 388)<br />
+<span class="bold">MoonLight</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (2517 > 2470)<br />
+<span class="bold">翡翠龙(A)</span> SPD 下降 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">105 SP</span></span> (749 > 854)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">死亡歌颂者</span><span class="support"> 自动回复 <span class="bold">65 SP</span></span> (288 > 353)<br />
+<span class="charge"><span class="bold">死亡歌颂者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_021z.png" class="vcent"/>星云陨落</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2470 > 2417)<br />
+<span class="bold">MetaBlock</span> 保护<span class="bold">MoonLight</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (1468 > 1070)<br />
+<span class="bold">MetaBlock</span> 保护<span class="bold">MoonLight</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (1070 > 672)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (672 > 274)<br />
+<span class="bold">MetaBlock</span> 保护<span class="bold">ThunderBolt</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (274 > -124)<br />
+<span class="bold">翡翠龙(A)</span> 保护<span class="bold">FlameThrower</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2417 > 2364)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2364 > 2311)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">FlameThrower</span></span> 受到<span class='dmg bold'>  344</span> 伤害 (95 > -249)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (-124 > -522)<br />
+<span class="bold">翡翠龙(A)</span> 保护<span class="bold">FlameThrower</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2311 > 2258)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2258 > 2205)<br />
+<span class="bold">翡翠龙(A)</span> 保护<span class="bold">ThunderBolt</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2205 > 2152)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">IceBeam</span></span> 受到<span class='dmg bold'>  344</span> 伤害 (98 > -246)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (-522 > -920)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2152 > 2099)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">IceBeam</span></span> 受到<span class='dmg bold'>  344</span> 伤害 (-246 > -590)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2099 > 2046)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ThunderBolt</span></span> 受到<span class='dmg bold'>  322</span> 伤害 (173 > -149)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ThunderBolt</span></span> 受到<span class='dmg bold'>  322</span> 伤害 (-149 > -471)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (2046 > 1993)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (-920 > -1318)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">MetaBlock</span></span> 受到<span class='dmg bold'>  398</span> 伤害 (-1318 > -1716)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">FlameThrower</span></span> 受到<span class='dmg bold'>  344</span> 伤害 (-249 > -593)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">ThunderBolt</span></span> 受到<span class='dmg bold'>  322</span> 伤害 (-471 > -793)<br />
+<span class="dmg"><span class="bold">ThunderBolt</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">IceBeam</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">MetaBlock</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">FlameThrower</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">翡翠龙(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">30 SP</span></span> (235 > 265)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">翡翠龙(A)</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1993 > 1971)<br />
+<span class="bold">翡翠龙(A)</span> DEF 下降 30%<br />
+<span class="bold">翡翠龙(A)</span> MDEF 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_013b.png" class="vcent"/>超级治疗</div>
+<span class="bold">木乃伊囚犯(A)</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(330 > 726)<br />
+<span class="bold">木乃伊(A)</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(305 > 503)<br />
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(2530 > 2650)<br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">翡翠龙(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>翡翠冲击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (664 > -1428)<br />
+<span class="bold">甘道夫</span> DEF 下降 30%<br />
+<span class="bold">甘道夫</span> MDEF 下降 30%<br />
+<span class="bold">甘道夫</span> delayed (39<span style="font-size:80%"> >>> </span>9/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (895 > -1197)<br />
+<span class="bold">小鸟游六花</span> DEF 下降 30%<br />
+<span class="bold">小鸟游六花</span> MDEF 下降 30%<br />
+<span class="bold">小鸟游六花</span> delayed (-20<span style="font-size:80%"> >>> </span>-51/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">死亡歌颂者</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (528 > -1564)<br />
+<span class="bold">死亡歌颂者</span> DEF 下降 30%<br />
+<span class="bold">死亡歌颂者</span> MDEF 下降 30%<br />
+<span class="bold">死亡歌颂者</span> delayed (81<span style="font-size:80%"> >>> </span>50/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (2650 > 558)<br />
+<span class="bold">方森岩</span> DEF 下降 30%<br />
+<span class="bold">方森岩</span> MDEF 下降 30%<br />
+<span class="bold">方森岩</span> delayed (13<span style="font-size:80%"> >>> </span>-18/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (1316 > -776)<br />
+<span class="bold">虚空行者</span> DEF 下降 30%<br />
+<span class="bold">虚空行者</span> MDEF 下降 30%<br />
+<span class="bold">虚空行者</span> delayed (71<span style="font-size:80%"> >>> </span>40/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊(A)</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (503 > -1589)<br />
+<span class="bold">木乃伊(A)</span> DEF 下降 30%<br />
+<span class="bold">木乃伊(A)</span> MDEF 下降 30%<br />
+<span class="bold">木乃伊(A)</span> delayed (91<span style="font-size:80%"> >>> </span>61/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊囚犯(A)</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (726 > -1366)<br />
+<span class="bold">木乃伊囚犯(A)</span> DEF 下降 30%<br />
+<span class="bold">木乃伊囚犯(A)</span> MDEF 下降 30%<br />
+<span class="bold">木乃伊囚犯(A)</span> delayed (91<span style="font-size:80%"> >>> </span>61/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊(B)</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (503 > -1589)<br />
+<span class="bold">木乃伊(B)</span> DEF 下降 30%<br />
+<span class="bold">木乃伊(B)</span> MDEF 下降 30%<br />
+<span class="bold">木乃伊(B)</span> delayed (91<span style="font-size:80%"> >>> </span>61/100).<br />
+<span class="dmg"><span class="bold">甘道夫</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">小鸟游六花</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">死亡歌颂者</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">虚空行者</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">木乃伊(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">木乃伊囚犯(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">木乃伊(B)</span> 被打倒.</span><br />
+<span class="bold">翡翠龙(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">MoonLight</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">MoonLight</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">MoonLight</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(388 > 646)<br />
+<span class="bold">翡翠龙(A)</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(1971 > 2229)<br />
+<span class="bold">翡翠龙(A)</span> <span class="recover">回复了 <span class="bold">258 HP</span></span>(2229 > 2487)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:64px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214r.gif);background-repeat:no-repeat;background-position:32px 128px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_251.gif);background-repeat:no-repeat;background-position:86px 77px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:368px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:400px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">ThunderBolt</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/469</span><br />
+<span class="dmg">SP : 215/2015</span>
+</div>
+<span class="bold dmg">IceBeam</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/415</span><br />
+<span class="dmg">SP : 745/1045</span>
+</div>
+<span class="bold dmg">FlameThrower</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/412</span><br />
+<span class="dmg">SP : 735/1035</span>
+</div>
+<span class="bold">MoonLight</span>
+<div class="hpsp">
+<span class="recover">HP : 646/694</span><br />
+<span class="support">SP : 267/527</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">MetaBlock</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1898</span><br />
+<span class="dmg">SP : 35/52</span>
+</div>
+<span class="bold">翡翠龙(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2487/2517</span><br />
+<span class="support">SP : 1647/2097</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 558/2650</span><br />
+<span class="support">SP : 235/295</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">甘道夫</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/664</span><br />
+<span class="dmg">SP : 441/1641</span>
+</div>
+<span class="bold dmg">小鸟游六花</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/895</span><br />
+<span class="dmg">SP : 794/1049</span>
+</div>
+<span class="bold dmg">死亡歌颂者</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/528</span><br />
+<span class="dmg">SP : 353/648</span>
+</div>
+<span class="bold dmg">虚空行者</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1316</span><br />
+<span class="dmg">SP : 305/641</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">翡翠龙(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">30 SP</span></span> (235 > 265)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_062y.png" class="vcent"/>超回复</div>
+<span class="bold">方森岩</span> <span class="recover">回复了 <span class="bold">1256 HP</span></span>(558 > 1814)<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">翡翠龙(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>翡翠冲击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  2092</span> 伤害 (1814 > -278)<br />
+<span class="bold">方森岩</span> DEF 下降 30%<br />
+<span class="bold">方森岩</span> MDEF 下降 30%<br />
+<span class="bold">方森岩</span> delayed (-12<span style="font-size:80%"> >>> </span>-43/100).<br />
+<span class="dmg"><span class="bold">方森岩</span> 被打倒.</span><br />
+<span class="bold">翡翠龙(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s3"></a>
+<span style="font-size:200%">Jolteon[4位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 3133/6405<br />
+存活 : 2/6<br />
+总伤害 : 19542<br />
+</td><td class="teams">残留HP : 0/6053<br />
+存活 : 0/5<br />
+总伤害 : 7802<br />
+</td></tr>
+</tbody></table>

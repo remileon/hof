@@ -1,0 +1,918 @@
+1360673807223595
+Catastrophy[4位]<>黑暗枪骑兵[3位]
+6<>5
+86.2<>64.6
+0
+40
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">黑暗枪骑兵[3位]</div>
+总级别 : 323<br>
+平均级别 : 64.6<br>
+总HP : 6945/6945</td><td class="teams ttd1"><div class="bold">Catastrophy[4位]</div>
+总级别 : 431<br>
+平均级别 : 86.2<br>
+总HP : 9585/9585</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:53px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:37px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111ma.gif);background-repeat:no-repeat;background-position:128px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_321fe.gif);background-repeat:no-repeat;background-position:110px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211fe.gif);background-repeat:no-repeat;background-position:332px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:392px 106px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112ma.gif);background-repeat:no-repeat;background-position:275px 87px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">甘道夫</span>
+<div class="hpsp">
+<span class="recover">HP : 718/718</span><br />
+<span class="support">SP : 1798/1798</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 1127/1127</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1378/1378</span><br />
+<span class="support">SP : 670/670</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2950/2950</span><br />
+<span class="support">SP : 333/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 945/945</span><br />
+<span class="support">SP : 585/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2145/2145</span><br />
+<span class="support">SP : 842/842</span>
+</div>
+<span class="bold">Friendy</span>
+<div class="hpsp">
+<span class="recover">HP : 3061/3061</span><br />
+<span class="support">SP : 533/533</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hecate</span>
+<div class="hpsp">
+<span class="recover">HP : 1539/1539</span><br />
+<span class="support">SP : 2598/2598</span>
+</div>
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1753/1753</span><br />
+<span class="support">SP : 1262/1262</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1087/1087</span><br />
+<span class="support">SP : 675/675</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Oniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">天启者</span> MAXHP(945) 提升到 2835<br />
+<span class="bold">天启者</span> INT 提升 60%<br />
+<span class="bold">天启者</span> DEF 提升 35%<br />
+<span class="bold">天启者</span> MDEF 提升 35%<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">1418 HP</span></span>(945 > 2363)<br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hecate</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_059z.png" class="vcent"/>超限</div>
+<span class="bold">Friendy</span> STR 提升 80%<br />
+<span class="bold">Friendy</span> MAXHP(3061) 下降到 2449<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">方森岩</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">Hecate</span> delayed (45<span style="font-size:80%"> >>> </span>-56/100).<br />
+<span class="bold">Pumpkin</span> delayed (91<span style="font-size:80%"> >>> </span>-9/100).<br />
+<span class="bold">Oniony</span> delayed (55<span style="font-size:80%"> >>> </span>-45/100).<br />
+<span class="bold">虚空行者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">甘道夫</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">甘道夫</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">天启者</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">天启者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">甘道夫</span> DEF 提升 50%<br />
+<span class="bold">小鸟游六花</span> DEF 提升 50%<br />
+<span class="bold">方森岩</span> DEF 提升 50%<br />
+<span class="bold">天启者</span> DEF 提升 50%<br />
+<span class="bold">虚空行者</span> DEF 提升 50%<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Satania</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">Satania</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">Hecate</span> DEF 提升 20%<br />
+<span class="bold">Hecate</span> MDEF 提升 60%<br />
+<span class="bold">Pumpkin</span> DEF 提升 20%<br />
+<span class="bold">Pumpkin</span> MDEF 提升 60%<br />
+<span class="bold">Oniony</span> DEF 提升 20%<br />
+<span class="bold">Oniony</span> MDEF 提升 60%<br />
+<span class="bold">Friendy</span> DEF 提升 20%<br />
+<span class="bold">Friendy</span> MDEF 提升 60%<br />
+<span class="bold">Satania</span> DEF 提升 20%<br />
+<span class="bold">Satania</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Hecate</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Hecate</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Friendy</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Friendy</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Satania</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Satania</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Friendy</span><span class="recover"> 自动回复 <span class="bold">245 HP</span></span> (2449 > 2449)<br />
+<span class="support">* </span><span class="bold">Friendy</span><span class="support"> 自动回复 <span class="bold">53 SP</span></span> (523 > 533)<br />
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="bold">天启者</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  1279</span> 伤害 (2363 > 1084)<br />
+<span class="bold">Friendy</span> 移到后排.<br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  483</span> 伤害 (718 > 235)<br />
+<span class="bold">甘道夫</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  348</span> 伤害 (954 > 606)<br />
+<span class="bold">小鸟游六花</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  153</span> 伤害 (2950 > 2797)<br />
+<span class="bold">方森岩</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  160</span> 伤害 (1084 > 924)<br />
+<span class="bold">天启者</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  420</span> 伤害 (1378 > 958)<br />
+<span class="bold">虚空行者</span> SPD 下降 30%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:53px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:37px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111ma.gif);background-repeat:no-repeat;background-position:128px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:110px 99px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211fe.gif);background-repeat:no-repeat;background-position:328px -10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:352px 30px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112ma.gif);background-repeat:no-repeat;background-position:350px 74px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:396px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:273px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 235/718</span><br />
+<span class="support">SP : 1798/1798</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 606/954</span><br />
+<span class="support">SP : 677/1127</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 958/1378</span><br />
+<span class="support">SP : 570/670</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2797/2950</span><br />
+<span class="support">SP : 183/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 924/2835</span><br />
+<span class="support">SP : 285/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2145/2145</span><br />
+<span class="support">SP : 542/842</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2284/2284</span><br />
+<span class="support">SP : 271/571</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hecate</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1539/1539</span><br />
+<span class="support">SP : 2598/2598</span>
+</div>
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1753/1753</span><br />
+<span class="support">SP : 812/1262</span>
+</div>
+<span class="bold">Friendy</span>
+<div class="hpsp">
+<span class="recover">HP : 2449/2449</span><br />
+<span class="support">SP : 433/533</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 1087/1087</span><br />
+<span class="support">SP : 125/675</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hecate</span><img src="./image/icon/skill_059.png" class="vcent"/>魔力契约</div>
+<span class="bold">Hecate</span> INT 提升 50%<br />
+<span class="bold">Hecate</span> MATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (958 > 1096)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (570 > 637)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_006cz.png" class="vcent"/>连锁闪电</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hecate</span></span> 受到<span class='dmg bold'>  156</span> 伤害 (1539 > 1383)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  174</span> 伤害 (1753 > 1579)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  98</span> 伤害 (2145 > 2047)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  158</span> 伤害 (2449 > 2291)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  209</span> 伤害 (1087 > 878)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  159</span> 伤害 (2284 > 2125)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (924 > 1208)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (285 > 344)<br />
+<span class="charge"><span class="bold">天启者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2797 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (183 > 216)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">Oniony</span> 保护<span class="bold">Satania</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2047 > 2025)<br />
+<span class="bold">Oniony</span> DEF 下降 30%<br />
+<span class="bold">Oniony</span> MDEF 下降 30%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">215 HP</span></span> (2025 > 2145)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">84 SP</span></span> (542 > 626)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">虚空行者</span> delayed (82<span style="font-size:80%"> >>> </span>-118/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">甘道夫</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(235 > 603)<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(1208 > 1576)<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">368 HP</span></span>(1576 > 1944)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Friendy</span><span class="recover"> 自动回复 <span class="bold">245 HP</span></span> (2291 > 2449)<br />
+<span class="support">* </span><span class="bold">Friendy</span><span class="support"> 自动回复 <span class="bold">53 SP</span></span> (433 > 486)<br />
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_033.png" class="vcent"/>奋勇冲锋</div>
+<span class="bold">天启者</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  634</span> 伤害 (1944 > 1310)<br />
+<span class="bold">Friendy</span> 移到前排.<br />
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  204</span> 伤害 (1310 > 1106)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  204</span> 伤害 (1106 > 902)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  70</span> 伤害 (2950 > 2880)<br />
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  204</span> 伤害 (902 > 698)<br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Hecate</span><span class="recover"> 自动回复 <span class="bold">154 HP</span></span> (1383 > 1537)<br />
+<span class="support">* </span><span class="bold">Hecate</span><span class="support"> 自动回复 <span class="bold">260 SP</span></span> (2418 > 2598)<br />
+<span class="charge"><span class="bold">Hecate</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">甘道夫</span><span class="recover"> 自动回复 <span class="bold">72 HP</span></span> (603 > 675)<br />
+<span class="support">* </span><span class="bold">甘道夫</span><span class="support"> 自动回复 <span class="bold">180 SP</span></span> (998 > 1178)<br />
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (606 > 701)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (677 > 790)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">175 HP</span></span> (1579 > 1753)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">126 SP</span></span> (812 > 938)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">228 HP</span></span> (2125 > 2284)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">57 SP</span></span> (271 > 328)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">Hecate</span> <span class="support">回复了 <span class="bold">153 SP</span></span>(2598 > 2598)<br />
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">107 SP</span></span>(938 > 1045)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">88 SP</span></span>(566 > 654)<br />
+<span class="bold">Friendy</span> <span class="support">回复了 <span class="bold">70 SP</span></span>(456 > 526)<br />
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">78 SP</span></span>(125 > 203)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">72 SP</span></span>(328 > 400)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2880 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (186 > 219)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="bold">陨石龟(A)</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  55</span> 伤害 (2284 > 2229)<br />
+<span class="bold">陨石龟(A)</span> DEF 下降 30%<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 30%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Hecate</span> <span class="support">回复了 <span class="bold">255 SP</span></span>(2598 > 2598)<br />
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">178 SP</span></span>(1025 > 1203)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">146 SP</span></span>(654 > 800)<br />
+<span class="bold">Friendy</span> <span class="support">回复了 <span class="bold">116 SP</span></span>(526 > 533)<br />
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(203 > 333)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">120 SP</span></span>(400 > 520)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">天启者</span><span class="recover"> 自动回复 <span class="bold">284 HP</span></span> (698 > 982)<br />
+<span class="support">* </span><span class="bold">天启者</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (314 > 373)<br />
+<div class="u"><span class="bold">天启者</span><img src="./image/icon/skill_016z.png" class="vcent"/>加快咏唱</div>
+<span class="support"><span class="bold">甘道夫</span> casting shorted!</span>(-11.9<span style="font-size:80%"> >>> </span>55/100)<br />
+<span class="support"><span class="bold">小鸟游六花</span> casting shorted!</span>(87.2<span style="font-size:80%"> >>> </span>94/100)<br />
+<span class="support"><span class="bold">虚空行者</span> casting shorted!</span>(-7.5<span style="font-size:80%"> >>> </span>56/100)<br />
+<span class="bold">天启者</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:53px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:37px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111ma.gif);background-repeat:no-repeat;background-position:128px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:110px 99px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211fe.gif);background-repeat:no-repeat;background-position:332px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:392px 106px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:257px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112ma.gif);background-repeat:no-repeat;background-position:262px 54px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:280px 102px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 675/718</span><br />
+<span class="support">SP : 1178/1798</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 701/954</span><br />
+<span class="support">SP : 790/1127</span>
+</div>
+<span class="bold">虚空行者</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1096/1378</span><br />
+<span class="support">SP : 637/670</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2950/2950</span><br />
+<span class="support">SP : 189/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 982/2835</span><br />
+<span class="support">SP : 223/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2145/2145</span><br />
+<span class="support">SP : 800/842</span>
+</div>
+<span class="bold">Friendy</span>
+<div class="hpsp">
+<span class="recover">HP : 2449/2449</span><br />
+<span class="support">SP : 533/533</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2229/2284</span><br />
+<span class="support">SP : 520/571</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hecate</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1537/1539</span><br />
+<span class="support">SP : 2598/2598</span>
+</div>
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1753/1753</span><br />
+<span class="support">SP : 1203/1262</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 878/1087</span><br />
+<span class="support">SP : 333/675</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_013b.png" class="vcent"/>超级治疗</div>
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(982 > 1720)<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(1720 > 2458)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">738 HP</span></span>(701 > 954)<br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">215 HP</span></span> (2145 > 2145)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">84 SP</span></span> (800 > 842)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">甘道夫</span> delayed (68<span style="font-size:80%"> >>> </span>-132/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Friendy</span><span class="recover"> 自动回复 <span class="bold">245 HP</span></span> (2449 > 2449)<br />
+<span class="support">* </span><span class="bold">Friendy</span><span class="support"> 自动回复 <span class="bold">53 SP</span></span> (533 > 533)<br />
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  1279</span> 伤害 (2458 > 1179)<br />
+<span class="bold">Friendy</span> 移到后排.<br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hecate</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (1537 > 1455)<br />
+<span class="bold">Hecate</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  100</span> 伤害 (1753 > 1653)<br />
+<span class="bold">Pumpkin</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  177</span> 伤害 (2145 > 1968)<br />
+<span class="bold">Oniony</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  77</span> 伤害 (2449 > 2372)<br />
+<span class="bold">Friendy</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  121</span> 伤害 (878 > 757)<br />
+<span class="bold">Satania</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  201</span> 伤害 (2229 > 2028)<br />
+<span class="bold">陨石龟(A)</span> SPD 下降 30%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">175 HP</span></span> (1653 > 1753)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">126 SP</span></span> (1203 > 1262)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">方森岩</span><span class="recover"> 自动回复 <span class="bold">295 HP</span></span> (2950 > 2950)<br />
+<span class="support">* </span><span class="bold">方森岩</span><span class="support"> 自动回复 <span class="bold">33 SP</span></span> (189 > 222)<br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏装备</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1968 > 1946)<br />
+<span class="bold">Oniony</span> DEF 下降 30%<br />
+<span class="bold">Oniony</span> MDEF 下降 30%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">228 HP</span></span> (2028 > 2256)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">57 SP</span></span> (520 > 571)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  106</span> 伤害 (2950 > 2844)<br />
+<span class="bold">方森岩</span> STR 下降 20%<br />
+<span class="bold">方森岩</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Hecate</span> <span class="support">回复了 <span class="bold">255 SP</span></span>(2598 > 2598)<br />
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">178 SP</span></span>(1242 > 1262)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">146 SP</span></span>(782 > 842)<br />
+<span class="bold">Friendy</span> <span class="support">回复了 <span class="bold">116 SP</span></span>(433 > 533)<br />
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(333 > 463)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">120 SP</span></span>(571 > 571)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hecate</span><img src="./image/icon/skill_021z.png" class="vcent"/>星云陨落</div>
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (1179 > 990)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (2844 > 2658)<br />
+<span class="bold">天启者</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (990 > 801)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (2658 > 2472)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (2472 > 2286)<br />
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (801 > 612)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (612 > 423)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (423 > 234)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (2286 > 2100)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (2100 > 1914)<br />
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (234 > 45)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (1914 > 1728)<br />
+<span class="bold">天启者</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  189</span> 伤害 (45 > -144)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (1728 > 1542)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (1542 > 1356)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (1356 > 1170)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (1170 > 984)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">小鸟游六花</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (984 > 798)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">甘道夫</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (798 > 612)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (612 > 426)<br />
+<span class="bold">方森岩</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (426 > 240)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (240 > 54)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (54 > -132)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">方森岩</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (-132 > -318)<br />
+<span class="dmg"><span class="bold">方森岩</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">天启者</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (954 > 954)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (730 > 843)<br />
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/mat_026.png" class="vcent"/>死者转生</div>
+<span class="bold">天启者</span> <span class="recover">复活</span>!<br />
+<span class="bold">天启者</span> <span class="recover">回复了 <span class="bold">308 HP</span></span>(0 > 308)<br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">虚空行者</span><span class="recover"> 自动回复 <span class="bold">138 HP</span></span> (1096 > 1234)<br />
+<span class="support">* </span><span class="bold">虚空行者</span><span class="support"> 自动回复 <span class="bold">67 SP</span></span> (337 > 404)<br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">215 HP</span></span> (1946 > 2145)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">84 SP</span></span> (842 > 842)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">虚空行者</span> delayed (46<span style="font-size:80%"> >>> </span>-155/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_211ma.gif);background-repeat:no-repeat;background-position:53px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:37px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:20px 98px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:110px 99px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211fe.gif);background-repeat:no-repeat;background-position:328px -10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:352px 30px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112ma.gif);background-repeat:no-repeat;background-position:350px 74px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:396px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:273px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">甘道夫</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 675/718</span><br />
+<span class="support">SP : 1178/1798</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 954/954</span><br />
+<span class="support">SP : 493/1127</span>
+</div>
+<span class="bold">虚空行者</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 1234/1378</span><br />
+<span class="support">SP : 404/670</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">方森岩</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2950</span><br />
+<span class="dmg">SP : 192/333</span>
+</div>
+<span class="bold">天启者</span>
+<div class="hpsp">
+<span class="recover">HP : 308/2835</span><br />
+<span class="support">SP : 223/585</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2145/2145</span><br />
+<span class="support">SP : 782/842</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2256/2284</span><br />
+<span class="support">SP : 571/571</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hecate</span>
+<div class="hpsp">
+<span class="recover">HP : 1455/1539</span><br />
+<span class="support">SP : 1398/2598</span>
+</div>
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1753/1753</span><br />
+<span class="support">SP : 1262/1262</span>
+</div>
+<span class="bold">Friendy</span>
+<div class="hpsp">
+<span class="recover">HP : 2372/2449</span><br />
+<span class="support">SP : 533/533</span>
+</div>
+<span class="bold">Satania</span>
+<div class="hpsp">
+<span class="recover">HP : 757/1087</span><br />
+<span class="support">SP : 463/675</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Friendy</span><span class="recover"> 自动回复 <span class="bold">245 HP</span></span> (2372 > 2449)<br />
+<span class="support">* </span><span class="bold">Friendy</span><span class="support"> 自动回复 <span class="bold">53 SP</span></span> (533 > 533)<br />
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_033.png" class="vcent"/>奋勇冲锋</div>
+<span class="bold">天启者</span> 保护<span class="bold">虚空行者</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">天启者</span></span> 受到<span class='dmg bold'>  634</span> 伤害 (308 > -326)<br />
+<span class="bold">Friendy</span> 移到前排.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  211</span> 伤害 (1234 > 1023)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  248</span> 伤害 (675 > 427)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  321</span> 伤害 (954 > 633)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  211</span> 伤害 (1023 > 812)<br />
+<span class="dmg"><span class="bold">天启者</span> 被打倒.</span><br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">175 HP</span></span> (1753 > 1753)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">126 SP</span></span> (1262 > 1262)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Hecate</span><span class="recover"> 自动回复 <span class="bold">154 HP</span></span> (1455 > 1539)<br />
+<span class="support">* </span><span class="bold">Hecate</span><span class="support"> 自动回复 <span class="bold">260 SP</span></span> (1398 > 1658)<br />
+<span class="charge"><span class="bold">Hecate</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Hecate</span> <span class="support">回复了 <span class="bold">255 SP</span></span>(1658 > 1913)<br />
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">178 SP</span></span>(1242 > 1262)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">146 SP</span></span>(782 > 842)<br />
+<span class="bold">Friendy</span> <span class="support">回复了 <span class="bold">116 SP</span></span>(503 > 533)<br />
+<span class="bold">Satania</span> <span class="support">回复了 <span class="bold">130 SP</span></span>(463 > 593)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">120 SP</span></span>(571 > 571)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">228 HP</span></span> (2256 > 2284)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">57 SP</span></span> (571 > 571)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (633 > 363)<br />
+<span class="bold">小鸟游六花</span> STR 下降 20%<br />
+<span class="bold">小鸟游六花</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">甘道夫</span><img src="./image/icon/skill_006cz.png" class="vcent"/>连锁闪电</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hecate</span></span> 受到<span class='dmg bold'>  156</span> 伤害 (1539 > 1383)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  174</span> 伤害 (1753 > 1579)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  471</span> 伤害 (2145 > 1674)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Friendy</span></span> 受到<span class='dmg bold'>  158</span> 伤害 (2449 > 2291)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Satania</span></span> 受到<span class='dmg bold'>  209</span> 伤害 (757 > 548)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  359</span> 伤害 (2284 > 1925)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">215 HP</span></span> (1674 > 1889)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">84 SP</span></span> (842 > 842)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">虚空行者</span> delayed (-15<span style="font-size:80%"> >>> </span>-215/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Friendy</span><span class="recover"> 自动回复 <span class="bold">245 HP</span></span> (2291 > 2449)<br />
+<span class="support">* </span><span class="bold">Friendy</span><span class="support"> 自动回复 <span class="bold">53 SP</span></span> (533 > 533)<br />
+<div class="u"><span class="bold">Friendy</span><img src="./image/icon/skill_033z.png" class="vcent"/>燕返</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">甘道夫</span></span> 受到<span class='dmg bold'>  1532</span> 伤害 (427 > -1105)<br />
+<span class="bold">Friendy</span> 移到后排.<br />
+<span class="dmg"><span class="bold">甘道夫</span> 被打倒.</span><br />
+<span class="bold">Friendy</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">175 HP</span></span> (1579 > 1753)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">126 SP</span></span> (1262 > 1262)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Hecate</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(1383 > 1539)<br />
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(1753 > 1753)<br />
+<span class="bold">Oniony</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(1889 > 2145)<br />
+<span class="bold">Friendy</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(2449 > 2449)<br />
+<span class="bold">Satania</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(548 > 1087)<br />
+<span class="bold">陨石龟(A)</span> <span class="recover">回复了 <span class="bold">864 HP</span></span>(1925 > 2284)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="recover">* </span><span class="bold">小鸟游六花</span><span class="recover"> 自动回复 <span class="bold">95 HP</span></span> (363 > 458)<br />
+<span class="support">* </span><span class="bold">小鸟游六花</span><span class="support"> 自动回复 <span class="bold">113 SP</span></span> (493 > 606)<br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">陨石龟(A)</span><span class="recover"> 自动回复 <span class="bold">228 HP</span></span> (2284 > 2284)<br />
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">57 SP</span></span> (571 > 571)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  328</span> 伤害 (812 > 484)<br />
+<span class="bold">虚空行者</span> STR 下降 20%<br />
+<span class="bold">虚空行者</span> DEF 下降 20%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_013b.png" class="vcent"/>整体回复</div>
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">410 HP</span></span>(484 > 894)<br />
+<span class="bold">小鸟游六花</span> <span class="recover">回复了 <span class="bold">410 HP</span></span>(458 > 868)<br />
+<span class="bold">虚空行者</span> <span class="recover">回复了 <span class="bold">410 HP</span></span>(894 > 1304)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hecate</span><img src="./image/icon/skill_021z.png" class="vcent"/>星云陨落</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (1304 > 817)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (817 > 330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (868 > 464)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (330 > -157)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (464 > 60)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (60 > -344)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-157 > -644)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-644 > -1131)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-1131 > -1618)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-1618 > -2105)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-344 > -748)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-2105 > -2592)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-748 > -1152)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-2592 > -3079)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-3079 > -3566)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-1152 > -1556)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-1556 > -1960)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-1960 > -2364)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-2364 > -2768)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-2768 > -3172)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-3566 > -4053)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">虚空行者</span></span> 受到<span class='dmg bold'>  487</span> 伤害 (-4053 > -4540)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-3172 > -3576)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">小鸟游六花</span></span> 受到<span class='dmg bold'>  404</span> 伤害 (-3576 > -3980)<br />
+<span class="dmg"><span class="bold">小鸟游六花</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">虚空行者</span> 被打倒.</span><br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s4"></a>
+<span style="font-size:200%">Catastrophy[4位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 0/8835<br />
+存活 : 0/5<br />
+总伤害 : 3338<br />
+</td><td class="teams">残留HP : 11257/11257<br />
+存活 : 6/6<br />
+总伤害 : 17445<br />
+</td></tr>
+</tbody></table>

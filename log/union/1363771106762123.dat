@@ -1,0 +1,798 @@
+1363771106762123
+Remileon<>食人魔军团
+2<>5
+100<>65.4
+1
+47
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">食人魔军团</div>
+总级别 : 327<br>
+平均级别 : 65.4<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Remileon</div>
+总级别 : 200<br>
+平均级别 : 100<br>
+总HP : 4160/4160</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:48px 60px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:370px 83px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 900/900</span>
+</div>
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 900/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Blissey</span>
+<div class="hpsp">
+<span class="recover">HP : 2098/2098</span><br />
+<span class="support">SP : 1424/1424</span>
+</div>
+<span class="bold">Cacophony</span>
+<div class="hpsp">
+<span class="recover">HP : 2062/2062</span><br />
+<span class="support">SP : 1140/1140</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Blissey</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Cacophony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">Blissey</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Cacophony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Blissey</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  44</span> 伤害 (2098 > 2054)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2062 > 2045)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  44</span> 伤害 (2054 > 2010)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Cacophony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (2300 > 1854)<br />
+<span class="bold">食人魔伊桑(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (700 > 556)<br />
+<span class="bold">食人魔伊莱扎(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (??? > ???)<br />
+<span class="bold">食人魔埃德加</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (700 > 556)<br />
+<span class="bold">食人魔伊莱扎(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (2300 > 1854)<br />
+<span class="bold">食人魔伊桑(B)</span> SPD 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Cacophony</span>(2045 > 1995)吸取 <span class="recover"><span class="bold">50</span> HP</span>(556 > 606)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Cacophony</span>(1995 > 1945)吸取 <span class="recover"><span class="bold">50</span> HP</span>(556 > 606)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>嚎叫</div>
+<span class="bold">Blissey</span> STR 下降 30%<br />
+<span class="bold">Cacophony</span> STR 下降 30%<br />
+<span class="bold">食人魔伊桑(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>嚎叫</div>
+<span class="bold">Blissey</span> STR 下降 30%<br />
+<span class="bold">Cacophony</span> STR 下降 30%<br />
+<span class="bold">食人魔伊桑(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Cacophony</span><span class="support"> 自动回复 <span class="bold">114 SP</span></span> (840 > 954)<br />
+<span class="charge"><span class="bold">Cacophony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1945 > 1928)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (2010 > 1941)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1941 > 1872)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1872 > 1803)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1928 > 1911)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1803 > 1734)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1734 > 1665)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1911 > 1894)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1665 > 1596)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1596 > 1527)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1527 > 1458)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1894 > 1877)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1877 > 1860)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1860 > 1843)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1843 > 1826)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  69</span> 伤害 (1458 > 1389)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-16/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">142 SP</span></span> (1124 > 1266)<br />
+<span class="charge"><span class="bold">Blissey</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Cacophony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (1854 > 1408)<br />
+<span class="bold">食人魔伊桑(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (606 > 462)<br />
+<span class="bold">食人魔伊莱扎(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (??? > ???)<br />
+<span class="bold">食人魔埃德加</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (606 > 462)<br />
+<span class="bold">食人魔伊莱扎(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (1854 > 1408)<br />
+<span class="bold">食人魔伊桑(B)</span> SPD 下降 30%<br />
+存活者获得 73 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">Blissey</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Cacophony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Blissey</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:48px 60px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:370px 83px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 462/700</span><br />
+<span class="support">SP : 850/900</span>
+</div>
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 462/700</span><br />
+<span class="support">SP : 850/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1408/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1408/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Blissey</span>
+<div class="hpsp">
+<span class="recover">HP : 1389/2098</span><br />
+<span class="support">SP : 966/1424</span>
+</div>
+<span class="bold">Cacophony</span>
+<div class="hpsp">
+<span class="recover">HP : 1826/2062</span><br />
+<span class="support">SP : 654/1140</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Cacophony</span><span class="support"> 自动回复 <span class="bold">228 SP</span></span> (654 > 882)<br />
+<span class="charge"><span class="bold">Cacophony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Cacophony</span>(1826 > 1776)吸取 <span class="recover"><span class="bold">50</span> HP</span>(462 > 512)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Blissey</span>(1389 > 1187)吸取 <span class="recover"><span class="bold">202</span> HP</span>(462 > 664)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  150</span> 伤害 (1187 > 1037)<br />
+<span class="bold">Blissey</span> ATK 下降 50%<br />
+<span class="bold">Blissey</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  150</span> 伤害 (1037 > 887)<br />
+<span class="bold">Blissey</span> ATK 下降 50%<br />
+<span class="bold">Blissey</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1776 > 1607)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1607 > 1438)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (887 > 718)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (718 > 549)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (549 > 380)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1438 > 1269)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Cacophony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (1408 > 962)<br />
+<span class="bold">食人魔伊桑(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (512 > 368)<br />
+<span class="bold">食人魔伊莱扎(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (??? > ???)<br />
+<span class="bold">食人魔埃德加</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (664 > 520)<br />
+<span class="bold">食人魔伊莱扎(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (1408 > 962)<br />
+<span class="bold">食人魔伊桑(B)</span> SPD 下降 30%<br />
+存活者获得 73 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">285 SP</span></span> (966 > 1251)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">370 HP</span></span>(380 > 750)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">370 HP</span></span>(750 > 1120)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Cacophony</span><span class="support"> 自动回复 <span class="bold">228 SP</span></span> (582 > 810)<br />
+<span class="charge"><span class="bold">Cacophony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Cacophony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (962 > 516)<br />
+<span class="bold">食人魔伊桑(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (368 > 224)<br />
+<span class="bold">食人魔伊莱扎(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (??? > ???)<br />
+<span class="bold">食人魔埃德加</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  144</span> 伤害 (520 > 376)<br />
+<span class="bold">食人魔伊莱扎(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  446</span> 伤害 (962 > 516)<br />
+<span class="bold">食人魔伊桑(B)</span> SPD 下降 30%<br />
+存活者获得 73 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">285 SP</span></span> (1211 > 1424)<br />
+<span class="charge"><span class="bold">Blissey</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1269 > 1100)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1120 > 951)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1100 > 931)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (931 > 762)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (762 > 593)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (951 > 782)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">Blissey</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Cacophony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Blissey</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:48px 60px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:370px 83px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 224/700</span><br />
+<span class="support">SP : 800/900</span>
+</div>
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 376/700</span><br />
+<span class="support">SP : 800/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 516/2300</span><br />
+<span class="support">SP : 170/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 516/2300</span><br />
+<span class="support">SP : 170/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Blissey</span>
+<div class="hpsp">
+<span class="recover">HP : 782/2098</span><br />
+<span class="support">SP : 1124/1424</span>
+</div>
+<span class="bold">Cacophony</span>
+<div class="hpsp">
+<span class="recover">HP : 593/2062</span><br />
+<span class="support">SP : 510/1140</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  150</span> 伤害 (782 > 632)<br />
+<span class="bold">Blissey</span> ATK 下降 50%<br />
+<span class="bold">Blissey</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (593 > 562)<br />
+<span class="bold">Cacophony</span> ATK 下降 50%<br />
+<span class="bold">Cacophony</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Cacophony</span><span class="support"> 自动回复 <span class="bold">342 SP</span></span> (510 > 852)<br />
+<span class="charge"><span class="bold">Cacophony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Cacophony</span>(562 > 512)吸取 <span class="recover"><span class="bold">50</span> HP</span>(376 > 426)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Cacophony</span>(512 > 462)吸取 <span class="recover"><span class="bold">50</span> HP</span>(224 > 274)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Cacophony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (516 > 226)<br />
+<span class="bold">食人魔伊桑(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  77</span> 伤害 (274 > 197)<br />
+<span class="bold">食人魔伊莱扎(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  178</span> 伤害 (??? > ???)<br />
+<span class="bold">食人魔埃德加</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  77</span> 伤害 (426 > 349)<br />
+<span class="bold">食人魔伊莱扎(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  290</span> 伤害 (516 > 226)<br />
+<span class="bold">食人魔伊桑(B)</span> SPD 下降 30%<br />
+存活者获得 45 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (462 > 293)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (293 > 124)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (124 > -45)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (632 > 463)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (-45 > -214)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (-214 > -383)<br />
+<span class="dmg"><span class="bold">Cacophony</span> 被打倒.</span><br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1124 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(463 > 787)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(787 > 1111)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (1111 > 836)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (836 > 561)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(561 > 885)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(885 > 1209)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:48px 60px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 197/700</span><br />
+<span class="support">SP : 750/900</span>
+</div>
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 349/700</span><br />
+<span class="support">SP : 750/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 226/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 226/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Blissey</span>
+<div class="hpsp">
+<span class="recover">HP : 1209/2098</span><br />
+<span class="support">SP : 1384/1424</span>
+</div>
+<span class="bold dmg">Cacophony</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2062</span><br />
+<span class="dmg">SP : 552/1140</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  533</span> 伤害 (1209 > 676)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(676 > 1000)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(1000 > 1324)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Blissey</span>(1324 > 1122)吸取 <span class="recover"><span class="bold">202</span> HP</span>(197 > 399)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Blissey</span>(1122 > 920)吸取 <span class="recover"><span class="bold">202</span> HP</span>(349 > 551)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(920 > 1244)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(1244 > 1568)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (1568 > 1293)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (1293 > 1018)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1018 > 849)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (849 > 680)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (680 > 511)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (511 > 342)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (342 > 173)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (173 > 4)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(4 > 328)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(328 > 652)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/skill_013a.png" class="vcent"/>快速治疗</div>
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(652 > 976)<br />
+<span class="bold">Blissey</span> <span class="recover">回复了 <span class="bold">324 HP</span></span>(976 > 1300)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:48px 60px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:343px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 399/700</span><br />
+<span class="support">SP : 700/900</span>
+</div>
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 551/700</span><br />
+<span class="support">SP : 700/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 226/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 226/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Blissey</span>
+<div class="hpsp">
+<span class="recover">HP : 1300/2098</span><br />
+<span class="support">SP : 1384/1424</span>
+</div>
+<span class="bold dmg">Cacophony</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2062</span><br />
+<span class="dmg">SP : 552/1140</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">Blissey</span><span class="support"> 自动回复 <span class="bold">427 SP</span></span> (1384 > 1424)<br />
+<div class="u"><span class="bold">Blissey</span><img src="./image/icon/mat_026.png" class="vcent"/>死者转生</div>
+<span class="bold">Cacophony</span> <span class="recover">复活</span>!<br />
+<span class="bold">Cacophony</span> <span class="recover">回复了 <span class="bold">203 HP</span></span>(0 > 203)<br />
+<span class="bold">Blissey</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Blissey</span>(1300 > 1098)吸取 <span class="recover"><span class="bold">202</span> HP</span>(551 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Blissey</span>(1098 > 896)吸取 <span class="recover"><span class="bold">202</span> HP</span>(399 > 601)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Cacophony</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (203 > -72)<br />
+<span class="dmg"><span class="bold">Cacophony</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (896 > 621)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (621 > 452)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (452 > 283)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (283 > 114)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (114 > -55)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (-55 > -224)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Blissey</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (-224 > -393)<br />
+<span class="dmg"><span class="bold">Blissey</span> 被打倒.</span><br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s5"></a>
+<span style="font-size:200%">食人魔军团 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 5/5<br />
+总伤害 : 8579<br />
+</td><td class="teams">残留HP : 0/4160<br />
+存活 : 0/2<br />
+总伤害 : 6792<br />
+总经验值 : 524<br />
+</td></tr>
+</tbody></table>

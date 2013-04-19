@@ -1,0 +1,882 @@
+1364125819335799
+Catastrophy<>送钱送经验
+3<>5
+99.3<>110.8
+0
+44
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">送钱送经验</div>
+总级别 : 554<br>
+平均级别 : 110.8<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 298<br>
+平均级别 : 99.3<br>
+总HP : 7311/7311</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_ocean.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/lansslm.gif);background-repeat:no-repeat;background-position:32px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:136px -4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:120px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/cnm06.gif);background-repeat:no-repeat;background-position:130px 86px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:88px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:293px 88px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">乘浪者欧莱雅</span>
+<div class="hpsp">
+<span class="recover">HP : 2500/2500</span><br />
+<span class="support">SP : 2500/2500</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">乘浪者海格尔斯(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 3000/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+<span class="bold">乘浪者海格尔斯(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 3000/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+<span class="bold">3倍速草泥马</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">乘浪者海格尔斯(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 3000/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2109/2109</span><br />
+<span class="support">SP : 922/922</span>
+</div>
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2900/2900</span><br />
+<span class="support">SP : 861/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  100</span> 伤害 (2900 > 2800)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Oniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">乘浪者海格尔斯(C)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">乘浪者海格尔斯(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">乘浪者海格尔斯(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/skill_079z.png" class="vcent"/>酸雾</div>
+<span class="bold">Pumpkin</span> DEF 下降 15%<br />
+<span class="bold">Oniony</span> DEF 下降 15%<br />
+<span class="bold">Onioniony</span> DEF 下降 15%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(A)</span></span> 受到<span class='dmg bold'>  330</span> 伤害 (3000 > 2670)<br />
+<span class="bold">乘浪者海格尔斯(A)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(B)</span></span> 受到<span class='dmg bold'>  330</span> 伤害 (3000 > 2670)<br />
+<span class="bold">乘浪者海格尔斯(B)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  497</span> 伤害 (??? > ???)<br />
+<span class="bold">3倍速草泥马</span> SPD down 15%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(C)</span></span> 受到<span class='dmg bold'>  330</span> 伤害 (3000 > 2670)<br />
+<span class="bold">乘浪者海格尔斯(C)</span> SPD 下降 30%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  429</span> 伤害 (2500 > 2071)<br />
+<span class="bold">乘浪者欧莱雅</span> SPD 下降 30%<br />
+存活者获得 83 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">3倍速草泥马</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-160/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">乘浪者海格尔斯(A)</span> DEF 提升 20%<br />
+<span class="bold">乘浪者海格尔斯(A)</span> MDEF 提升 60%<br />
+<span class="bold">乘浪者海格尔斯(B)</span> DEF 提升 20%<br />
+<span class="bold">乘浪者海格尔斯(B)</span> MDEF 提升 60%<br />
+<span class="bold">3倍速草泥马</span> DEF 提升 20%<br />
+<span class="bold">3倍速草泥马</span> MDEF 提升 60%<br />
+<span class="bold">乘浪者海格尔斯(C)</span> DEF 提升 20%<br />
+<span class="bold">乘浪者海格尔斯(C)</span> MDEF 提升 60%<br />
+<span class="bold">乘浪者欧莱雅</span> DEF 提升 20%<br />
+<span class="bold">乘浪者欧莱雅</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2800 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (711 > 797)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者海格尔斯(C)</span><img src="./image/icon/skill_006b.png" class="vcent"/>暴风雪</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (2109 > 2073)<br />
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (2073 > 2037)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2900 > 2873)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2873 > 2846)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (2037 > 2001)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (2001 > 1965)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1965 > 1929)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2846 > 2819)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2819 > 2792)<br />
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1929 > 1893)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者海格尔斯(A)</span><img src="./image/icon/skill_006b.png" class="vcent"/>暴风雪</div>
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1893 > 1857)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2792 > 2765)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2765 > 2738)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1857 > 1821)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2738 > 2711)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2711 > 2684)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2684 > 2657)<br />
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1821 > 1785)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2657 > 2630)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1785 > 1749)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">211 HP</span></span> (1749 > 1960)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">92 SP</span></span> (622 > 714)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">乘浪者海格尔斯(B)</span> delayed (22<span style="font-size:80%"> >>> </span>-179/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_ocean.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/lansslm.gif);background-repeat:no-repeat;background-position:32px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:138px -11px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/cnm06.gif);background-repeat:no-repeat;background-position:138px 66px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:73px 118px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:293px 88px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">乘浪者欧莱雅</span>
+<div class="hpsp">
+<span class="recover">HP : 2071/2500</span><br />
+<span class="support">SP : 2440/2500</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">乘浪者海格尔斯(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1560/1800</span>
+</div>
+<span class="bold">乘浪者海格尔斯(B)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+<span class="bold">3倍速草泥马</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">乘浪者海格尔斯(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1560/1800</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1779/1779</span><br />
+<span class="support">SP : 145/445</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1960/2109</span><br />
+<span class="support">SP : 654/922</span>
+</div>
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 2630/2900</span><br />
+<span class="support">SP : 797/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1080/1530</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (2302 > 2220)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (1960 > 1942)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  82</span> 伤害 (2220 > 2138)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (2630 > 2612)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (2612 > 2594)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (1942 > 1924)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2138 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1080 > 1233)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">580 HP</span></span> (2594 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">172 SP</span></span> (647 > 819)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">乘浪者海格尔斯(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">乘浪者海格尔斯(C)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  100</span> 伤害 (2900 > 2800)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>强力射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  344</span> 伤害 (2302 > 1958)<br />
+<span class="bold">乘浪者欧莱雅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">422 HP</span></span> (1924 > 2109)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">184 SP</span></span> (654 > 838)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">乘浪者海格尔斯(A)</span> delayed (-59<span style="font-size:80%"> >>> </span>-159/100).<br />
+<span class="bold">乘浪者海格尔斯(B)</span> delayed (-69<span style="font-size:80%"> >>> </span>-169/100).<br />
+<span class="bold">乘浪者海格尔斯(C)</span> delayed (21<span style="font-size:80%"> >>> </span>-79/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  331</span> 伤害 (2109 > 1778)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  58</span> 伤害 (2800 > 2742)<br />
+<span class="bold">Onioniony</span> STR 下降 20%<br />
+<span class="bold">Onioniony</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">580 HP</span></span> (2742 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">172 SP</span></span> (669 > 841)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">422 HP</span></span> (1778 > 2109)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">184 SP</span></span> (738 > 922)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">乘浪者海格尔斯(A)</span> delayed (-49<span style="font-size:80%"> >>> </span>-149/100).<br />
+<span class="bold">乘浪者海格尔斯(B)</span> delayed (-59<span style="font-size:80%"> >>> </span>-159/100).<br />
+<span class="bold">乘浪者海格尔斯(C)</span> delayed (31<span style="font-size:80%"> >>> </span>-69/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_ocean.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/lansslm.gif);background-repeat:no-repeat;background-position:32px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:138px -11px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/cnm06.gif);background-repeat:no-repeat;background-position:138px 66px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:73px 118px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:293px 88px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">乘浪者欧莱雅</span>
+<div class="hpsp">
+<span class="recover">HP : 2071/2500</span><br />
+<span class="support">SP : 2410/2500</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">乘浪者海格尔斯(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1560/1800</span>
+</div>
+<span class="bold">乘浪者海格尔斯(B)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+<span class="bold">3倍速草泥马</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">乘浪者海格尔斯(C)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1560/1800</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1779/1779</span><br />
+<span class="support">SP : 145/445</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2109/2109</span><br />
+<span class="support">SP : 822/922</span>
+</div>
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 2900/2900</span><br />
+<span class="support">SP : 841/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1958/2302</span><br />
+<span class="support">SP : 783/1530</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  158</span> 伤害 (2900 > 2742)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>强力射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  59</span> 伤害 (2742 > 2683)<br />
+<span class="bold">乘浪者欧莱雅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">460 HP</span></span> (1958 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">306 SP</span></span> (783 > 1089)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Oniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="bold">Oniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  331</span> 伤害 (2109 > 1778)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  95</span> 伤害 (1778 > 1683)<br />
+<span class="bold">Oniony</span> STR 下降 20%<br />
+<span class="bold">Oniony</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">870 HP</span></span> (2683 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">258 SP</span></span> (691 > 861)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">633 HP</span></span> (1683 > 2109)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">277 SP</span></span> (822 > 922)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">乘浪者海格尔斯(A)</span> delayed (-39<span style="font-size:80%"> >>> </span>-140/100).<br />
+<span class="bold">乘浪者海格尔斯(B)</span> delayed (-49<span style="font-size:80%"> >>> </span>-150/100).<br />
+<span class="bold">乘浪者海格尔斯(C)</span> delayed (41<span style="font-size:80%"> >>> </span>-60/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(B)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (2670 > 758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(A)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (2670 > 758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(A)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (758 > -1154)<br />
+<span class="dmg"><span class="bold">乘浪者海格尔斯(A)</span> 被打倒.</span><br />
+存活者获得 3638 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  450</span> 伤害 (2109 > 1659)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>强力射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  233</span> 伤害 (1659 > 1426)<br />
+<span class="bold">乘浪者欧莱雅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_ocean.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/lansslm.gif);background-repeat:no-repeat;background-position:32px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:162px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/cnm06.gif);background-repeat:no-repeat;background-position:138px 66px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_bjr.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/Kame.gif);background-repeat:no-repeat;background-position:73px 118px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:293px 88px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">乘浪者欧莱雅</span>
+<div class="hpsp">
+<span class="recover">HP : 2071/2500</span><br />
+<span class="support">SP : 2390/2500</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">乘浪者海格尔斯(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3000</span><br />
+<span class="dmg">SP : 1560/1800</span>
+</div>
+<span class="bold">乘浪者海格尔斯(B)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 758/3000</span><br />
+<span class="support">SP : 1800/1800</span>
+</div>
+<span class="bold">3倍速草泥马</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">乘浪者海格尔斯(C)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 2670/3000</span><br />
+<span class="support">SP : 1560/1800</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1779/1779</span><br />
+<span class="support">SP : 145/445</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1426/2109</span><br />
+<span class="support">SP : 822/922</span>
+</div>
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2900/2900</span><br />
+<span class="support">SP : 511/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 639/1530</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">3倍速草泥马</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  450</span> 伤害 (1426 > 976)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>眼射线</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  187</span> 伤害 (2302 > 2115)<br />
+<span class="bold">Pumpkin</span> STR 下降 20%<br />
+<span class="bold">Pumpkin</span> DEF 下降 20%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">691 HP</span></span> (2115 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">459 SP</span></span> (639 > 1098)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">870 HP</span></span> (2900 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">258 SP</span></span> (511 > 769)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">633 HP</span></span> (976 > 1609)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">277 SP</span></span> (822 > 922)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">乘浪者海格尔斯(C)</span> delayed (51<span style="font-size:80%"> >>> </span>-150/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(2302 > 2302)<br />
+<span class="bold">Oniony</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(1609 > 2109)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(2900 > 2900)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (1779 > -133)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (??? > ???)<br />
+<span class="bold">乘浪者海格尔斯(C)</span> 保护<span class="bold">乘浪者欧莱雅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(C)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (2670 > 758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">3倍速草泥马</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (??? > ???)<br />
+<span class="dmg"><span class="bold">3倍速草泥马</span> 被打倒.</span><br />
+<span class="bold">3倍速草泥马</span> 掉落了<img src="./image/icon/gem_02.png" class="vcent"/>
+<span class="bold u">钻石</span>.<br />
+<span class="dmg"><span class="bold">陨石龟(A)</span> 被打倒.</span><br />
+存活者获得 6506 经验.<br />
+Catastrophy 获得 $&nbsp;16,650.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>强力射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  384</span> 伤害 (2302 > 1918)<br />
+<span class="bold">乘浪者欧莱雅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">633 HP</span></span> (2109 > 2109)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">277 SP</span></span> (862 > 922)<br />
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">乘浪者海格尔斯(B)</span> delayed (70<span style="font-size:80%"> >>> </span>-130/100).<br />
+<span class="bold">Oniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">691 HP</span></span> (1918 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">459 SP</span></span> (1038 > 1497)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">870 HP</span></span> (2900 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">258 SP</span></span> (419 > 677)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1477 > 1530)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">152 SP</span></span>(862 > 922)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(677 > 824)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(C)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (758 > -1154)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (2071 > 159)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(C)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-1154 > -3066)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(B)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (758 > -1154)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者海格尔斯(B)</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-1154 > -3066)<br />
+<span class="dmg"><span class="bold">乘浪者海格尔斯(B)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">乘浪者海格尔斯(C)</span> 被打倒.</span><br />
+存活者获得 6000 经验.<br />
+Catastrophy 获得 $&nbsp;200.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (2109 > 2091)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  95</span> 伤害 (2302 > 2207)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  95</span> 伤害 (2207 > 2112)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  95</span> 伤害 (2112 > 2017)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (2091 > 2073)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  18</span> 伤害 (2073 > 2055)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_ocean.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/lansslm.gif);background-repeat:no-repeat;background-position:32px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:160px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:144px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:128px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:112px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:360px 50px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131fe.gif);background-repeat:no-repeat;background-position:263px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:293px 88px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">乘浪者欧莱雅</span>
+<div class="hpsp">
+<span class="recover">HP : 159/2500</span><br />
+<span class="support">SP : 2360/2500</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">乘浪者海格尔斯(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3000</span><br />
+<span class="dmg">SP : 1560/1800</span>
+</div>
+<span class="bold dmg">乘浪者海格尔斯(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3000</span><br />
+<span class="dmg">SP : 1800/1800</span>
+</div>
+<span class="bold dmg">3倍速草泥马</span>
+<div class="hpsp">
+<span class="dmg">HP : ????/????</span><br />
+<span class="dmg">SP : ????/????</span>
+</div>
+<span class="bold dmg">乘浪者海格尔斯(C)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/3000</span><br />
+<span class="dmg">SP : 1560/1800</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Oniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2055/2109</span><br />
+<span class="support">SP : 922/922</span>
+</div>
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2900/2900</span><br />
+<span class="support">SP : 474/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2017/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">691 HP</span></span> (2017 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">459 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Oniony</span><span class="recover"> 自动回复 <span class="bold">633 HP</span></span> (2055 > 2109)<br />
+<span class="support">* </span><span class="bold">Oniony</span><span class="support"> 自动回复 <span class="bold">277 SP</span></span> (922 > 922)<br />
+<span class="charge"><span class="bold">Oniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Oniony</span> <span class="support">回复了 <span class="bold">152 SP</span></span>(922 > 922)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(474 > 621)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Oniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  142</span> 伤害 (159 > 17)<br />
+<span class="bold">乘浪者欧莱雅</span> SPD 下降 30%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">870 HP</span></span> (2900 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">258 SP</span></span> (621 > 861)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">乘浪者欧莱雅</span><img src="./image/icon/item_042.png" class="vcent"/>强力射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Oniony</span></span> 受到<span class='dmg bold'>  233</span> 伤害 (2109 > 1876)<br />
+<span class="bold">乘浪者欧莱雅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">691 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">459 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (17 > -1895)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-1895 > -3807)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-3807 > -5719)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-5719 > -7631)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">乘浪者欧莱雅</span></span> 受到<span class='dmg bold'>  1912</span> 伤害 (-7631 > -9543)<br />
+<span class="dmg"><span class="bold">乘浪者欧莱雅</span> 被打倒.</span><br />
+存活者获得 2500 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s5"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 4718<br />
+</td><td class="teams">残留HP : 7078/7311<br />
+存活 : 3/3<br />
+总伤害 : 40298<br />
+总经验值 : 56179<br />
+金钱 : $&nbsp;17,050<br />
+<div class="bold">Items</div>
+<img src="./image/icon/gem_02.png" class="vcent">钻石 x 1<br />
+</td></tr>
+</tbody></table>

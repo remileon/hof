@@ -1,0 +1,587 @@
+1364139780144296
+Catastrophy<>巨大沙包
+3<>5
+91.7<>86
+0
+24
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">巨大沙包</div>
+总级别 : 430<br>
+平均级别 : 86<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 275<br>
+平均级别 : 91.7<br>
+总HP : 6569/6569</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_swamp.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_018r.gif);background-repeat:no-repeat;background-position:76px 4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214rzz.gif);background-repeat:no-repeat;background-position:64px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214rzz.gif);background-repeat:no-repeat;background-position:48px 88px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_018r.gif);background-repeat:no-repeat;background-position:28px 124px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170g.gif);background-repeat:no-repeat;background-position:96px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411ma.gif);background-repeat:no-repeat;background-position:384px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑暗桃乐斯(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 480/480</span><br />
+<span class="support">SP : 700/700</span>
+</div>
+<span class="bold">堕落女祭司(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 630/630</span><br />
+<span class="support">SP : 500/500</span>
+</div>
+<span class="bold">堕落女祭司(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 630/630</span><br />
+<span class="support">SP : 500/500</span>
+</div>
+<span class="bold">黑暗桃乐斯(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 480/480</span><br />
+<span class="support">SP : 700/700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">大沙包</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2920/2920</span><br />
+<span class="support">SP : 867/867</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold">Sagittarius</span>
+<div class="hpsp">
+<span class="recover">HP : 1347/1347</span><br />
+<span class="support">SP : 392/392</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>地面攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  190</span> 伤害 (2302 > 2112)<br />
+<span class="bold">Pumpkin</span> delayed (93<span style="font-size:80%"> >>> </span>42/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Sagittarius</span></span> 受到<span class='dmg bold'>  229</span> 伤害 (1347 > 1118)<br />
+<span class="bold">Sagittarius</span> delayed (67<span style="font-size:80%"> >>> </span>17/100).<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  38</span> 伤害 (2920 > 2882)<br />
+<span class="bold">Onioniony</span> delayed (88<span style="font-size:80%"> >>> </span>38/100).<br />
+<span class="bold">大沙包</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">堕落女祭司(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">堕落女祭司(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">黑暗桃乐斯(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">黑暗桃乐斯(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Sagittarius</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Sagittarius</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">堕落女祭司(A)</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续回复</div>
+<span class="bold">黑暗桃乐斯(A)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(A)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">大沙包</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(B)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">黑暗桃乐斯(B)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">堕落女祭司(B)</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续回复</div>
+<span class="bold">黑暗桃乐斯(A)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(A)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">大沙包</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(B)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">黑暗桃乐斯(B)</span><span class="support"> SP 回复了+5%</span><br />
+<span class="bold">堕落女祭司(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>夺取装甲</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="bold">Onioniony</span> DEF 下降 30%<br />
+<span class="bold">Onioniony</span> MDEF 下降 30%<br />
+<span class="bold">大沙包</span> DEF 提升 30%<br />
+<span class="bold">大沙包</span> MDEF 提升 30%<br />
+<span class="bold">大沙包</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Sagittarius</span><span class="recover"> 自动回复 <span class="bold">135 HP</span></span> (1118 > 1253)<br />
+<span class="support">* </span><span class="bold">Sagittarius</span><span class="support"> 自动回复 <span class="bold">39 SP</span></span> (392 > 392)<br />
+<span class="charge"><span class="bold">Sagittarius</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>夺取装甲</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="bold">Onioniony</span> DEF 下降 30%<br />
+<span class="bold">Onioniony</span> MDEF 下降 30%<br />
+<span class="bold">大沙包</span> DEF 提升 30%<br />
+<span class="bold">大沙包</span> MDEF 提升 30%<br />
+<span class="bold">大沙包</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">292 HP</span></span> (2882 > 2920)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">87 SP</span></span> (717 > 804)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">黑暗桃乐斯(A)</span><img src="./image/icon/skill_006b.png" class="vcent"/>暴风雪</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2920 > 2859)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2859 > 2798)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2798 > 2737)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2737 > 2676)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2676 > 2615)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2615 > 2554)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2554 > 2493)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2493 > 2432)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Sagittarius</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2432 > 2371)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  61</span> 伤害 (2371 > 2310)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Sagittarius</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲散射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  689</span> 伤害 (480 > -209)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(A)</span></span> 受到<span class='dmg bold'>  689</span> 伤害 (630 > -59)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  689</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(B)</span></span> 受到<span class='dmg bold'>  689</span> 伤害 (630 > -59)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  689</span> 伤害 (480 > -209)<br />
+<span class="dmg"><span class="bold">黑暗桃乐斯(A)</span> 被打倒.</span><br />
+<span class="bold">黑暗桃乐斯(A)</span> 掉落了<img src="./image/icon/other_007.png" class="vcent"/>
+<span class="bold u">噪音</span>.<br />
+<span class="dmg"><span class="bold">堕落女祭司(A)</span> 被打倒.</span><br />
+<span class="bold">堕落女祭司(A)</span> 掉落了<img src="./image/icon/mat_016.png" class="vcent"/>
+<span class="bold u">骨头</span>.<br />
+<span class="dmg"><span class="bold">堕落女祭司(B)</span> 被打倒.</span><br />
+<span class="bold">堕落女祭司(B)</span> 掉落了<img src="./image/icon/mat_001.png" class="vcent"/>
+<span class="bold u">钢</span>.<br />
+<span class="dmg"><span class="bold">黑暗桃乐斯(B)</span> 被打倒.</span><br />
+<span class="bold">黑暗桃乐斯(B)</span> 掉落了<img src="./image/icon/other_008.png" class="vcent"/>
+<span class="bold u">丝</span>.<br />
+存活者获得 1115 经验.<br />
+Catastrophy 获得 $&nbsp;400.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_swamp.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:80px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:64px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:32px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170g.gif);background-repeat:no-repeat;background-position:96px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411ma.gif);background-repeat:no-repeat;background-position:384px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">黑暗桃乐斯(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/480</span><br />
+<span class="dmg">SP : 460/700</span>
+</div>
+<span class="bold dmg">堕落女祭司(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/630</span><br />
+<span class="dmg">SP : 350/500</span>
+</div>
+<span class="bold dmg">堕落女祭司(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/630</span><br />
+<span class="dmg">SP : 350/500</span>
+</div>
+<span class="bold dmg">黑暗桃乐斯(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/480</span><br />
+<span class="dmg">SP : 700/700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">大沙包</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2310/2920</span><br />
+<span class="support">SP : 654/867</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2112/2302</span><br />
+<span class="support">SP : 1080/1530</span>
+</div>
+<span class="bold">Sagittarius</span>
+<div class="hpsp">
+<span class="recover">HP : 1253/1347</span><br />
+<span class="support">SP : 92/392</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_008.png" class="vcent"/>灵魂复苏</div>
+<span class="bold">黑暗桃乐斯(B)</span> <span class="recover">revived</span>!<br />
+<span class="bold">黑暗桃乐斯(B)</span> <span class="recover">回复了 <span class="bold">1893 HP</span></span>(0 > 480)<br />
+<span class="bold">堕落女祭司(A)</span> <span class="recover">revived</span>!<br />
+<span class="bold">堕落女祭司(A)</span> <span class="recover">回复了 <span class="bold">1893 HP</span></span>(0 > 630)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2112 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1080 > 1233)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1213 > 1409)<br />
+<span class="bold">Sagittarius</span> <span class="support">回复了 <span class="bold">99 SP</span></span>(92 > 191)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">148 SP</span></span>(654 > 802)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">292 HP</span></span> (2310 > 2602)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">87 SP</span></span> (802 > 867)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">堕落女祭司(A)</span><span class="support"> 自动回复 <span class="bold">50 SP</span></span> (350 > 400)<br />
+<span class="charge"><span class="bold">堕落女祭司(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Sagittarius</span><span class="recover"> 自动回复 <span class="bold">135 HP</span></span> (1253 > 1347)<br />
+<span class="support">* </span><span class="bold">Sagittarius</span><span class="support"> 自动回复 <span class="bold">39 SP</span></span> (191 > 230)<br />
+<span class="charge"><span class="bold">Sagittarius</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>砍翻</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  562</span> 伤害 (2602 > 2040)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">黑暗桃乐斯(B)</span><span class="support"> 自动回复 <span class="bold">70 SP</span></span> (700 > 700)<br />
+<span class="charge"><span class="bold">黑暗桃乐斯(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">堕落女祭司(A)</span><img src="./image/icon/mat_026.png" class="vcent"/>复苏</div>
+<span class="bold">黑暗桃乐斯(A)</span> <span class="recover">revived</span>!<br />
+<span class="bold">黑暗桃乐斯(A)</span> <span class="recover">回复了 <span class="bold">1020 HP</span></span>(0 > 480)<br />
+<span class="bold">堕落女祭司(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Sagittarius</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  33</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(A)</span></span> 受到<span class='dmg bold'>  237</span> 伤害 (630 > 393)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (480 > 210)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (480 > 210)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (210 > -60)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(A)</span></span> 受到<span class='dmg bold'>  237</span> 伤害 (393 > 156)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  33</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-60 > -330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-330 > -600)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  33</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (210 > -60)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-600 > -870)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-60 > -330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(B)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-870 > -1140)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(A)</span></span> 受到<span class='dmg bold'>  237</span> 伤害 (156 > -81)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-330 > -600)<br />
+<span class="dmg"><span class="bold">黑暗桃乐斯(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">堕落女祭司(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">黑暗桃乐斯(B)</span> 被打倒.</span><br />
+存活者获得 400 经验.<br />
+<span class="bold">Sagittarius</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1409 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>砍翻</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  562</span> 伤害 (2040 > 1478)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Sagittarius</span> <span class="support">回复了 <span class="bold">99 SP</span></span>(50 > 149)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">148 SP</span></span>(717 > 865)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">292 HP</span></span> (1478 > 1770)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">87 SP</span></span> (865 > 867)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_008.png" class="vcent"/>灵魂复苏</div>
+<span class="bold">堕落女祭司(A)</span> <span class="recover">revived</span>!<br />
+<span class="bold">堕落女祭司(A)</span> <span class="recover">回复了 <span class="bold">1893 HP</span></span>(0 > 630)<br />
+<span class="bold">黑暗桃乐斯(A)</span> <span class="recover">revived</span>!<br />
+<span class="bold">黑暗桃乐斯(A)</span> <span class="recover">回复了 <span class="bold">1893 HP</span></span>(0 > 480)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_swamp.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_018r.gif);background-repeat:no-repeat;background-position:76px 4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_214rzz.gif);background-repeat:no-repeat;background-position:64px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:48px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:32px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170g.gif);background-repeat:no-repeat;background-position:96px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411ma.gif);background-repeat:no-repeat;background-position:384px 100px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">黑暗桃乐斯(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 480/480</span><br />
+<span class="support">SP : 460/700</span>
+</div>
+<span class="bold">堕落女祭司(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 630/630</span><br />
+<span class="support">SP : 280/500</span>
+</div>
+<span class="bold dmg">堕落女祭司(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/630</span><br />
+<span class="dmg">SP : 350/500</span>
+</div>
+<span class="bold dmg">黑暗桃乐斯(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/480</span><br />
+<span class="dmg">SP : 700/700</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">大沙包</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1770/2920</span><br />
+<span class="support">SP : 717/867</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold">Sagittarius</span>
+<div class="hpsp">
+<span class="recover">HP : 1347/1347</span><br />
+<span class="support">SP : 149/392</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">大沙包</span><span class="support"> 自动回复 <span class="bold">600 SP</span></span> (??? > ???)<br />
+<div class="u"><span class="bold">大沙包</span><img src="./image/icon/skill_066.png" class="vcent"/>砍翻</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  562</span> 伤害 (1770 > 1208)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(2302 > 2302)<br />
+<span class="bold">Sagittarius</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(1347 > 1347)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">964 HP</span></span>(1208 > 2172)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">292 HP</span></span> (2172 > 2464)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">87 SP</span></span> (717 > 804)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Sagittarius</span><span class="recover"> 自动回复 <span class="bold">135 HP</span></span> (1347 > 1347)<br />
+<span class="support">* </span><span class="bold">Sagittarius</span><span class="support"> 自动回复 <span class="bold">39 SP</span></span> (149 > 188)<br />
+<span class="charge"><span class="bold">Sagittarius</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">黑暗桃乐斯(A)</span><span class="support"> 自动回复 <span class="bold">70 SP</span></span> (460 > 530)<br />
+<span class="charge"><span class="bold">黑暗桃乐斯(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="bold">大沙包</span> 保护<span class="bold">黑暗桃乐斯(A)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  1954</span> 伤害 (??? > ???)<br />
+<span class="bold">大沙包</span> 保护<span class="bold">堕落女祭司(A)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  1954</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  1954</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">堕落女祭司(A)</span></span> 受到<span class='dmg bold'>  1954</span> 伤害 (630 > -1324)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">大沙包</span></span> 受到<span class='dmg bold'>  1954</span> 伤害 (??? > ???)<br />
+<span class="dmg"><span class="bold">堕落女祭司(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">大沙包</span> 被打倒.</span><br />
+存活者获得 12461 经验.<br />
+Catastrophy 获得 $&nbsp;33,300.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Sagittarius</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (480 > 210)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (210 > -60)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-60 > -330)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-330 > -600)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-600 > -870)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-870 > -1140)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-1140 > -1410)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-1410 > -1680)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-1680 > -1950)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-1950 > -2220)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-2220 > -2490)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-2490 > -2760)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-2760 > -3030)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-3030 > -3300)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-3300 > -3570)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">黑暗桃乐斯(A)</span></span> 受到<span class='dmg bold'>  270</span> 伤害 (-3570 > -3840)<br />
+<span class="dmg"><span class="bold">黑暗桃乐斯(A)</span> 被打倒.</span><br />
+存活者获得 67 经验.<br />
+<span class="bold">Sagittarius</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-80/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s3"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 2753<br />
+</td><td class="teams">残留HP : 6113/6569<br />
+存活 : 3/3<br />
+总伤害 : 21045<br />
+总经验值 : 42128<br />
+金钱 : $&nbsp;33,700<br />
+<div class="bold">Items</div>
+<img src="./image/icon/other_007.png" class="vcent">噪音 x 1<br />
+<img src="./image/icon/mat_016.png" class="vcent">骨头 x 1<br />
+<img src="./image/icon/mat_001.png" class="vcent">钢 x 1<br />
+<img src="./image/icon/other_008.png" class="vcent">丝 x 1<br />
+</td></tr>
+</tbody></table>

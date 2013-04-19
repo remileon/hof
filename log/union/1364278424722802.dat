@@ -1,0 +1,650 @@
+1364278424722802
+Catastrophy<>早餐时间
+4<>5
+60<>14.8
+0
+36
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">早餐时间</div>
+总级别 : 74<br>
+平均级别 : 14.8<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 60<br>
+平均级别 : 60<br>
+总HP : 1074/1074</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054rz.gif);background-repeat:no-repeat;background-position:56px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:117px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:90px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_232ma.gif);background-repeat:no-repeat;background-position:360px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">哥布林僧侣(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 100/100</span>
+</div>
+<span class="bold">早餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">哥布林僧侣(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 100/100</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">哥布林坦克(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 800/800</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+<span class="bold">哥布林坦克(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 800/800</span><br />
+<span class="support">SP : 150/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+</td><td style="width:50%">
+<span class="bold">Hades</span>
+<div class="hpsp">
+<span class="recover">HP : 1074/1074</span><br />
+<span class="support">SP : 788/788</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hades</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_072z.png" class="vcent"/>破坏灵魂</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  36</span> 伤害 (1074 > 1038)<br />
+<span class="spdmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='spdmg bold'>  36</span> 伤害 (788 > 752)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hades</span><img src="./image/icon/skill_048.png" class="vcent"/>害怕</div>
+<span class="bold">哥布林坦克(A)</span> STR 下降 40%<br />
+<span class="bold">哥布林僧侣(A)</span> STR 下降 40%<br />
+<span class="bold">早餐时间</span> STR 下降 40%<br />
+<span class="bold">哥布林坦克(B)</span> STR 下降 40%<br />
+<span class="bold">哥布林僧侣(B)</span> STR 下降 40%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(A)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1038 > 1032)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1032 > 1026)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1026 > 1020)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1020 > 1014)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1014 > 1008)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1008 > 1002)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(B)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1002 > 996)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (996 > 990)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (990 > 984)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (984 > 978)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (978 > 972)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (972 > 966)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">哥布林僧侣(B)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">哥布林僧侣(A)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林僧侣(B)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (966 > 958)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (958 > 950)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (950 > 942)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (942 > 934)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (934 > 926)<br />
+<span class="bold">哥布林僧侣(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林僧侣(A)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (926 > 918)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (918 > 910)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (910 > 902)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (902 > 894)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (894 > 886)<br />
+<span class="bold">哥布林僧侣(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hades</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-20/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (886 > 878)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (878 > 870)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (870 > 862)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (862 > 854)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (854 > 846)<br />
+<span class="bold">早餐时间</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(A)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (846 > 840)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (840 > 834)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (834 > 828)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (828 > 822)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (822 > 816)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (816 > 810)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(B)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (810 > 804)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (804 > 798)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (798 > 792)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (792 > 786)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (786 > 780)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (780 > 774)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hades</span><img src="./image/icon/skill_028.png" class="vcent"/>木乃伊小队</div>
+<img src="./image/char/mon_146.gif" class="vcent"><span class="bold">木乃伊勇士(A)</span> 加入了队伍.<br />
+<img src="./image/char/mon_146.gif" class="vcent"><span class="bold">木乃伊勇士(B)</span> 加入了队伍.<br />
+<img src="./image/char/mon_146.gif" class="vcent"><span class="bold">木乃伊勇士(C)</span> 加入了队伍.<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054rz.gif);background-repeat:no-repeat;background-position:56px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:117px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:90px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_232ma.gif);background-repeat:no-repeat;background-position:360px 55px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:268px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:288px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:308px 102px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">哥布林僧侣(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 60/100</span>
+</div>
+<span class="bold">早餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">哥布林僧侣(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 60/100</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">哥布林坦克(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 800/800</span><br />
+<span class="support">SP : 110/150</span>
+</div>
+<span class="bold">哥布林坦克(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 800/800</span><br />
+<span class="support">SP : 110/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">木乃伊勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1089/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 1089/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 1089/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hades</span>
+<div class="hpsp">
+<span class="recover">HP : 774/1074</span><br />
+<span class="support">SP : 212/788</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1089 > 1035)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (774 > 764)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1089 > 1035)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1035 > 981)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1089 > 1035)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (1035 > 981)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hades</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(B)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (981 > 975)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1035 > 1029)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (764 > 758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (981 > 975)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (975 > 969)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (969 > 963)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(A)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (975 > 969)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (963 > 957)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (969 > 963)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (758 > 752)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (963 > 957)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (957 > 951)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(A)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(A)</span> 保护<span class="bold">哥布林僧侣(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(A)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (800 > 580)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(C)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(A)</span> 保护<span class="bold">哥布林僧侣(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(A)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (580 > 360)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(B)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(B)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (800 > 580)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">哥布林僧侣(A)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">哥布林僧侣(B)</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林僧侣(A)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1029 > 1021)<br />
+<span class="bold">木乃伊勇士(A)</span> 保护<span class="bold">Hades</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (957 > 949)<br />
+<span class="bold">木乃伊勇士(A)</span> 保护<span class="bold">Hades</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (949 > 941)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1021 > 1013)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1013 > 1005)<br />
+<span class="bold">哥布林僧侣(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林僧侣(B)</span><img src="./image/icon/skill_031.png" class="vcent"/>愤怒一击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (1005 > 997)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (951 > 943)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (941 > 933)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (943 > 935)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (933 > 925)<br />
+<span class="bold">哥布林僧侣(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hades</span><img src="./image/icon/skill_041z.png" class="vcent"/>灵魂收割</div>
+失败!<br /><span class="bold">Hades</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (752 > 742)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (935 > 881)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (881 > 827)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (997 > 943)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (742 > 732)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (732 > 722)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:72px 14px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054rz.gif);background-repeat:no-repeat;background-position:56px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:117px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_078.gif);background-repeat:no-repeat;background-position:90px 85px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_232ma.gif);background-repeat:no-repeat;background-position:360px 55px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:268px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:288px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:308px 102px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">哥布林僧侣(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 20/100</span>
+</div>
+<span class="bold">早餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">哥布林僧侣(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 20/100</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">哥布林坦克(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 360/800</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+<span class="bold">哥布林坦克(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 580/800</span><br />
+<span class="support">SP : 90/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">木乃伊勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 925/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 827/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 943/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hades</span>
+<div class="hpsp">
+<span class="recover">HP : 722/1074</span><br />
+<span class="support">SP : 12/788</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(B)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(A)</span> 保护<span class="bold">哥布林僧侣(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(A)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (360 > 140)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(A)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(B)</span> 保护<span class="bold">哥布林僧侣(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(B)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (580 > 360)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(C)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(A)</span> 保护<span class="bold">哥布林僧侣(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(A)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (140 > -80)<br />
+<span class="dmg"><span class="bold">哥布林坦克(A)</span> 被打倒.</span><br />
+存活者获得 100 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林坦克(B)</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (943 > 937)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (827 > 821)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (937 > 931)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (821 > 815)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (722 > 716)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (815 > 809)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (809 > 755)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(A)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (925 > 871)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (716 > 706)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (755 > 701)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (701 > 647)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (706 > 696)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(B)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(B)</span> 保护<span class="bold">早餐时间</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(B)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (360 > 140)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(A)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="bold">哥布林坦克(B)</span> 保护<span class="bold">早餐时间</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林坦克(B)</span></span> 受到<span class='dmg bold'>  220</span> 伤害 (140 > -80)<br />
+<span class="dmg"><span class="bold">哥布林坦克(B)</span> 被打倒.</span><br />
+存活者获得 100 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(C)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林僧侣(A)</span></span> 受到<span class='dmg bold'>  388</span> 伤害 (320 > -68)<br />
+<span class="dmg"><span class="bold">哥布林僧侣(A)</span> 被打倒.</span><br />
+<span class="bold">哥布林僧侣(A)</span> 掉落了<img src="./image/icon/other_008.png" class="vcent"/>
+<span class="bold u">棉花</span>.<br />
+存活者获得 60 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hades</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hades</span><img src="./image/icon/skill_019z.png" class="vcent"/>集中精神</div>
+<span class="bold">Hades</span> <span class="support">回复了 <span class="bold">394 SP</span></span>(12 > 406)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">哥布林僧侣(B)</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">哥布林僧侣(B)</span> <span class="support">回复了 <span class="bold">30 SP</span></span>(20 > 50)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_grass.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:76px 26px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_054rz.gif);background-repeat:no-repeat;background-position:56px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_205.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_232ma.gif);background-repeat:no-repeat;background-position:360px 55px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:268px 2px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:288px 52px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_146.gif);background-repeat:no-repeat;background-position:308px 102px;">
+</div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">哥布林僧侣(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/320</span><br />
+<span class="dmg">SP : 20/100</span>
+</div>
+<span class="bold">早餐时间</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">哥布林僧侣(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 320/320</span><br />
+<span class="support">SP : 50/100</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">哥布林坦克(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/800</span><br />
+<span class="dmg">SP : 90/150</span>
+</div>
+<span class="bold dmg">哥布林坦克(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/800</span><br />
+<span class="dmg">SP : 70/150</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">木乃伊勇士(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 871/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 647/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+<span class="bold">木乃伊勇士(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 931/1089</span><br />
+<span class="support">SP : 0/0</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Hades</span>
+<div class="hpsp">
+<span class="recover">HP : 696/1074</span><br />
+<span class="support">SP : 406/788</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>92/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">早餐时间</span> <span class="support">回复了 <span class="bold">100 SP</span></span>(??? > ???)<br />
+<span class="bold">哥布林僧侣(B)</span> <span class="support">回复了 <span class="bold">50 SP</span></span>(50 > 100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(B)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">早餐时间</span></span> 受到<span class='dmg bold'>  244</span> 伤害 (??? > ???)<br />
+存活者获得 122 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(A)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">哥布林僧侣(B)</span></span> 受到<span class='dmg bold'>  388</span> 伤害 (320 > -68)<br />
+<span class="dmg"><span class="bold">哥布林僧侣(B)</span> 被打倒.</span><br />
+存活者获得 60 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">木乃伊勇士(C)</span><img src="./image/icon/skill_042.png" class="vcent"/>攻击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">早餐时间</span></span> 受到<span class='dmg bold'>  244</span> 伤害 (??? > ???)<br />
+存活者获得 122 经验.<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Hades</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">早餐时间</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>86/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">早餐时间</span><img src="./image/icon/skill_004a.png" class="vcent"/>火焰风暴</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (696 > 686)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (686 > 676)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Hades</span></span> 受到<span class='dmg bold'>  10</span> 伤害 (676 > 666)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (931 > 877)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(C)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (877 > 823)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">木乃伊勇士(B)</span></span> 受到<span class='dmg bold'>  54</span> 伤害 (647 > 593)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Hades</span><img src="./image/icon/skill_041z.png" class="vcent"/>灵魂收割</div>
+<span class="dmg"><span class="bold">早餐时间</span> 被打倒.</span><br />
+<span class="bold">早餐时间</span> 掉落了<img src="./image/icon/gem_03.png" class="vcent"/>
+<span class="bold u">重置水晶(状态100)</span>.<br />
+存活者获得 976 经验.<br />
+Catastrophy 获得 $&nbsp;407.<br />
+<span class="bold">Hades</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s4"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 1352<br />
+</td><td class="teams">残留HP : 2953/4341<br />
+存活 : 4/4<br />
+总伤害 : 3024<br />
+总经验值 : 1540<br />
+金钱 : $&nbsp;807<br />
+<div class="bold">Items</div>
+<img src="./image/icon/other_008.png" class="vcent">棉花 x 1<br />
+<img src="./image/icon/gem_03.png" class="vcent">重置水晶(状态100) x 1<br />
+</td></tr>
+</tbody></table>

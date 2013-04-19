@@ -1,0 +1,150 @@
+1359800618983401
+黑暗枪骑兵[5位]<>Jollycon[4位]
+5<>1
+55.2<>60
+0
+4
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">Jollycon[4位]</div>
+总级别 : 60<br>
+平均级别 : 60<br>
+总HP : 1008/1008</td><td class="teams ttd1"><div class="bold">黑暗枪骑兵[5位]</div>
+总级别 : 276<br>
+平均级别 : 55.2<br>
+总HP : 6085/6085</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_432fe.gif);background-repeat:no-repeat;background-position:47px 75px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_131ma.gif);background-repeat:no-repeat;background-position:368px 68px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_042z.gif);background-repeat:no-repeat;background-position:392px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_111ma.gif);background-repeat:no-repeat;background-position:275px 48px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">文文丸</span>
+<div class="hpsp">
+<span class="recover">HP : 1008/1008</span><br />
+<span class="support">SP : 254/254</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">方森岩</span>
+<div class="hpsp">
+<span class="recover">HP : 2650/2650</span><br />
+<span class="support">SP : 295/295</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">甘道夫</span>
+<div class="hpsp">
+<span class="recover">HP : 664/664</span><br />
+<span class="support">SP : 1641/1641</span>
+</div>
+<span class="bold">小鸟游六花</span>
+<div class="hpsp">
+<span class="recover">HP : 895/895</span><br />
+<span class="support">SP : 1049/1049</span>
+</div>
+<span class="bold">虚空行者</span>
+<div class="hpsp">
+<span class="recover">HP : 1316/1316</span><br />
+<span class="support">SP : 641/641</span>
+</div>
+<span class="bold">雾歌</span>
+<div class="hpsp">
+<span class="recover">HP : 560/560</span><br />
+<span class="support">SP : 184/184</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">文文丸</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">文文丸</span><img src="./image/icon/skill_005cz.png" class="vcent"/>毒之气息</div>
+<span class="bold">甘道夫</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">小鸟游六花</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">方森岩</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">虚空行者</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">雾歌</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">文文丸</span> 移到前排.<br />
+<span class="bold">文文丸</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="spdmg"><span class="bold">虚空行者</span> 由于中毒受到 <span class="bold">161</span> 伤害.
+(1316 > 1155)</span><br />
+<span class="charge"><span class="bold">虚空行者</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="spdmg"><span class="bold">小鸟游六花</span> 由于中毒受到 <span class="bold">120</span> 伤害.
+(895 > 775)</span><br />
+<span class="charge"><span class="bold">小鸟游六花</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="spdmg"><span class="bold">方森岩</span> 由于中毒受到 <span class="bold">296</span> 伤害.
+(2650 > 2354)</span><br />
+<div class="u"><span class="bold">方森岩</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">甘道夫</span> DEF 提升 60%<br />
+<span class="bold">小鸟游六花</span> DEF 提升 60%<br />
+<span class="bold">方森岩</span> DEF 提升 60%<br />
+<span class="bold">虚空行者</span> DEF 提升 60%<br />
+<span class="bold">雾歌</span> DEF 提升 60%<br />
+<span class="bold">方森岩</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="spdmg"><span class="bold">甘道夫</span> 由于中毒受到 <span class="bold">94</span> 伤害.
+(664 > 570)</span><br />
+<span class="charge"><span class="bold">甘道夫</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">小鸟游六花</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">甘道夫</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">方森岩</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">虚空行者</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">雾歌</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">小鸟游六花</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">雾歌</span><span class="support"> 自动回复 <span class="bold">18 SP</span></span> (184 > 184)<br />
+<span class="spdmg"><span class="bold">雾歌</span> 由于中毒受到 <span class="bold">77</span> 伤害.
+(560 > 483)</span><br />
+<span class="charge"><span class="bold">雾歌</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">虚空行者</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">文文丸</span></span> 受到<span class='dmg bold'>  817</span> 伤害 (1008 > 191)<br />
+<span class="bold">文文丸</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">文文丸</span></span> 受到<span class='dmg bold'>  817</span> 伤害 (191 > -626)<br />
+<span class="bold">文文丸</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">文文丸</span></span> 受到<span class='dmg bold'>  817</span> 伤害 (-626 > -1443)<br />
+<span class="bold">文文丸</span> MDEF 下降 50%<br />
+<span class="dmg"><span class="bold">文文丸</span> 被打倒.</span><br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s1"></a>
+<span style="font-size:200%">黑暗枪骑兵[5位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 0/1008<br />
+存活 : 0/1<br />
+总伤害 : 0<br />
+</td><td class="teams">残留HP : 5337/6085<br />
+存活 : 5/5<br />
+总伤害 : 2451<br />
+</td></tr>
+</tbody></table>

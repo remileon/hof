@@ -1,0 +1,863 @@
+1359426141799138
+炎の审判团[3位]<>猛毒の風[2位]
+5<>5
+69.4<>65.4
+1
+35
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">猛毒の風[2位]</div>
+总级别 : 327<br>
+平均级别 : 65.4<br>
+总HP : 6831/6831</td><td class="teams ttd1"><div class="bold">炎の审判团[3位]</div>
+总级别 : 347<br>
+平均级别 : 69.4<br>
+总HP : 6284/6284</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:69px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:40px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:17px 106px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_321fe.gif);background-repeat:no-repeat;background-position:137px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111fe.gif);background-repeat:no-repeat;background-position:105px 82px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411ma.gif);background-repeat:no-repeat;background-position:379px 87px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:396px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112fe.gif);background-repeat:no-repeat;background-position:277px 52px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1107/1107</span><br />
+<span class="support">SP : 297/297</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1499/1499</span><br />
+<span class="support">SP : 600/600</span>
+</div>
+<span class="bold">光羽·玛特</span>
+<div class="hpsp">
+<span class="recover">HP : 761/761</span><br />
+<span class="support">SP : 891/891</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 1185/1185</span><br />
+<span class="support">SP : 768/768</span>
+</div>
+<span class="bold">骑士·指挥</span>
+<div class="hpsp">
+<span class="recover">HP : 2279/2279</span><br />
+<span class="support">SP : 260/260</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2578/2578</span><br />
+<span class="support">SP : 567/567</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<div class="hpsp">
+<span class="recover">HP : 641/641</span><br />
+<span class="support">SP : 1786/1786</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 1000/1000</span><br />
+<span class="support">SP : 1208/1208</span>
+</div>
+<span class="bold">炎狱弓手</span>
+<div class="hpsp">
+<span class="recover">HP : 1028/1028</span><br />
+<span class="support">SP : 255/255</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 1037/1037</span><br />
+<span class="support">SP : 827/827</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_066.png" class="vcent"/>树灵变化</div>
+<span class="bold">椿姬·提泰妮娅</span> MAXHP(1185) 提升到 3555<br />
+<span class="bold">椿姬·提泰妮娅</span> INT 提升 60%<br />
+<span class="bold">椿姬·提泰妮娅</span> DEF 提升 35%<br />
+<span class="bold">椿姬·提泰妮娅</span> MDEF 提升 35%<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">1778 HP</span></span>(1185 > 2963)<br />
+<span class="bold">椿姬·提泰妮娅</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱</div>
+<span class="bold">熔岩侍女</span> delayed (80<span style="font-size:80%"> >>> </span>-120/100).<br />
+<span class="bold">冥府·格斯</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">炎狱魔法师</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-120/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">光羽·玛特</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">爆炎少女</span><img src="./image/icon/skill_029.png" class="vcent"/>召唤陨石龟</div>
+<img src="./image/char/Kame.gif" class="vcent"><span class="bold">陨石龟(A)</span> 加入了队伍.<br />
+<span class="bold">爆炎少女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-800/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">陨石龟(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">守护者·艾亚托斯</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·指挥</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">守护者·艾亚托斯</span> DEF 提升 60%<br />
+<span class="bold">椿姬·提泰妮娅</span> DEF 提升 60%<br />
+<span class="bold">冥府·格斯</span> DEF 提升 60%<br />
+<span class="bold">光羽·玛特</span> DEF 提升 60%<br />
+<span class="bold">骑士·指挥</span> DEF 提升 60%<br />
+<span class="bold">骑士·指挥</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">炎狱弓手</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">光羽·玛特</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">守护者·艾亚托斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">椿姬·提泰妮娅</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">冥府·格斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">骑士·指挥</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>冰墙</div>
+<span class="bold">熔岩妖女</span> DEF 提升 20%<br />
+<span class="bold">熔岩妖女</span> MDEF 提升 60%<br />
+<span class="bold">炎狱魔法师</span> DEF 提升 20%<br />
+<span class="bold">炎狱魔法师</span> MDEF 提升 60%<br />
+<span class="bold">熔岩侍女</span> DEF 提升 20%<br />
+<span class="bold">熔岩侍女</span> MDEF 提升 60%<br />
+<span class="bold">炎狱弓手</span> DEF 提升 20%<br />
+<span class="bold">炎狱弓手</span> MDEF 提升 60%<br />
+<span class="bold">爆炎少女</span> DEF 提升 20%<br />
+<span class="bold">爆炎少女</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> DEF 提升 20%<br />
+<span class="bold">陨石龟(A)</span> MDEF 提升 60%<br />
+<span class="bold">陨石龟(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">炎狱弓手</span><img src="./image/icon/item_042.png" class="vcent"/>强弩推射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  50</span> 伤害 (1107 > 1057)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2963 > 2936)<br />
+<span class="bold">椿姬·提泰妮娅</span>敲到后排!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (1499 > 1472)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">光羽·玛特</span></span> 受到<span class='dmg bold'>  53</span> 伤害 (761 > 708)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  27</span> 伤害 (2279 > 2252)<br />
+<span class="bold">骑士·指挥</span>敲到后排!<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">光羽·玛特</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (708 > 580)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (2252 > 2124)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1057 > 929)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (929 > 801)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1472 > 1344)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (801 > 673)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲散射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (2578 > 2050)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱魔法师</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (641 > 113)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (1000 > 472)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (1028 > 500)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (1037 > 509)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (2314 > 1786)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">冥府·格斯</span><span class="support"> 自动回复 <span class="bold">60 SP</span></span> (540 > 600)<br />
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">炎狱魔法师</span> delayed (37<span style="font-size:80%"> >>> </span>-63/100).<br />
+<span class="bold">熔岩侍女</span> delayed (41<span style="font-size:80%"> >>> </span>-60/100).<br />
+<span class="bold">冥府·格斯</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:75px -7px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:57px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:40px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:23px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111fe.gif);background-repeat:no-repeat;background-position:12px 115px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_411ma.gif);background-repeat:no-repeat;background-position:379px 87px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:396px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112fe.gif);background-repeat:no-repeat;background-position:263px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:273px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 673/1107</span><br />
+<span class="support">SP : 97/297</span>
+</div>
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 2936/3555</span><br />
+<span class="support">SP : 468/768</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1344/1499</span><br />
+<span class="support">SP : 500/600</span>
+</div>
+<span class="bold">光羽·玛特</span>
+<div class="hpsp">
+<span class="recover">HP : 580/761</span><br />
+<span class="support">SP : 591/891</span>
+</div>
+<span class="bold">骑士·指挥</span>
+<div class="hpsp">
+<span class="recover">HP : 2124/2279</span><br />
+<span class="support">SP : 200/260</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 2050/2578</span><br />
+<span class="support">SP : 487/567</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1786/2314</span><br />
+<span class="support">SP : 279/579</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 113/641</span><br />
+<span class="support">SP : 1786/1786</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 472/1000</span><br />
+<span class="support">SP : 1208/1208</span>
+</div>
+<span class="bold">炎狱弓手</span>
+<div class="hpsp">
+<span class="recover">HP : 500/1028</span><br />
+<span class="support">SP : 195/255</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 509/1037</span><br />
+<span class="support">SP : 277/827</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">椿姬·提泰妮娅</span><span class="support"> 自动回复 <span class="bold">77 SP</span></span> (468 > 545)<br />
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">炎狱弓手</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">骑士·指挥</span><span class="support"> 自动回复 <span class="bold">26 SP</span></span> (200 > 226)<br />
+<div class="u"><span class="bold">骑士·指挥</span><img src="./image/icon/skill_044.png" class="vcent"/>休战增援</div>
+<span class="bold">守护者·艾亚托斯</span> DEF 提升 60%<br />
+<span class="bold">椿姬·提泰妮娅</span> DEF 提升 60%<br />
+<span class="bold">冥府·格斯</span> DEF 提升 60%<br />
+<span class="bold">光羽·玛特</span> DEF 提升 60%<br />
+<span class="bold">骑士·指挥</span> DEF 提升 60%<br />
+<span class="bold">骑士·指挥</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">守护者·艾亚托斯</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(673 > 1016)<br />
+<span class="bold">光羽·玛特</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(580 > 761)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(2936 > 3279)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">守护者·艾亚托斯</span><span class="support"> 自动回复 <span class="bold">30 SP</span></span> (97 > 127)<br />
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (500 > 331)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  162</span> 伤害 (509 > 347)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2050 > 2028)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2028 > 2006)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (331 > 162)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (2006 > 1984)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">光羽·玛特</span><span class="support"> 自动回复 <span class="bold">89 SP</span></span> (591 > 680)<br />
+<span class="charge"><span class="bold">光羽·玛特</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">炎狱弓手</span><img src="./image/icon/item_042.png" class="vcent"/>扩散射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">守护者·艾亚托斯</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (1016 > 950)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">椿姬·提泰妮娅</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (3279 > 3213)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">冥府·格斯</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (1344 > 1278)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">光羽·玛特</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (761 > 695)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  66</span> 伤害 (2124 > 2058)<br />
+<span class="bold">炎狱弓手</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">光羽·玛特</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">守护者·艾亚托斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">椿姬·提泰妮娅</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">冥府·格斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">骑士·指挥</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">椿姬·提泰妮娅</span><span class="support"> 自动回复 <span class="bold">154 SP</span></span> (515 > 669)<br />
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">熔岩侍女</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">熔岩妖女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱魔法师</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">炎狱弓手</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">爆炎少女</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">陨石龟(A)</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">熔岩侍女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">58 SP</span></span> (279 > 337)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>祝福</div>
+<span class="bold">熔岩妖女</span> <span class="support">回复了 <span class="bold">72 SP</span></span>(487 > 559)<br />
+<span class="bold">炎狱魔法师</span> <span class="support">回复了 <span class="bold">127 SP</span></span>(1786 > 1786)<br />
+<span class="bold">熔岩侍女</span> <span class="support">回复了 <span class="bold">105 SP</span></span>(908 > 1013)<br />
+<span class="bold">炎狱弓手</span> <span class="support">回复了 <span class="bold">48 SP</span></span>(35 > 83)<br />
+<span class="bold">爆炎少女</span> <span class="support">回复了 <span class="bold">87 SP</span></span>(277 > 364)<br />
+<span class="bold">陨石龟(A)</span> <span class="support">回复了 <span class="bold">73 SP</span></span>(337 > 410)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">冥府·格斯</span><span class="support"> 自动回复 <span class="bold">120 SP</span></span> (500 > 600)<br />
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_016.png" class="vcent"/>打扰咏唱(全员)</div>
+<span class="bold">熔岩妖女</span> delayed (70<span style="font-size:80%"> >>> </span>-30/100).<br />
+<span class="bold">炎狱魔法师</span> delayed (95<span style="font-size:80%"> >>> </span>-5/100).<br />
+<span class="bold">冥府·格斯</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">守护者·艾亚托斯</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (107 > 166)<br />
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>箭雨</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1984 > 1962)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1962 > 1940)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  162</span> 伤害 (347 > 185)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  22</span> 伤害 (1940 > 1918)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (162 > -7)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  52</span> 伤害 (1786 > 1734)<br />
+<span class="dmg"><span class="bold">炎狱弓手</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">守护者·艾亚托斯</span> <span class="support">回复了 <span class="bold">87 SP</span></span>(146 > 233)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="support">回复了 <span class="bold">139 SP</span></span>(649 > 768)<br />
+<span class="bold">冥府·格斯</span> <span class="support">回复了 <span class="bold">123 SP</span></span>(500 > 600)<br />
+<span class="bold">光羽·玛特</span> <span class="support">回复了 <span class="bold">150 SP</span></span>(380 > 530)<br />
+<span class="bold">骑士·指挥</span> <span class="support">回复了 <span class="bold">81 SP</span></span>(166 > 247)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:75px -7px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:57px 32px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:40px 48px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:23px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111fe.gif);background-repeat:no-repeat;background-position:12px 115px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_211ma.gif);background-repeat:no-repeat;background-position:329px -1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311fe.gif);background-repeat:no-repeat;background-position:349px 36px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_421fe.gif);background-repeat:no-repeat;background-position:396px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112fe.gif);background-repeat:no-repeat;background-position:263px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:273px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 950/1107</span><br />
+<span class="support">SP : 233/297</span>
+</div>
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 3213/3555</span><br />
+<span class="support">SP : 768/768</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1278/1499</span><br />
+<span class="support">SP : 600/600</span>
+</div>
+<span class="bold">光羽·玛特</span>
+<div class="hpsp">
+<span class="recover">HP : 695/761</span><br />
+<span class="support">SP : 530/891</span>
+</div>
+<span class="bold">骑士·指挥</span>
+<div class="hpsp">
+<span class="recover">HP : 2058/2279</span><br />
+<span class="support">SP : 247/260</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 1918/2578</span><br />
+<span class="support">SP : 559/567</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1734/2314</span><br />
+<span class="support">SP : 410/579</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">炎狱魔法师</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 113/641</span><br />
+<span class="support">SP : 1786/1786</span>
+</div>
+<span class="bold">熔岩侍女</span>
+<div class="hpsp">
+<span class="recover">HP : 472/1000</span><br />
+<span class="support">SP : 1013/1208</span>
+</div>
+<span class="bold dmg">炎狱弓手</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1028</span><br />
+<span class="dmg">SP : 83/255</span>
+</div>
+<span class="bold">爆炎少女</span>
+<div class="hpsp">
+<span class="recover">HP : 185/1037</span><br />
+<span class="support">SP : 364/827</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">骑士·指挥</span><span class="support"> 自动回复 <span class="bold">52 SP</span></span> (247 > 260)<br />
+<div class="u"><span class="bold">骑士·指挥</span><img src="./image/icon/skill_033.png" class="vcent"/>冲锋</div>
+<span class="bold">熔岩妖女</span> 保护<span class="bold">炎狱魔法师</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  86</span> 伤害 (1918 > 1832)<br />
+<span class="bold">骑士·指挥</span> 移到前排.<br />
+<span class="bold">骑士·指挥</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">炎狱魔法师</span><img src="./image/icon/skill_021z.png" class="vcent"/>星云陨落</div>
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (2058 > 2011)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">冥府·格斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (2011 > 1964)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1964 > 1917)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">守护者·艾亚托斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1917 > 1870)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1870 > 1823)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1823 > 1776)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1776 > 1729)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">守护者·艾亚托斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1729 > 1682)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1682 > 1635)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">光羽·玛特</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1635 > 1588)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1588 > 1541)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1541 > 1494)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1494 > 1447)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1447 > 1400)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1400 > 1353)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">光羽·玛特</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1353 > 1306)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">守护者·艾亚托斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1306 > 1259)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">光羽·玛特</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1259 > 1212)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1212 > 1165)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1165 > 1118)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">光羽·玛特</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1118 > 1071)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">守护者·艾亚托斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1071 > 1024)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">冥府·格斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (1024 > 977)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">守护者·艾亚托斯</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  47</span> 伤害 (977 > 930)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">椿姬·提泰妮娅</span><span class="support"> 自动回复 <span class="bold">154 SP</span></span> (768 > 768)<br />
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">守护者·艾亚托斯</span><span class="support"> 自动回复 <span class="bold">59 SP</span></span> (233 > 292)<br />
+<span class="charge"><span class="bold">守护者·艾亚托斯</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(930 > 1273)<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1273 > 1616)<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1616 > 1959)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">熔岩妖女</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1959 > 1831)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">光羽·玛特</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1831 > 1703)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1703 > 1575)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1575 > 1447)<br />
+<span class="bold">骑士·指挥</span> 保护<span class="bold">椿姬·提泰妮娅</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1447 > 1319)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">骑士·指挥</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1319 > 1191)<br />
+<span class="bold">熔岩妖女</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">光羽·玛特</span><span class="support"> 自动回复 <span class="bold">178 SP</span></span> (530 > 708)<br />
+<span class="charge"><span class="bold">光羽·玛特</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">冥府·格斯</span><span class="support"> 自动回复 <span class="bold">120 SP</span></span> (600 > 600)<br />
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">58 SP</span></span> (410 > 468)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_008.png" class="vcent"/>清醒</div>
+<span class="bold">炎狱弓手</span> <span class="recover">复活</span>!<br />
+<span class="bold">炎狱弓手</span> <span class="recover">回复了 <span class="bold">27 HP</span></span>(0 > 27)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">光羽·玛特</span><img src="./image/icon/skill_062x.png" class="vcent"/>魔力持续愈合</div>
+<span class="bold">守护者·艾亚托斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">椿姬·提泰妮娅</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">冥府·格斯</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">骑士·指挥</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">光羽·玛特</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-100/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">熔岩侍女</span><span class="support"> 自动回复 <span class="bold">121 SP</span></span> (1013 > 1134)<br />
+<span class="charge"><span class="bold">熔岩侍女</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">炎狱魔法师</span><span class="support"> 自动回复 <span class="bold">179 SP</span></span> (586 > 765)<br />
+<span class="charge"><span class="bold">炎狱魔法师</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>音波剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  57</span> 伤害 (1832 > 1775)<br />
+<span class="bold">熔岩妖女</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱魔法师</span></span> 受到<span class='dmg bold'>  62</span> 伤害 (113 > 51)<br />
+<span class="bold">炎狱魔法师</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  76</span> 伤害 (472 > 396)<br />
+<span class="bold">熔岩侍女</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱弓手</span></span> 受到<span class='dmg bold'>  225</span> 伤害 (27 > -198)<br />
+<span class="bold">炎狱弓手</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  148</span> 伤害 (185 > 37)<br />
+<span class="bold">爆炎少女</span> SPD 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  85</span> 伤害 (1734 > 1649)<br />
+<span class="bold">陨石龟(A)</span> SPD 下降 50%<br />
+<span class="dmg"><span class="bold">炎狱弓手</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">骑士·指挥</span><span class="support"> 自动回复 <span class="bold">78 SP</span></span> (250 > 260)<br />
+<span class="charge"><span class="bold">骑士·指挥</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">椿姬·提泰妮娅</span><span class="support"> 自动回复 <span class="bold">230 SP</span></span> (738 > 768)<br />
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲散射</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (1775 > 1247)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">炎狱魔法师</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (51 > -477)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩侍女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (396 > -132)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">爆炎少女</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (37 > -491)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  528</span> 伤害 (1649 > 1121)<br />
+<span class="dmg"><span class="bold">炎狱魔法师</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">熔岩侍女</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">爆炎少女</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_013b.png" class="vcent"/>渐渐回复</div>
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1191 > 1534)<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1534 > 1877)<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">343 HP</span></span>(1877 > 2220)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">骑士·指挥</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1121 > 993)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (1247 > 1119)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (993 > 865)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (865 > 737)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (737 > 609)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  128</span> 伤害 (609 > 481)<br />
+<span class="bold">骑士·指挥</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-60/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_colosseum.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_411fe.gif);background-repeat:no-repeat;background-position:73px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_shujing_lady.gif);background-repeat:no-repeat;background-position:52px 46px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_131ma.gif);background-repeat:no-repeat;background-position:32px 68px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_311fe.gif);background-repeat:no-repeat;background-position:13px 116px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_111fe.gif);background-repeat:no-repeat;background-position:119px 49px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:352px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:368px 56px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:384px 96px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:400px 136px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_112fe.gif);background-repeat:no-repeat;background-position:263px 18px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/Kame.gif);background-repeat:no-repeat;background-position:273px 85px;">
+</div></div></div></div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">守护者·艾亚托斯</span>
+<div class="hpsp">
+<span class="recover">HP : 950/1107</span><br />
+<span class="support">SP : 92/297</span>
+</div>
+<span class="bold">椿姬·提泰妮娅</span>
+<div class="hpsp">
+<span class="recover">HP : 3213/3555</span><br />
+<span class="support">SP : 738/768</span>
+</div>
+<span class="bold">冥府·格斯</span>
+<div class="hpsp">
+<span class="recover">HP : 1278/1499</span><br />
+<span class="support">SP : 300/600</span>
+</div>
+<span class="bold">光羽·玛特</span>
+<div class="hpsp">
+<span class="recover">HP : 695/761</span><br />
+<span class="support">SP : 408/891</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">骑士·指挥</span>
+<div class="hpsp">
+<span class="recover">HP : 2220/2279</span><br />
+<span class="support">SP : 180/260</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">熔岩妖女</span>
+<div class="hpsp">
+<span class="recover">HP : 1119/2578</span><br />
+<span class="support">SP : 479/567</span>
+</div>
+<span class="bold">陨石龟(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 481/2314</span><br />
+<span class="support">SP : 418/579</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">炎狱魔法师</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/641</span><br />
+<span class="dmg">SP : 765/1786</span>
+</div>
+<span class="bold dmg">熔岩侍女</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1000</span><br />
+<span class="dmg">SP : 1134/1208</span>
+</div>
+<span class="bold dmg">炎狱弓手</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1028</span><br />
+<span class="dmg">SP : 83/255</span>
+</div>
+<span class="bold dmg">爆炎少女</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/1037</span><br />
+<span class="dmg">SP : 364/827</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">冥府·格斯</span><span class="support"> 自动回复 <span class="bold">180 SP</span></span> (300 > 480)<br />
+<span class="charge"><span class="bold">冥府·格斯</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">守护者·艾亚托斯</span><span class="support"> 自动回复 <span class="bold">89 SP</span></span> (92 > 181)<br />
+<span class="charge"><span class="bold">守护者·艾亚托斯</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>20/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">陨石龟(A)</span><span class="support"> 自动回复 <span class="bold">58 SP</span></span> (418 > 476)<br />
+<div class="u"><span class="bold">陨石龟(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>毒气</div>
+<span class="bold">守护者·艾亚托斯</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">椿姬·提泰妮娅</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">冥府·格斯</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">光羽·玛特</span><span class="spdmg">中毒了</span> !<br />
+<span class="bold">骑士·指挥</span><span class="spdmg">中毒了</span> !<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">椿姬·提泰妮娅</span><span class="support"> 自动回复 <span class="bold">230 SP</span></span> (738 > 768)<br />
+<span class="spdmg"><span class="bold">椿姬·提泰妮娅</span> 由于中毒受到 <span class="bold">395</span> 伤害.
+(3213 > 2818)</span><br />
+<span class="charge"><span class="bold">椿姬·提泰妮娅</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">冥府·格斯</span><img src="./image/icon/skill_077z.png" class="vcent"/>噬魂剑</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  186</span> 伤害 (481 > 295)<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  99</span> 伤害 (1119 > 1020)<br />
+<span class="bold">熔岩妖女</span> MDEF 下降 50%<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">陨石龟(A)</span></span> 受到<span class='dmg bold'>  559</span> 伤害 (295 > -264)<br />
+<span class="bold">陨石龟(A)</span> MDEF 下降 50%<br />
+<span class="dmg"><span class="bold">陨石龟(A)</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="support">* </span><span class="bold">熔岩妖女</span><span class="support"> 自动回复 <span class="bold">57 SP</span></span> (479 > 536)<br />
+<span class="charge"><span class="bold">熔岩妖女</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="support">* </span><span class="bold">光羽·玛特</span><span class="support"> 自动回复 <span class="bold">267 SP</span></span> (408 > 675)<br />
+<span class="spdmg"><span class="bold">光羽·玛特</span> 由于中毒受到 <span class="bold">104</span> 伤害.
+(695 > 591)</span><br />
+<span class="charge"><span class="bold">光羽·玛特</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">椿姬·提泰妮娅</span><img src="./image/icon/skill_008.png" class="vcent"/>异常恢复</div>
+<span class="bold">守护者·艾亚托斯</span>的 <span class="spdmg">中毒</span> 被治愈.<br />
+<span class="bold">守护者·艾亚托斯</span> <span class="recover">回复了 <span class="bold">192 HP</span></span>(950 > 1107)<br />
+<span class="bold">椿姬·提泰妮娅</span>的 <span class="spdmg">中毒</span> 被治愈.<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">192 HP</span></span>(2818 > 3010)<br />
+<span class="bold">冥府·格斯</span>的 <span class="spdmg">中毒</span> 被治愈.<br />
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">192 HP</span></span>(1278 > 1470)<br />
+<span class="bold">光羽·玛特</span>的 <span class="spdmg">中毒</span> 被治愈.<br />
+<span class="bold">光羽·玛特</span> <span class="recover">回复了 <span class="bold">192 HP</span></span>(591 > 761)<br />
+<span class="bold">骑士·指挥</span>的 <span class="spdmg">中毒</span> 被治愈.<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">192 HP</span></span>(2220 > 2279)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">光羽·玛特</span><img src="./image/icon/skill_008.png" class="vcent"/>异常恢复</div>
+<span class="bold">守护者·艾亚托斯</span> <span class="recover">回复了 <span class="bold">145 HP</span></span>(1107 > 1107)<br />
+<span class="bold">椿姬·提泰妮娅</span> <span class="recover">回复了 <span class="bold">145 HP</span></span>(3010 > 3155)<br />
+<span class="bold">冥府·格斯</span> <span class="recover">回复了 <span class="bold">145 HP</span></span>(1470 > 1499)<br />
+<span class="bold">光羽·玛特</span> <span class="recover">回复了 <span class="bold">145 HP</span></span>(761 > 761)<br />
+<span class="bold">骑士·指挥</span> <span class="recover">回复了 <span class="bold">145 HP</span></span>(2279 > 2279)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">守护者·艾亚托斯</span><img src="./image/icon/item_042.png" class="vcent"/>穿甲射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  563</span> 伤害 (1020 > 457)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  563</span> 伤害 (457 > -106)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">熔岩妖女</span></span> 受到<span class='dmg bold'>  563</span> 伤害 (-106 > -669)<br />
+<span class="dmg"><span class="bold">熔岩妖女</span> 被打倒.</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s4"></a>
+<span style="font-size:200%">猛毒の風[2位] 胜利!</span><br />
+<tr><td class="teams">
+残留HP : 8801/9201<br />
+存活 : 5/5<br />
+总伤害 : 10777<br />
+</td><td class="teams">残留HP : 0/6284<br />
+存活 : 0/5<br />
+总伤害 : 3178<br />
+</td></tr>
+</tbody></table>

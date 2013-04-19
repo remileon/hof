@@ -1,0 +1,887 @@
+1363540902834861
+Catastrophy<>猿猴的愤怒
+1<>5
+95<>26.8
+0
+63
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">猿猴的愤怒</div>
+总级别 : 134<br>
+平均级别 : 26.8<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 95<br>
+平均级别 : 95<br>
+总HP : 2800/2800</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:78px 1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:44px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:25px 134px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 250/250</span>
+</div>
+<span class="bold">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 250/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 250/250</span>
+</div>
+<span class="bold">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 250/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2800/2800</span><br />
+<span class="support">SP : 827/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉防护</div>
+<span class="support"><span class="bold">香蕉猴(A)</span> got barriered!</span><br />
+<span class="support"><span class="bold">香蕉猴(B)</span> got barriered!</span><br />
+<span class="support"><span class="bold">猴王</span> got barriered!</span><br />
+<span class="support"><span class="bold">香蕉猴(C)</span> got barriered!</span><br />
+<span class="support"><span class="bold">香蕉猴(D)</span> got barriered!</span><br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2800 > 2794)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2794 > 2788)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2788 > 2782)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2782 > 2776)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2776 > 2770)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2770 > 2764)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2764 > 2758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2758 > 2752)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2752 > 2746)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2746 > 2740)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2740 > 2734)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2734 > 2728)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2728 > 2722)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2722 > 2716)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2716 > 2710)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2710 > 2704)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2704 > 2698)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2698 > 2692)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2692 > 2686)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2686 > 2680)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2680 > 2674)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:78px 1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:44px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:25px 134px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 150/250</span>
+</div>
+<span class="bold">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 150/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 200/250</span>
+</div>
+<span class="bold">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 150/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 2674/2800</span><br />
+<span class="support">SP : 677/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2674 > 2649)<br />
+<span class="bold">香蕉猴(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2649 > 2638)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2638 > 2627)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2627 > 2616)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2616 > 2610)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2610 > 2604)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2604 > 2598)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2598 > 2573)<br />
+<span class="bold">香蕉猴(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2573 > 2548)<br />
+<span class="bold">香蕉猴(D)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2548 > 2523)<br />
+<span class="bold">香蕉猴(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  45</span> 伤害 (2523 > 2478)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2478 > 2453)<br />
+<span class="bold">香蕉猴(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:78px 1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:44px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:25px 134px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 100/250</span>
+</div>
+<span class="bold">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 50/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 100/250</span>
+</div>
+<span class="bold">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 100/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2453/2800</span><br />
+<span class="support">SP : 377/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2453 > 2428)<br />
+<span class="bold">香蕉猴(D)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2428 > 2403)<br />
+<span class="bold">香蕉猴(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2403 > 2397)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2397 > 2391)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2391 > 2385)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2385 > 2379)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2379 > 2373)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2373 > 2367)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2367 > 2356)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2356 > 2345)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  11</span> 伤害 (2345 > 2334)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (??? > ???)<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2334 > 2328)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2328 > 2322)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2322 > 2316)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2316 > 2310)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2310 > 2304)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2304 > 2298)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:78px 1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:44px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:25px 134px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 50/250</span>
+</div>
+<span class="bold">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 0/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 0/250</span>
+</div>
+<span class="bold">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 0/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2298/2800</span><br />
+<span class="support">SP : 127/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2298 > 2292)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2292 > 2286)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2286 > 2280)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  45</span> 伤害 (2280 > 2235)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(B)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(B)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(C)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(A)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(D)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(D)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">猴王</span>(??? > ???)吸取 <span class="support"><span class="bold">461</span> SP</span>(117 > 578)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(B)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2235 > 2210)<br />
+<span class="bold">香蕉猴(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2210 > 2204)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2204 > 2198)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2198 > 2192)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:78px 1px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:65px 34px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:44px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:25px 134px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 64/250</span>
+</div>
+<span class="bold">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 14/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 14/250</span>
+</div>
+<span class="bold">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 64/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 2192/2800</span><br />
+<span class="support">SP : 578/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(D)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2192 > 2167)<br />
+<span class="bold">香蕉猴(D)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2167 > 2142)<br />
+<span class="bold">香蕉猴(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(A)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (400 > 400)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(D)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (400 > 400)<br />
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(B)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (400 > 400)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(D)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (400 > -1546)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(B)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (400 > -1546)<br />
+<span class="dmg"><span class="bold">香蕉猴(B)</span> 被打倒.</span><br />
+<span class="bold">香蕉猴(B)</span> 掉落了<img src="./image/icon/banana.png" class="vcent"/>
+<span class="bold u">香蕉</span>.<br />
+<span class="dmg"><span class="bold">香蕉猴(D)</span> 被打倒.</span><br />
+存活者获得 400 经验.<br />
+Catastrophy 获得 $&nbsp;200.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  45</span> 伤害 (2142 > 2097)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(C)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(14 > 78)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(A)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(A)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(A)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(14 > 78)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">猴王</span> <span class="recover">回复了 <span class="bold">277 HP</span></span>(??? > ???)<br />
+<span class="bold">猴王</span> <span class="support">回复了 <span class="bold">98 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(A)</span></span> 受到<span class='dmg bold'>  3243</span> 伤害 (400 > -2843)<br />
+<span class="dmg"><span class="bold">香蕉猴(A)</span> 被打倒.</span><br />
+存活者获得 200 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2097 > 2091)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2091 > 2085)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (2085 > 2079)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>召唤奴隶</div>
+<img src="./image/char/mon_021.gif" class="vcent"><span class="bold">香蕉猴(E)</span> 加入了队伍.<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-10/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s5"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s4"><<</a>
+<a href="#s6">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:84px 4px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:73px 33px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_008r.gif);background-repeat:no-repeat;background-position:49px 49px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:46px 82px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:38px 118px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:23px 139px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 78/250</span>
+</div>
+<span class="bold dmg">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 14/250</span>
+</div>
+<span class="bold">猴王</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 28/250</span>
+</div>
+<span class="bold dmg">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 14/250</span>
+</div>
+<span class="bold">香蕉猴(E)</span>
+<div class="hpsp">
+<span class="recover">HP : 627/627</span><br />
+<span class="support">SP : 392/392</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2079/2800</span><br />
+<span class="support">SP : 128/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">香蕉猴(E)</span>(392 > 0)吸取 <span class="support"><span class="bold">461</span> SP</span>(118 > 579)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(C)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(28 > 92)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(E)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(E)</span> <span class="recover">回复了 <span class="bold">200 HP</span></span>(627 > 627)<br />
+<span class="bold">香蕉猴(E)</span> <span class="support">回复了 <span class="bold">80 SP</span></span>(0 > 80)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">猴王</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  45</span> 伤害 (2079 > 2034)<br />
+<span class="bold">猴王</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-6/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(E)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  34</span> 伤害 (2034 > 2000)<br />
+<span class="bold">香蕉猴(E)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉火箭</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  25</span> 伤害 (2000 > 1975)<br />
+<span class="bold">香蕉猴(C)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(E)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (627 > -1319)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">猴王</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(E)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-1319 > -3265)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(E)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-3265 > -5211)<br />
+<span class="dmg"><span class="bold">猴王</span> 被打倒.</span><br />
+<span class="bold">猴王</span> 掉落了<img src="./image/icon/banana.png" class="vcent"/>
+<span class="bold u">黄金香蕉</span>.<br />
+<span class="dmg"><span class="bold">香蕉猴(E)</span> 被打倒.</span><br />
+<span class="bold">香蕉猴(E)</span> 掉落了<img src="./image/icon/banana.png" class="vcent"/>
+<span class="bold u">香蕉</span>.<br />
+存活者获得 3976 经验.<br />
+Catastrophy 获得 $&nbsp;1,320.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+攻击无效.<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  0</span> 伤害 (400 > 400)<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(C)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(42 > 106)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1975 > 1969)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1969 > 1963)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  6</span> 伤害 (1963 > 1957)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s6"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s5"><<</a>
+<a href="#s7">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_jungle.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:82px 9px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:69px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_021.gif);background-repeat:no-repeat;background-position:38px 101px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:29px 142px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold dmg">香蕉猴(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 78/250</span>
+</div>
+<span class="bold dmg">香蕉猴(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 14/250</span>
+</div>
+<span class="bold dmg">猴王</span>
+<div class="hpsp">
+<span class="dmg">HP : ????/????</span><br />
+<span class="dmg">SP : ????/????</span>
+</div>
+<span class="bold">香蕉猴(C)</span>
+<div class="hpsp">
+<span class="recover">HP : 400/400</span><br />
+<span class="support">SP : 56/250</span>
+</div>
+<span class="bold dmg">香蕉猴(D)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/400</span><br />
+<span class="dmg">SP : 14/250</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1957/2800</span><br />
+<span class="support">SP : 129/827</span>
+</div>
+</td><td style="width:50%">
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_037.png" class="vcent"/>能量抢夺</div>
+ 从 <span class="bold">香蕉猴(C)</span>(56 > 0)吸取 <span class="support"><span class="bold">461</span> SP</span>(119 > 580)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">香蕉猴(C)</span><img src="./image/icon/banana.png" class="vcent"/>香蕉回复</div>
+<span class="bold">香蕉猴(C)</span> <span class="recover">回复了 <span class="bold">147 HP</span></span>(400 > 400)<br />
+<span class="bold">香蕉猴(C)</span> <span class="support">回复了 <span class="bold">64 SP</span></span>(0 > 64)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (400 > -1546)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-1546 > -3492)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-3492 > -5438)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-5438 > -7384)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">香蕉猴(C)</span></span> 受到<span class='dmg bold'>  1946</span> 伤害 (-7384 > -9330)<br />
+<span class="dmg"><span class="bold">香蕉猴(C)</span> 被打倒.</span><br />
+存活者获得 200 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s7"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 843<br />
+</td><td class="teams">残留HP : 1957/2800<br />
+存活 : 1/1<br />
+总伤害 : 26595<br />
+总经验值 : 4776<br />
+金钱 : $&nbsp;1,720<br />
+<div class="bold">Items</div>
+<img src="./image/icon/banana.png" class="vcent">香蕉 x 2<br />
+<img src="./image/icon/banana.png" class="vcent">黄金香蕉 x 1<br />
+</td></tr>
+</tbody></table>

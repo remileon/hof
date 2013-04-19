@@ -1,0 +1,1722 @@
+1363884609204814
+Catastrophy<>食人魔军团
+3<>5
+76.3<>65.4
+0
+87
+
+<table style="width:100%;" cellspacing="0"><tbody>
+<tr><td class="teams"><div class="bold">食人魔军团</div>
+总级别 : 327<br>
+平均级别 : 65.4<br>
+总HP : ????/????</td><td class="teams ttd1"><div class="bold">Catastrophy</div>
+总级别 : 229<br>
+平均级别 : 76.3<br>
+总HP : 6166/6166</td></tr><tr><td colspan="2" class="btl_img">
+<a name="s0"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<<<a href="#s1">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:52px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_012.gif);background-repeat:no-repeat;background-position:369px 81px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 900/900</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 900/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2900/2900</span><br />
+<span class="support">SP : 861/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold">Memoria</span>
+<div class="hpsp">
+<span class="recover">HP : 964/964</span><br />
+<span class="support">SP : 156/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>70/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_066.png" class="vcent"/>暗之光</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  50</span> 伤害 (2302 > 2252)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Memoria</span></span> 受到<span class='dmg bold'>  135</span> 伤害 (964 > 829)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  50</span> 伤害 (2252 > 2202)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="charge"><span class="bold">Memoria</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>0/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_062x.png" class="vcent"/>双重持续愈合</div>
+<span class="bold">Pumpkin</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Onioniony</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Memoria</span><span class="recover"> HP 回复了+10%</span><br />
+<span class="bold">Memoria</span><span class="support"> SP 回复了+10%</span><br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Pumpkin</span>(2202 > 1981)吸取 <span class="recover"><span class="bold">221</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Pumpkin</span>(1981 > 1760)吸取 <span class="recover"><span class="bold">221</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>嚎叫</div>
+<span class="bold">Pumpkin</span> STR 下降 30%<br />
+<span class="bold">Onioniony</span> STR 下降 30%<br />
+<span class="bold">Memoria</span> STR 下降 30%<br />
+<span class="bold">食人魔伊桑(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>嚎叫</div>
+<span class="bold">Pumpkin</span> STR 下降 30%<br />
+<span class="bold">Onioniony</span> STR 下降 30%<br />
+<span class="bold">Memoria</span> STR 下降 30%<br />
+<span class="bold">食人魔伊桑(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Memoria</span><img src="./image/icon/skill_057.png" class="vcent"/>友方强化</div>
+<span class="dmg"><span class="bold">Memoria</span> sacrifice <span class="bold">3856</span> HP</span>
+(829 > -3027)</span><br />
+<span class="bold">Pumpkin</span> STR 提升 60%<br />
+<span class="bold">Pumpkin</span> INT 提升 60%<br />
+<span class="bold">Pumpkin</span> SPD 提升 60%<br />
+<span class="bold">Pumpkin</span> ATK 提升 60%<br />
+<span class="bold">Pumpkin</span> MATK 提升 60%<br />
+<span class="bold">Onioniony</span> STR 提升 60%<br />
+<span class="bold">Onioniony</span> INT 提升 60%<br />
+<span class="bold">Onioniony</span> SPD 提升 60%<br />
+<span class="bold">Onioniony</span> ATK 提升 60%<br />
+<span class="bold">Onioniony</span> MATK 提升 60%<br />
+<span class="dmg"><span class="bold">Memoria</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2900 > 2731)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2731 > 2562)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2562 > 2393)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2393 > 2224)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2224 > 2055)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2055 > 1886)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1886 > 2176)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (711 > 797)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s1"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s0"><<</a>
+<a href="#s2">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:52px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 850/900</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 850/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2300/2300</span><br />
+<span class="support">SP : 200/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2176/2900</span><br />
+<span class="support">SP : 647/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1760/2302</span><br />
+<span class="support">SP : 1080/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 56/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1760 > 1990)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1080 > 1233)<br />
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/mat_026.png" class="vcent"/>死者转生</div>
+<span class="bold">Memoria</span> <span class="recover">复活</span>!<br />
+<span class="bold">Memoria</span> <span class="recover">回复了 <span class="bold">580 HP</span></span>(0 > 580)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-150/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Memoria</span>(580 > 166)吸取 <span class="recover"><span class="bold">414</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Pumpkin</span>(1990 > 1769)吸取 <span class="recover"><span class="bold">221</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (2176 > 2145)<br />
+<span class="bold">Onioniony</span> ATK 下降 50%<br />
+<span class="bold">Onioniony</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (2145 > 2114)<br />
+<span class="bold">Onioniony</span> ATK 下降 50%<br />
+<span class="bold">Onioniony</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2114 > 2404)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (647 > 733)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2404 > 2235)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2235 > 2066)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2066 > 1897)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1897 > 1728)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Memoria</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1728 > 1559)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1559 > 1390)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Memoria</span><span class="recover"> 自动回复 <span class="bold">96 HP</span></span> (166 > 262)<br />
+<span class="support">* </span><span class="bold">Memoria</span><span class="support"> 自动回复 <span class="bold">16 SP</span></span> (56 > 72)<br />
+<div class="u"><span class="bold">Memoria</span><img src="./image/icon/skill_057.png" class="vcent"/>毁灭</div>
+<span class="dmg"><span class="bold">Memoria</span> sacrifice <span class="bold">580</span> HP</span>
+(262 > -318)</span><br />
+<span class="bold">食人魔伊桑(A)</span> 保护<span class="bold">食人魔伊莱扎(B)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2300 > 2292)<br />
+<span class="bold">食人魔伊桑(A)</span> 保护<span class="bold">食人魔伊莱扎(A)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2292 > 2284)<br />
+<span class="bold">食人魔伊桑(B)</span> 保护<span class="bold">食人魔埃德加</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2300 > 2292)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  8</span> 伤害 (2292 > 2284)<br />
+<span class="dmg"><span class="bold">Memoria</span> 被打倒.</span><br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1390 > 1680)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (583 > 669)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (1680 > 1649)<br />
+<span class="bold">Onioniony</span> ATK 下降 50%<br />
+<span class="bold">Onioniony</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_072.png" class="vcent"/>破坏武器</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  31</span> 伤害 (1649 > 1618)<br />
+<span class="bold">Onioniony</span> ATK 下降 50%<br />
+<span class="bold">Onioniony</span> MATK 下降 50%<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s2"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s1"><<</a>
+<a href="#s3">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:52px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 800/900</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 800/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 2284/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 2284/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<span class="charge">(蓄力)</span>
+<div class="hpsp">
+<span class="recover">HP : 1618/2900</span><br />
+<span class="support">SP : 669/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1769/2302</span><br />
+<span class="support">SP : 883/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1618 > 1601)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1769 > 1701)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1701 > 1633)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1633 > 1565)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1565 > 1497)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1601 > 1584)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1584 > 1567)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1497 > 1429)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1429 > 1361)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1361 > 1293)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1567 > 1550)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1550 > 1533)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1293 > 1225)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1225 > 1157)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (1533 > 1516)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1157 > 1089)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-16/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1089 > 1319)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (883 > 1036)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_059.png" class="vcent"/>气魄之力</div>
+<span class="bold">Onioniony</span> STR 提升 50%<br />
+<span class="bold">Onioniony</span> ATK 提升 50%<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Onioniony</span>(1516 > 1438)吸取 <span class="recover"><span class="bold">78</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Onioniony</span>(1438 > 1360)吸取 <span class="recover"><span class="bold">78</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1319 > 2302)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1360 > 2750)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2750 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (519 > 605)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (2284 > 1779)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (2284 > 1779)<br />
+<span class="bold">食人魔伊桑(B)</span> 保护<span class="bold">食人魔伊莱扎(A)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (1779 > 1274)<br />
+<span class="bold">食人魔伊桑(B)</span> 保护<span class="bold">食人魔埃德加</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (1274 > 769)<br />
+<span class="bold">食人魔伊桑(A)</span> 保护<span class="bold">食人魔埃德加</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (1779 > 1274)<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (2900 > 2625)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (2625 > 2350)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2350 > 2333)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2302 > 2234)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2234 > 2166)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2166 > 2098)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2333 > 2316)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2316 > 2299)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2098 > 2030)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2299 > 2282)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2030 > 1962)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1962 > 1894)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1894 > 1826)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2282 > 2265)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2265 > 2248)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2248 > 2231)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1826 > 1758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1758 > 1690)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-16/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1690 > 1920)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (976 > 1129)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1109 > 1305)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(255 > 402)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s3"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s2"><<</a>
+<a href="#s4">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:52px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:125px 22px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_170.gif);background-repeat:no-repeat;background-position:98px 89px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 750/900</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 750/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="recover">HP : 1274/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+<span class="bold">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 769/2300</span><br />
+<span class="support">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2231/2900</span><br />
+<span class="support">SP : 402/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 1920/2302</span><br />
+<span class="support">SP : 1305/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Onioniony</span>(2231 > 2153)吸取 <span class="recover"><span class="bold">78</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Onioniony</span>(2153 > 2075)吸取 <span class="recover"><span class="bold">78</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2075 > 2365)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (402 > 488)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1920 > 2150)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1305 > 1458)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1438 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(488 > 635)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(A)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (2365 > 2090)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊桑(B)</span><img src="./image/icon/skill_066.png" class="vcent"/>咬</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  275</span> 伤害 (2090 > 1815)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="bold">食人魔伊桑(B)</span> 保护<span class="bold">食人魔伊莱扎(A)</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (769 > 264)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (264 > -241)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (1274 > 769)<br />
+<span class="bold">食人魔伊桑(A)</span> 保护<span class="bold">食人魔埃德加</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (769 > 264)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊桑(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (264 > -241)<br />
+<span class="dmg"><span class="bold">食人魔伊桑(A)</span> 被打倒.</span><br />
+<span class="dmg"><span class="bold">食人魔伊桑(B)</span> 被打倒.</span><br />
+存活者获得 8000 经验.<br />
+Catastrophy 获得 $&nbsp;200.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2150 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1815 > 1646)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1646 > 1477)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1477 > 1308)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1308 > 1139)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2302 > 2133)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2133 > 1964)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(B)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔伊莱扎(A)</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1964 > 2302)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1139 > 2529)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(B)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Pumpkin</span>(2302 > 2081)吸取 <span class="recover"><span class="bold">221</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(B)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s4"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s3"><<</a>
+<a href="#s5">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:52px 64px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_169.gif);background-repeat:no-repeat;background-position:32px 114px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold">食人魔伊莱扎(A)</span>
+<span class="charge">(咏唱)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 700/900</span>
+</div>
+<span class="bold">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="recover">HP : 700/700</span><br />
+<span class="support">SP : 650/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+<span class="bold dmg">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2529/2900</span><br />
+<span class="support">SP : 285/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2081/2302</span><br />
+<span class="support">SP : 1470/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔伊莱扎(A)</span><img src="./image/icon/skill_062z.png" class="vcent"/>生命吸收</div>
+ 从 <span class="bold">Onioniony</span>(2529 > 2451)吸取 <span class="recover"><span class="bold">78</span> HP</span>(700 > 700)<br />
+<span class="bold">食人魔伊莱扎(A)</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-40/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2451 > 2741)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (285 > 371)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (700 > 195)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (195 > -310)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (700 > 195)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(B)</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (-310 > -815)<br />
+<span class="dmg"><span class="bold">食人魔伊莱扎(B)</span> 被打倒.</span><br />
+存活者获得 4127 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2081 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1470 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2741 > 2572)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2572 > 2403)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2403 > 2234)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2234 > 2065)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2065 > 1896)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1896 > 1727)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(21 > 168)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1727 > 2017)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (168 > 254)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔伊莱扎(A)</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (195 > -646)<br />
+<span class="dmg"><span class="bold">食人魔伊莱扎(A)</span> 被打倒.</span><br />
+存活者获得 4000 经验.<br />
+Catastrophy 获得 $&nbsp;100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(154 > 301)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2017 > 2307)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (301 > 387)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(387 > 534)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2307 > 2138)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2138 > 1969)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1969 > 1800)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1800 > 1631)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1631 > 1462)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1462 > 1293)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s5"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s4"><<</a>
+<a href="#s6">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+<span class="bold dmg">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 1293/2900</span><br />
+<span class="support">SP : 184/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(2302 > 2302)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1293 > 2683)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2683 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (184 > 270)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (??? > ???)<br />
+存活者获得 211 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2900 > 2731)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2731 > 2562)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2562 > 2393)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2393 > 2224)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2224 > 2055)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2055 > 1886)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1470 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(170 > 317)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1886 > 2176)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (317 > 403)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(53 > 200)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2176 > 2466)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (200 > 286)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2466 > 2297)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2297 > 2128)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2128 > 1959)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1959 > 1790)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1790 > 1621)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1621 > 1452)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (??? > ???)<br />
+存活者获得 211 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(2302 > 2302)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1452 > 2842)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s6"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s5"><<</a>
+<a href="#s7">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+<span class="bold dmg">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2842/2900</span><br />
+<span class="support">SP : 186/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1470/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2842 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (186 > 272)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2900 > 2731)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2731 > 2562)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2562 > 2393)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2393 > 2224)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2224 > 2055)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2055 > 1886)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (??? > ???)<br />
+存活者获得 211 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1470 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(172 > 319)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1886 > 2176)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (319 > 405)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(405 > 552)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2176 > 2007)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2007 > 1838)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1838 > 1669)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1669 > 1500)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1500 > 1331)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1331 > 1162)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(202 > 349)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1162 > 1452)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (349 > 435)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>40/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>88/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_013c.png" class="vcent"/>群体愈合</div>
+<span class="bold">Pumpkin</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(2302 > 2302)<br />
+<span class="bold">Onioniony</span> <span class="recover">回复了 <span class="bold">1390 HP</span></span>(1452 > 2842)<br />
+<span class="bold">Pumpkin</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-30/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s7"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s6"><<</a>
+<a href="#s8">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<span class="charge">(charging)</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+<span class="bold dmg">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2842/2900</span><br />
+<span class="support">SP : 85/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2302/2302</span><br />
+<span class="support">SP : 1470/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_077z.png" class="vcent"/>穿刺</div>
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2842 > 2673)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2673 > 2504)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2504 > 2335)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2335 > 2166)<br />
+<span class="bold">Onioniony</span> 保护<span class="bold">Pumpkin</span>!<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (2166 > 1997)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  169</span> 伤害 (1997 > 1828)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-12/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (1828 > 2118)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (85 > 171)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (??? > ???)<br />
+存活者获得 211 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1470 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(71 > 218)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2302 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2118 > 2408)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (218 > 304)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>80/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077.png" class="vcent"/>破防斩</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  841</span> 伤害 (??? > ???)<br />
+存活者获得 211 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(204 > 351)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2302 > 2234)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2234 > 2166)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2408 > 2391)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2391 > 2374)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2374 > 2357)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2357 > 2340)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2340 > 2323)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2323 > 2306)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2306 > 2289)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2166 > 2098)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2098 > 2030)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2289 > 2272)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2272 > 2255)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2255 > 2238)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2238 > 2221)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2221 > 2204)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-16/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2030 > 2260)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(351 > 498)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2204 > 2494)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (498 > 584)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td colspan="2" class="btl_img">
+<a name="s8"></a>
+<div style="width:100%;hight:100%;position:relative;">
+<div style="position:absolute;bottom:0px;right:0px;">
+<a href="#s7"><<</a>
+<a href="#s9">>></a>
+</div><div style="position:relative;left:50%;margin-left:-240px;width:480;height:200;height:200px;background-image:url(./image/other/bg_mount.gif);background-repeat:no-repeat;background-position:0px 0px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_168.gif);background-repeat:no-repeat;background-position:68px 10px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:56px 76px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:36px 126px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:149px 42px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char/mon_145.gif);background-repeat:no-repeat;background-position:122px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_311ma.gif);background-repeat:no-repeat;background-position:346px 16px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_145.gif);background-repeat:no-repeat;background-position:389px 109px;">
+<div style="width:480;height:200;height:200px;background-image:url(./image/char_rev/mon_132fe.gif);background-repeat:no-repeat;background-position:280px 55px;">
+</div></div></div></div></div></div></div></div></div></div></td></tr><tr><td class="ttd2 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">食人魔埃德加</span>
+<div class="hpsp">
+<span class="recover">HP : ????/????</span><br />
+<span class="support">SP : ????/????</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+<span class="bold dmg">食人魔伊莱扎(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/700</span><br />
+<span class="dmg">SP : 650/900</span>
+</div>
+</td><td style="width:50%">
+<span class="bold dmg">食人魔伊桑(A)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+<span class="bold dmg">食人魔伊桑(B)</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/2300</span><br />
+<span class="dmg">SP : 140/200</span>
+</div>
+</td></tr></tbody></table>
+</td><td class="ttd1 break">
+<table style="width:100%"><tbody><tr><td style="width:50%">
+<span class="bold">Onioniony</span>
+<div class="hpsp">
+<span class="recover">HP : 2494/2900</span><br />
+<span class="support">SP : 234/861</span>
+</div>
+</td><td style="width:50%">
+<span class="bold">Pumpkin</span>
+<div class="hpsp">
+<span class="recover">HP : 2260/2302</span><br />
+<span class="support">SP : 1530/1530</span>
+</div>
+<span class="bold dmg">Memoria</span>
+<div class="hpsp">
+<span class="dmg">HP : 0/964</span><br />
+<span class="dmg">SP : 71/156</span>
+</div>
+</td></tr></tbody></table>
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (2260 > 2302)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(234 > 381)<br />
+</td></tr>
+<tr><td class="ttd2">
+<span class="charge"><span class="bold">食人魔埃德加</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>90/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/item_042.png" class="vcent"/>飓风射击</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2302 > 2234)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2234 > 2166)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2494 > 2477)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2477 > 2460)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2166 > 2098)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2460 > 2443)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2098 > 2030)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (2030 > 1962)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2443 > 2426)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1962 > 1894)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1894 > 1826)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1826 > 1758)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1758 > 1690)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Onioniony</span></span> 受到<span class='dmg bold'>  17</span> 伤害 (2426 > 2409)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1690 > 1622)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">Pumpkin</span></span> 受到<span class='dmg bold'>  68</span> 伤害 (1622 > 1554)<br />
+<span class="bold">食人魔埃德加</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-16/100)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2409 > 2699)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (381 > 467)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1554 > 1784)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(467 > 614)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+存活者获得 632 经验.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Pumpkin</span><span class="recover"> 自动回复 <span class="bold">230 HP</span></span> (1784 > 2014)<br />
+<span class="support">* </span><span class="bold">Pumpkin</span><span class="support"> 自动回复 <span class="bold">153 SP</span></span> (1530 > 1530)<br />
+<span class="charge"><span class="bold">Pumpkin</span> 开始咏唱.</span>(100<span style="font-size:80%"> >>> </span>60/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+<div class="u"><span class="bold">食人魔埃德加</span><img src="./image/icon/skill_019.png" class="vcent"/>恢复精神</div>
+<span class="bold">食人魔埃德加</span> <span class="support">回复了 <span class="bold">180 SP</span></span>(??? > ???)<br />
+</td><td class="ttd1"> 
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Pumpkin</span><img src="./image/icon/skill_009.png" class="vcent"/>大祝福</div>
+<span class="bold">Pumpkin</span> <span class="support">回复了 <span class="bold">196 SP</span></span>(1510 > 1530)<br />
+<span class="bold">Onioniony</span> <span class="support">回复了 <span class="bold">147 SP</span></span>(264 > 411)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<span class="recover">* </span><span class="bold">Onioniony</span><span class="recover"> 自动回复 <span class="bold">290 HP</span></span> (2699 > 2900)<br />
+<span class="support">* </span><span class="bold">Onioniony</span><span class="support"> 自动回复 <span class="bold">86 SP</span></span> (411 > 497)<br />
+<span class="charge"><span class="bold">Onioniony</span> 开始蓄力.</span>(100<span style="font-size:80%"> >>> </span>50/100)<br />
+</td></tr>
+<tr><td class="ttd2">
+</td><td class="ttd1">
+<div class="u"><span class="bold">Onioniony</span><img src="./image/icon/skill_077z.png" class="vcent"/>剑刃狂舞</div>
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg" style="font-color:#f53;"><span class="bold">食人魔埃德加</span></span> 受到<span class='dmg bold'>  505</span> 伤害 (??? > ???)<br />
+<span class="dmg"><span class="bold">食人魔埃德加</span> 被打倒.</span><br />
+存活者获得 6182 经验.<br />
+Catastrophy 获得 $&nbsp;11,100.<br />
+<span class="bold">Onioniony</span> 行动推迟了(0<span style="font-size:80%"> >>> </span>-50/100)<br />
+</td></tr>
+<tr><td colspan="2" style="text-align:center;padding:10px 0px" class="break break-top">
+<a name="s9"></a>
+<span style="font-size:200%">Catastrophy 胜利!</span><br />
+<tr><td class="teams">
+残留HP : ????/????<br />
+存活 : 0/5<br />
+总伤害 : 14421<br />
+</td><td class="teams">残留HP : 4914/6166<br />
+存活 : 2/3<br />
+总伤害 : 30328<br />
+总经验值 : 54299<br />
+金钱 : $&nbsp;11,500<br />
+</td></tr>
+</tbody></table>

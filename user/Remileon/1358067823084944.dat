@@ -1,0 +1,17 @@
+name=DeathFlag
+gender=1
+job=102
+birth=1358067823084944
+level=43
+exp=0
+statuspoint=35
+skillpoint=47
+str=10
+int=2
+dex=4
+spd=179
+luk=1
+position=front
+guard=life75
+skill=1000<>1001<>1100<>1101<>1102<>1113<>1114<>1117<>1119<>3120
+Pattern=1205<>1000|100<>0|1119<>3120

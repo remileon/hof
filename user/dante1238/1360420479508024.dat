@@ -1,0 +1,17 @@
+name=Paul
+gender=0
+job=202
+birth=1360420479508024
+level=32
+exp=2816
+statuspoint=155
+skillpoint=62
+str=2
+int=10
+dex=5
+spd=3
+luk=1
+position=back
+guard=never
+skill=1000<>1002<>3010
+Pattern=1206<>1000<>1000|20<>0<>0|3010<>1002<>1000

@@ -1,0 +1,17 @@
+name=ндндмХ
+gender=1
+job=403
+birth=1356848964473480
+level=25
+exp=4078
+statuspoint=120
+skillpoint=48
+str=2
+int=2
+dex=10
+spd=6
+luk=1
+position=back
+guard=never
+skill=2300<>2310
+Pattern=1205<>1000|28<>0|2310<>2300
